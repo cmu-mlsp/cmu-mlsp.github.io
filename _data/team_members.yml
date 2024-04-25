@@ -1,5 +1,10 @@
 - group: 0
   info: 
+  name: Rita Singh
+  photo: ritasingh.jpg
+  url: 
+- group: 0
+  info: 
   name: Bhiksha Raj
   photo: Bhiksha-Raj.jpg
   url: 
@@ -125,6 +130,6 @@
   url: https://sohail-bahmani.github.io/
 - group: 8
   info: 
-  name: Jose Portelo
+  name: Shuo Han
   photo: joseportelo.jpg
-  url: https://scholar.google.com/citations?hl=en&user=0s2lJxQAAAAJ&view_op=list_works
+  url: https://scholar.google.com/citations?user=ZV2qwR0AAAAJ&hl=en
