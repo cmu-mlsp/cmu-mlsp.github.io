@@ -1,12 +1,12 @@
 - group: 0
-  info: 
-  name: Rita Singh
-  photo: ritasingh.jpg
-  url: 
-- group: 0
-  info: 
+  info: Professor
   name: Bhiksha Raj
   photo: Bhiksha-Raj.jpg
+  url: 
+- group: 0
+  info: Research Professor
+  name: Rita Singh
+  photo: ritasingh.jpg
   url: 
 - group: 1
   info: multimodal ai
@@ -128,7 +128,7 @@
   name: Sohail Bahmani
   photo: sohail.jpg
   url: https://sohail-bahmani.github.io/
-- group: 8
+- group: 2
   info: 
   name: Shuo Han
   photo: joseportelo.jpg

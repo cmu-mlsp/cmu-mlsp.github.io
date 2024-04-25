@@ -6,11 +6,6 @@ sitemap: false
 permalink: /team/
 ---
 
-# Team Members
-(Please click the name below for the lab memeber's profile)
-
-
----
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
