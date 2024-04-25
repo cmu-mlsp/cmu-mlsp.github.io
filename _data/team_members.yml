@@ -4,62 +4,67 @@
   photo: Bhiksha-Raj.jpg
   url: 
 - group: 1
-  info: Since 2023
+  info: multimodal ai
   name: Kashu Yamazaki
   photo: kashu_yamazaki.jpg
   url: kashu_yamazaki
 - group: 1
-  info: 
+  info: continual learning
   name: Muqiao Yang
-  photo: MuqiaoYang.jpg
+  photo: MuqiaoYang.png
   url: 
 - group: 1
-  info: 
+  info: Adversarial Robustness
   name: Ahmed Shah
   photo: ahmed.jpg
   url: 
 - group: 1
-  info: 
+  info: Weakly supervised audio
   name: Ankit Shah
-  photo: ankit.jpg
+  photo: ankit.png
   url: 
 - group: 1
-  info: 
+  info: Speech
   name: Hira Dhamyal
   photo: hira.jpg
   url: 
 - group: 1
-  info: 
+  info: Explainable AI
   name: Joseph Konan
   photo: joseph.jpg
   url: 
 - group: 1
-  info: 
+  info: Active Learning, Speech
   name: Mark Lindsey
   photo: mark.jpg
   url: 
 - group: 1
-  info: 
+  info: Vision
   name: Xiang Li
   photo: xiangli.jpg
   url: 
 - group: 1
-  info: 
+  info: Noisy learning, Vision
   name: Hao Chen
   photo: haoc.jpg
   url: 
 - group: 1
-  info: 
+  info: Audio, Speech
+  name: Soham Deshmukh
+  photo: soham.jpg
+  url: 
+- group: 1
+  info: Speech
   name: Massa
   photo: massa.jpg
   url: 
-- group: 3
-  info: 
+- group: 2
+  info: Speech
   name: Hazim Bukhari
   photo: xiangli.jpg
   url: 
-- group: 3
-  info: 
+- group: 2
+  info: Speech
   name: Dareen Alharti
   photo: haoc.jpg
   url: 
@@ -76,7 +81,7 @@
 - group: 8
   info: Meta Reality Labs
   name: Anurag Kumar
-  photo: anurag.jpg
+  photo: anurag.jpeg
   url: 
 - group: 8
   info: Google
