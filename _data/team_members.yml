@@ -66,50 +66,65 @@
 - group: 2
   info: Speech
   name: Dareen Alharti
-  photo: haoc.jpg
+  photo: dareen.png
   url: 
 - group: 8
   info: Amazon
-  name: Yang
+  name: Yang Gao
   photo: yang.jpg
-  url: 
+  url: https://www.linkedin.com/in/yang-gao-8702a981/
 - group: 8
   info: LinkedIn
   name: Abelino Jiminez
   photo: abelino.jpg
-  url: 
+  url: https://www.linkedin.com/in/abjimenez/es?originalSubdomain=cl
 - group: 8
   info: Meta Reality Labs
   name: Anurag Kumar
   photo: anurag.jpeg
-  url: 
+  url: https://anuragkr90.github.io/
 - group: 8
   info: Google
   name: Roshan Sharma
   photo: roshan.jpg
-  url: 
+  url: https://roshansh-cmu.github.io/
 - group: 8
-  info:
-  name: JD Technology Research
+  info: JD Technology Research
+  name: Wenbo Liu
   photo: wenboliu.jpg
-  url: 
+  url: https://sites.google.com/site/wenbobo87/
 - group: 8
   info: Alexa AI, Amazon
   name: Wenbo Zhao
   photo: wenbozhao.jpg
-  url: 
+  url: https://www.linkedin.com/in/waynezhaowenbo/
 - group: 8
   info: Max Planck Institute
   name: Yang Dong
   photo: yandong.jpg
-  url: 
+  url: https://ydwen.github.io/
 - group: 8
   info: 
   name: Raphael Oliver
   photo: raphael.jpg
-  url: 
+  url: https://raphaelolivier.github.io/
 - group: 8
   info: Microsoft Research
   name: Benjamin Elizalde
   photo: ben.jpg
-  url: 
+  url: https://bmartin1.github.io/
+- group: 8
+  info: Google
+  name: Sourish Chaudhuri
+  photo: sourish.png
+  url: https://research.google/people/sourish-chaudhuri/
+- group: 8
+  info: Georgia Tech
+  name: Sohail Bahmani
+  photo: sohail.jpg
+  url: https://sohail-bahmani.github.io/
+- group: 8
+  info: 
+  name: Jose Portelo
+  photo: joseportelo.jpg
+  url: https://scholar.google.com/citations?hl=en&user=0s2lJxQAAAAJ&view_op=list_works
