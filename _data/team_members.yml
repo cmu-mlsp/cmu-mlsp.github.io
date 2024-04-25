@@ -73,6 +73,11 @@
   name: Dareen Alharti
   photo: dareen.png
   url: 
+- group: 2
+  info: Speech Enhancement
+  name: Shuo Han
+  photo: shuohan.jpeg
+  url: https://scholar.google.com/citations?user=ZV2qwR0AAAAJ&hl=en
 - group: 8
   info: Amazon
   name: Yang Gao
@@ -128,8 +133,3 @@
   name: Sohail Bahmani
   photo: sohail.jpg
   url: https://sohail-bahmani.github.io/
-- group: 8
-  info: 
-  name: Shuo Han
-  photo: joseportelo.jpg
-  url: https://scholar.google.com/citations?user=ZV2qwR0AAAAJ&hl=en
