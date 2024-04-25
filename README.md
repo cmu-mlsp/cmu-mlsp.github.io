@@ -1,6 +1,27 @@
 # MLSP Group website
 
 ## Hosting on a local machine
+### Using Ruby
+
+Install Ruby and other prerequisites:
+```bash
+sudo apt-get install ruby-full build-essential zlib1g-dev
+
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+gem install jekyll bundler
+```
+
+Local build at the root of this repo:
+```bash
+bundle exec jekyll serve
+```
+Then browse to `http://localhost:4000`
+
+### Using Docker (Linux)
 You can use [this](https://hub.docker.com/repository/docker/kashu98/jekyll-serve/general) docker file to easily host this site on your local machine.
 
 ```bash
