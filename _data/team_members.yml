@@ -6,15 +6,15 @@
 - group: 0
   info: Research Professor
   name: Rita Singh
-  photo: ritasingh.jpg
+  photo: ritasingh.png
   url: 
 - group: 1
-  info: multimodal ai
+  info: Multimodal AI
   name: Kashu Yamazaki
   photo: kashu_yamazaki.jpg
   url: kashu_yamazaki
 - group: 1
-  info: continual learning
+  info: Continual Learning
   name: Muqiao Yang
   photo: MuqiaoYang.png
   url: 
@@ -66,13 +66,18 @@
 - group: 2
   info: Speech
   name: Hazim Bukhari
-  photo: xiangli.jpg
+  photo: tartan.jpg
   url: 
 - group: 2
   info: Speech
   name: Dareen Alharti
   photo: dareen.png
   url: 
+- group: 2
+  info: Speech Enhancement
+  name: Shuo Han
+  photo: shuohan.jpeg
+  url: https://scholar.google.com/citations?user=ZV2qwR0AAAAJ&hl=en
 - group: 8
   info: Amazon
   name: Yang Gao
@@ -96,7 +101,7 @@
 - group: 8
   info: JD Technology Research
   name: Wenbo Liu
-  photo: wenboliu.jpg
+  photo: wenboliu.png
   url: https://sites.google.com/site/wenbobo87/
 - group: 8
   info: Alexa AI, Amazon
@@ -116,7 +121,7 @@
 - group: 8
   info: Microsoft Research
   name: Benjamin Elizalde
-  photo: ben.jpg
+  photo: ben.png
   url: https://bmartin1.github.io/
 - group: 8
   info: Google
@@ -128,8 +133,3 @@
   name: Sohail Bahmani
   photo: sohail.jpg
   url: https://sohail-bahmani.github.io/
-- group: 2
-  info: 
-  name: Shuo Han
-  photo: joseportelo.jpg
-  url: https://scholar.google.com/citations?user=ZV2qwR0AAAAJ&hl=en

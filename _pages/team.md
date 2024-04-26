@@ -38,7 +38,7 @@ permalink: /team/
 </div>
 {% endif %}
 
----
+<!-- ---
 
 ## Researcher
 {% assign number_printed = 0 %}
@@ -69,7 +69,7 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 ---
 
@@ -138,7 +138,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-
+<!-- 
 ---
 
 ## Undergraduate Students
@@ -203,11 +203,11 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 ---
 
-## Alumni
+## Recent Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -238,6 +238,8 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+and more ...
 
 <!-- ---
 

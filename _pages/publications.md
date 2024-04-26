@@ -7,10 +7,6 @@ permalink: /publications/
 ---
 
 
-# Publications
-
----
-
 ## Conference Papers
 
 {% assign number_printed = 0 %}
