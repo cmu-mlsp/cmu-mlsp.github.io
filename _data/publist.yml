@@ -1,9 +1,2591 @@
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
+- authors: Rita Singh
+  title: 'Connecting human voice profiling to genomics: A predictive algorithm for
+    linking speech phenotypes to genetic microdeletion syndromes'
   type: 1
-  news2:
+  url: https://www.biorxiv.org/content/10.1101/2022.05.23.493126.abstract
+  venue: 'bioRxiv, doi: https://doi.org/10.1101/2022.05.23.'
+  year: 2022
+- authors: Wenbo Zhao and Rita Singh
+  title: Speech-based parameter estimation of an asymmetric vocal fold oscillation
+    model and its application in discriminating vocal fold pathologies
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9052984/
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2020
+- authors: Rita Singh
+  title: Introduction to Neural Networks
+  type: 0
+  url: null
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2020
+- authors: Rita Singh
+  title: Profiling humans from their voice
+  type: 0
+  url: https://link.springer.com/content/pdf/10.1007/978-981-13-8403-5.pdf
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Rita Singh
+  title: Feature Engineering for Profiling
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-981-13-8403-5_7
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Rita Singh
+  title: Mechanisms for Profiling
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-981-13-8403-5_8
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Rita Singh
+  title: Profiling and its facets
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-981-13-8403-5_1
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Rita Singh
+  title: Relations Between Voice and Profile Parameters
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-981-13-8403-5_3
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Rita Singh
+  title: "The Voice Signal and Its Information Content\u20142"
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-981-13-8403-5_5
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Rita Singh
+  title: "The Voice Signal and Its Information Content\u20141"
+  type: 0
+  url: null
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Rita Singh
+  title: Qualitative Aspects of the Voice Signal
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-981-13-8403-5_6
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Rita Singh
+  title: Production and perception of voice
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-981-13-8403-5_2
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Rita Singh
+  title: Reconstruction of the Human Persona in 3D from Voice, and its Reverse
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-981-13-8403-5_9
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Rita Singh
+  title: 'Applied Profiling: Uses, Reliability and Ethics'
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-981-13-8403-5_10
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Mark Lindsey and Ankit Shah and Francis Kubala and Richard M Stern
+  title: Online Active Learning For Sound Event Detection
+  type: 1
+  url: https://arxiv.org/abs/2309.14460
+  venue: arXiv preprint arXiv:2309.14460
+  year: 2023
+- authors: "Eduardo Alvarado and Nicol\xE1s Gr\xE1geda and Alejandro Luzanto and Rodrigo\
+    \ Mahu and Jorge Wuth and Laura Mendoza and Richard M Stern and N\xE9stor Becerra\
+    \ Yoma"
+  title: "Automatic Detection of Dyspnea in Real Human\u2013Robot Interaction Scenarios"
+  type: 1
+  url: https://www.mdpi.com/1424-8220/23/17/7590
+  venue: Sensors
+  year: 2023
+- authors: "Eduardo Alvarado and Nicol\xE1s Gr\xE1geda and Alejandro Luzanto and Rodrigo\
+    \ Mahu and Jorge Wuth and Laura Mendoza and Richard Stern and N\xE9stor Becerra\
+    \ Yoma"
+  title: Respiratory Distress Estimation in Human-Robot Interaction Scenario
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=4724984299873592077&hl=en&oi=scholarr
+  venue: Proceedings of the Interspeech, Dublin, Ireland
+  year: 2023
+- authors: Mark Lindsey and Tyler Vuong and Richard M Stern
+  title: Unsupervised Voice Type Discrimination Score Adaptation Using X-Vector Clusters
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10097194/
+  venue: ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2023
+- authors: Tyler Vuong and Nikhil Madaan and Rohan Panda and Richard M Stern
+  title: Investigating the Important Temporal Modulations for Deep-Learning-Based
+    Speech Activity Detection
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10022462/
+  venue: 2022 IEEE Spoken Language Technology Workshop (SLT)
+  year: 2023
+- authors: Yinghao Ma and Richard M Stern
+  title: Learnable Front Ends Based on Temporal Modulation for Music Tagging
+  type: 1
+  url: https://arxiv.org/abs/2211.15254
+  venue: arXiv preprint arXiv:2211.15254
+  year: 2022
+- authors: Mengchao Zhang and Richard M Stern and Deborah Moncrieff and Catherine
+    Palmer and Christopher A Brown
+  title: Effect of Titrated Exposure to Non-Traumatic Noise on Unvoiced Speech Recognition
+    in Human Listeners with Normal Audiological Profiles
+  type: 0
+  url: https://journals.sagepub.com/doi/abs/10.1177/23312165221117081
+  venue: arXiv preprint arXiv:2211.15254
+  year: 2022
+- authors: Tyler Vuong and Richard Stern
+  title: Improved Modulation-Domain Loss for Neural-Network-based Speech Enhancement}}
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=355497366699443368&hl=en&oi=scholarr
+  venue: Proc. Interspeech 2022
+  year: 2022
+- authors: Tyler Vuong and Mark Lindsey and Yangyang Xia and Richard Stern
+  title: 'L3DAS22: Exploring Loss Functions for 3D Speech Enhancement'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=17442646961316573710&hl=en&oi=scholarr
+  venue: 'Proc. L3DAS22: Machine Learning for 3D Audio Signal Processing'
+  year: 2022
+- authors: Tyler Vuong and Yangyang Xia and Richard M Stern
+  title: The Application of Learnable STRF Kernels to the 2021 Fearless Steps Phase-03
+    SAD Challenge.
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=9867297594650844612&hl=en&oi=scholarr
+  venue: Interspeech
+  year: 2021
+- authors: Yangyang Xia and Li-Wei Chen and Alexander Rudnicky and Richard M Stern
+  title: Temporal Context in Speech Emotion Recognition.
+  type: 1
+  url: https://www.researchgate.net/profile/Li-Wei-Chen-7/publication/354220697_Temporal_Context_in_Speech_Emotion_Recognition/links/616fe3fa750da711ac59edee/Temporal-Context-in-Speech-Emotion-Recognition.pdf
+  venue: Interspeech
+  year: 2021
+- authors: Tyler Vuong and Yangyang Xia and Richard M Stern
+  title: A modulation-domain loss for neural-network-based real-time speech enhancement
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9414965/
+  venue: ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2021
+- authors: Tyler Vuong and Yangyang Xia and Richard Stern
+  title: Learnable spectro-temporal receptive fields for robust voice type discrimination
+  type: 1
+  url: https://arxiv.org/abs/2010.09151
+  venue: arXiv preprint arXiv:2010.09151
+  year: 2020
+- authors: Jorge Wuth and Richard M Stern and Nestor Becerra Yoma
+  title: Non causal deep learning based dereverberation
+  type: 1
+  url: https://arxiv.org/abs/2009.02832
+  venue: arXiv preprint arXiv:2009.02832
+  year: 2020
+- authors: Richard M Stern and Anjali Menon
+  title: Binaural Technology for Machine Speech Recognition and Understanding
+  type: 1
+  url: https://link.springer.com/chapter/10.1007/978-3-030-00386-9_18
+  venue: The Technology of Binaural Understanding
+  year: 2020
+- authors: Richard M Stern and H Steven Colburn and Leslie R Bernstein and Constantine
+    Trahiotis
+  title: The fMRI Data of Thompson et al.(2006) do not constrain how the human midbrain
+    represents interaural time delay
+  type: 1
+  url: https://link.springer.com/article/10.1007/s10162-019-00715-5
+  venue: Journal of the Association for Research in Otolaryngology
+  year: 2019
+- authors: "Jos\xE9 Novoa and Rodrigo Mahu and Alejandro D\xEDaz and Jorge Wuth and\
+    \ Richard Stern and Nestor Becerra Yoma"
+  title: Weighted delay-and-sum beamforming guided by visual tracking for human-robot
+    interaction
+  type: 1
+  url: https://arxiv.org/abs/1906.07298
+  venue: arXiv preprint arXiv:1906.07298
+  year: 2019
+- authors: "Jos\xE9 Novoa and Josu\xE9 Fredes and Jorge Wuth and Fernando Huenup\xE1\
+    n and Richard M Stern and Nestor Becerra Yoma"
+  title: On combining features for single-channel robust speech recognition in reverberant
+    environments
+  type: 1
+  url: https://arxiv.org/abs/1906.07299
+  venue: arXiv preprint arXiv:1906.07299
+  year: 2019
+- authors: Anjali Menon and Chanwoo Kim and Richard M Stern
+  title: Robust Recognition of Reverberant and Noisy Speech Using Coherence-based
+    Processing
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8682581/
+  venue: ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: G Christopher Stecker and Mathias Dietz and Richard M Stern
+  title: "\u201CStraightness\u201D versus \u201Cbriefness\u201D in binaural cue extraction"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/145/3_Supplement/1759/667126
+  venue: The Journal of the Acoustical Society of America
+  year: 2019
+- authors: Oren Wright and Rita Singh and Richard M Stern and CARNEGIE-MELLON UNIV
+    PITTSBURGH PA PITTSBURGH United States
+  title: Emotion Recognition from Voice in the Wild
+  type: 0
+  url: https://resources.sei.cmu.edu/asset_files/Presentation/2019_017_001_635409.pdf
+  venue: The Journal of the Acoustical Society of America
+  year: 2019
+- authors: Jonathan Michelson and Richard Stern and Thomas Sullivan
+  title: Automatic guitar tablature transcription from audio using inharmonicity regression
+    and bayesian classification
+  type: 2
+  url: https://www.aes.org/e-lib/browse.cfm?conv=145&papernum=10091
+  venue: Audio Engineering Society Convention 145
+  year: 2018
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Model compensation and matched condition methods for robust speech recognition
+  type: 0
+  url: https://www.taylorfrancis.com/chapters/edit/10.1201/9781315220109-10/model-compensation-matched-condition-methods-robust-speech-recognition-rita-singh-bhiksha-raj-richard-stern
+  venue: Audio Engineering Society Convention 145
+  year: 2018
+- authors: Rita Singh and Richard M Stern and Bhiksha Raj
+  title: Signal and feature compensation methods for robust speech recognition
+  type: 0
+  url: https://www.taylorfrancis.com/chapters/edit/10.1201/9781315220109-9/signal-feature-compensation-methods-robust-speech-recognition-rita-singh-richard-stern-bhiksha-raj
+  venue: Audio Engineering Society Convention 145
+  year: 2018
+- authors: Chanwoo Kim and Anjali Menon and Michiel Bacchiani and Richard Stern
+  title: Sound source separation using phase difference and reliable mask selection
+    selection
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8462269/
+  venue: 2018 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2018
+- authors: "Juan Pablo Escudero and Jos\xE9 Novoa and Rodrigo Mahu and Jorge Wuth\
+    \ and Fernando Huenup\xE1n and Richard Stern and N\xE9stor Becerra Yoma"
+  title: An improved DNN-based spectral feature mapping that removes noise and reverberation
+    for robust automatic speech recognition
+  type: 1
+  url: https://arxiv.org/abs/1803.09016
+  venue: arXiv preprint arXiv:1803.09016
+  year: 2018
+- authors: "Jos\xE9 Novoa and Juan Pablo Escudero and Jorge Wuth and Victor Poblete\
+    \ and Simon King and Richard Stern and N\xE9stor Becerra Yoma"
+  title: Exploring the robustness of features and enhancement on speech recognition
+    systems in highly-reverberant real environments
+  type: 1
+  url: https://arxiv.org/abs/1803.09013
+  venue: arXiv preprint arXiv:1803.09013
+  year: 2018
+- authors: Mathias Dietz and Jean-Hugues Lestang and Piotr Majdak and Richard M Stern
+    and Torsten Marquardt and Stephan D Ewert and William M Hartmann and Dan FM Goodman
+  title: A framework for testing and comparing binaural models
+  type: 0
+  url: https://www.sciencedirect.com/science/article/pii/S0378595517302605
+  venue: arXiv preprint arXiv:1803.09013
+  year: 2018
+- authors: "Juan Pablo Escudero and Victor Poblete and Jos\xE9 Novoa and Jorge Wuth\
+    \ and Josu\xE9 Fredes and Rodrigo Mahu and Richard Stern and N\xE9stor Becerra\
+    \ Yoma"
+  title: 'Highly-reverberant real environment database: Hrre'
+  type: 1
+  url: https://arxiv.org/abs/1801.09651
+  venue: arXiv preprint arXiv:1801.09651
+  year: 2018
+- authors: Yangyang Xia and Richard M Stern
+  title: A Priori SNR Estimation Based on a Recurrent Neural Network for Robust Speech
+    Enhancement.
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=15240338923348603498&hl=en&oi=scholarr
+  venue: INTERSPEECH
+  year: 2018
+- authors: Xinhui Zhou and Chiman Kwan and Bulent Ayhan and Chanwoo Kim and Kshitiz
+    Kumar and Richard Stern
+  title: A Comparative Study of Spatial Speech Separation Techniques to Improve Speech
+    Recognition
+  type: 2
+  url: https://link.springer.com/chapter/10.1007/978-3-319-92537-0_57
+  venue: "Advances in Neural Networks\u2013ISNN 2018: 15th International Symposium\
+    \ on Neural Networks, ISNN 2018, Minsk, Belarus, June 25\u201328, 2018, Proceedings\
+    \ 15"
+  year: 2018
+- authors: Chanwoo Kim and Anjali Menon and Michiel Bacchiani and Richard M Stern
+  title: Sound source separation using phase difference and reliable mask selection
+  type: 0
+  url: https://research.google/pubs/pub46601/
+  venue: "Advances in Neural Networks\u2013ISNN 2018: 15th International Symposium\
+    \ on Neural Networks, ISNN 2018, Minsk, Belarus, June 25\u201328, 2018, Proceedings\
+    \ 15"
+  year: 2018
+- authors: Anjali Menon and Chanwoo Kim and Umpei Kurokawa and Richard M Stern
+  title: Binaural processing for robust recognition of degraded speech
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8268912/
+  venue: 2017 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
+  year: 2017
+- authors: Vinayaka Jyothi and Ashik Poojari and Richard Stern and Ramesh Karri
+  title: Fingerprinting field programmable gate arrays
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8119231/
+  venue: 2017 IEEE International Conference on Computer Design (ICCD)
+  year: 2017
+- authors: Fernando de-La-Calle-Silos and Richard M Stern
+  title: Synchrony-based feature extraction for robust automatic speech recognition
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/7945498/
+  venue: IEEE Signal Processing Letters
+  year: 2017
+- authors: Mathias Dietz and Torsten Marquardt and Piotr Majdak and Richard M Stern
+    and William M Hartmann and Dan F Goodman and Stephan D Ewert
+  title: An initiative for testability and comparability of binaural models
+  type: 1
+  url: https://asa.scitation.org/doi/abs/10.1121/1.4987810
+  venue: The Journal of the Acoustical Society of America
+  year: 2017
+- authors: Richard M Stern
+  title: Predicting binaural lateralization and discrimination using the position-variable
+    model
+  type: 1
+  url: https://asa.scitation.org/doi/abs/10.1121/1.4987808
+  venue: The Journal of the Acoustical Society of America
+  year: 2017
+- authors: "Josu\xE9 Fredes and Jos\xE9 Novoa and Simon King and Richard M Stern and\
+    \ Nestor Becerra Yoma"
+  title: Locally normalized filter banks applied to deep neural-network-based robust
+    speech recognition
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/7837663/
+  venue: IEEE Signal Processing Letters
+  year: 2017
+- authors: Anjali Menon and Chanwoo Kim and Umpei Kurokawa and Richard M Stern
+  title: Binaural processing for robust speech recognition of degraded speech
+  type: 0
+  url: https://research.google/pubs/pub46367/
+  venue: IEEE Signal Processing Letters
+  year: 2017
+- authors: "Jos\xE9 Novoa and Jorge Wuth and Juan Pablo Escudero and Josu\xE9 Fredes\
+    \ and Rodrigo Mahu and Richard M Stern and Nestor Becerra Yoma"
+  title: Robustness over time-varying channels in DNN-hmm ASR based human-robot interaction.
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=3253021969536418256&hl=en&oi=scholarr
+  venue: INTERSPEECH
+  year: 2017
+- authors: Anjali Menon and Chanwoo Kim and Richard M Stern
+  title: Robust speech recognition based on binaural auditory processing
+  type: 0
+  url: http://research.google.com/pubs/archive/46126.pdf
+  venue: INTERSPEECH
+  year: 2017
+- authors: Vikramjit Mitra and Horacio Franco and Richard M Stern and Julien Van Hout
+    and Luciana Ferrer and Martin Graciarena and Wen Wang and Dimitra Vergyri and
+    Abeer Alwan and John HL Hansen
+  title: Robust features in deep-learning-based speech recognition
+  type: 1
+  url: https://link.springer.com/chapter/10.1007/978-3-319-64680-0_8
+  venue: 'New Era for Robust Speech Recognition: Exploiting Deep Learning'
+  year: 2017
+- authors: Vinayaka Jyothi and Manasa Thoonoli and Richard Stern and Ramesh Karri
+  title: 'FPGA Trust Zone: Incorporating trust and reliability into FPGA designs'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7753346/
+  venue: 2016 IEEE 34th International Conference on Computer Design (ICCD)
+  year: 2016
+- authors: Mathias Dietz and Piotr Majdak and Richard M Stern and Torsten Marquardt
+    and William M Hartmann and Dan F Goodman and Stephan D Ewert
+  title: A framework for auditory model comparability and applicability
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/140/4_Supplement/3272/709814
+  venue: Journal of the Acoustical Society of America
+  year: 2016
+- authors: Richard M Stern
+  title: The position-variable model at 40
+  type: 1
+  url: https://asa.scitation.org/doi/abs/10.1121/1.4970389
+  venue: The Journal of the Acoustical Society of America
+  year: 2016
+- authors: Byung Joon Cho and Haeyong Kwon and Ji-Won Cho and Chanwoo Kim and Richard
+    M Stern and Hyung-Min Park
+  title: A subband-based stationary-component suppression method using harmonics and
+    power ratio for reverberant speech recognition
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/7453142/
+  venue: IEEE Signal Processing Letters
+  year: 2016
+- authors: Chanwoo Kim and Richard M Stern
+  title: Power-normalized cepstral coefficients (PNCC) for robust speech recognition
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/7439789/
+  venue: IEEE/ACM Transactions on audio, speech, and language processing
+  year: 2016
+- authors: Richard Stern
+  title: 'Applying Physiologically-Motivated Models of Auditory Processing to Automatic
+    Speech Recognition: Promise and Progress'
+  type: 0
+  url: https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=147578&item_no=1&page_id=13&block_id=8
+  venue: IEEE/ACM Transactions on audio, speech, and language processing
+  year: 2016
+- authors: Vikramjit Mitra and Julien van Hout and Wen Wang and Chris Bartels and
+    Horacio Franco and Dimitra Vergyri and Abeer Alwan and Adam Janin and John HL
+    Hansen and Richard M Stern and Abhijeet Sangwan and Nelson Morgan
+  title: Fusion Strategies for Robust Speech Recognition and Keyword Spotting for
+    Channel-and Noise-Degraded Speech.
+  type: 2
+  url: https://www.sri.com/wp-content/uploads/2021/12/final2c_fusion_strategies_for_robust_speech_recognition_and_keyword_spotting_for_channel-_and_noise-degraded_speech_1.pdf
+  venue: INTERSPEECH
+  year: 2016
+- authors: "V\xEDctor Poblete and Juan Pablo Escudero and Josu\xE9 Fredes and Jos\xE9\
+    \ Novoa and Richard M Stern and Simon King and N\xE9stor Becerra Yoma"
+  title: The Use of Locally Normalized Cepstral Coefficients (LNCC) to Improve Speaker
+    Recognition Accuracy in Highly Reverberant Rooms.
+  type: 2
+  url: https://www.researchgate.net/profile/Josue-Fredes/publication/307889205_The_Use_of_Locally_Normalized_Cepstral_Coefficients_LNCC_to_Improve_Speaker_Recognition_Accuracy_in_Highly_Reverberant_Rooms/links/583eda0b08aeda696809f600/The-Use-of-Locally-Normalized-Cepstral-Coefficients-LNCC-to-Improve-Speaker-Recognition-Accuracy-in-Highly-Reverberant-Rooms.pdf
+  venue: INTERSPEECH
+  year: 2016
+- authors: Victor Poblete and Felipe Espic and Simon King and Richard M Stern and
+    Fernando Huenupan and Josue Fredes and Nestor Becerra Yoma
+  title: A perceptually-motivated low-complexity instantaneous linear channel normalization
+    technique applied to speaker verification
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0885230814001053
+  venue: Computer Speech & Language
+  year: 2015
+- authors: Griffin D Romigh and Douglas S Brungart and Richard M Stern and Brian D
+    Simpson
+  title: Efficient real spherical harmonic representation of head-related transfer
+    functions
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/7096941/
+  venue: IEEE Journal of Selected Topics in Signal Processing
+  year: 2015
+- authors: "Hynek Hermansky and Luk\xE1\u0161 Burget and Jordan Cohen and Emmanuel\
+    \ Dupoux and Naomi Feldman and John Godfrey and Sanjeev Khudanpur and Matthew\
+    \ Maciejewski and Sri Harish Mallidi and Anjali Menon and Tetsuji Ogawa and Vijayaditya\
+    \ Peddinti and Richard Rose and Richard Stern and Matthew Wiesner and Karel Vesel\xFD"
+  title: 'Towards machines that know when they do not know: Summary of work done at
+    2014 Frederick Jelinek Memorial Workshop'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7178924/
+  venue: 2015 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2015
+- authors: Mark J Harvilla and Richard M Stern
+  title: Efficient audio declipping using regularized least squares
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7177964/
+  venue: 2015 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2015
+- authors: Hyung-Min Park and Matthew Maciejewski and Chanwoo Kim and Richard M Stern
+  title: 'Robust automatic speech recognition in reverberation: onset enhancement
+    versus binaural source separation'
+  type: 1
+  url: https://asa.scitation.org/doi/abs/10.1121/1.4920409
+  venue: The Journal of the Acoustical Society of America
+  year: 2015
+- authors: Griffin D Romigh and Richard M Stern and Douglas S Brungart and Brian D
+    Simpson
+  title: A Bayesian framework for the estimation of head-related transfer functions
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/137/4_Supplement/2323/952009
+  venue: The Journal of the Acoustical Society of America
+  year: 2015
+- authors: Shoou-I Yu and Lu Jiang and Zhongwen Xu and Zhenzhong Lan and Shicheng
+    Xu and Xiaojun Chang and Xuanchong Li and Zexi Mao and Chuang Gan and Yajie Miao
+    and Xingzhong Du and Yang Cai and Lara Martin and Nikolas Wolfe and Anurag Kumar
+    and Huan Li and Ming Lin and Zhigang Ma and Yi Yang and Deyu Meng and Shiguang
+    Shan and Pinar Duygulu Sahin and Susanne Burger and Florian Metze and Rita Singh
+    and Bhiksha Raj and Teruko Mitamura and Richard Stern and Alexander Hauptmann
+  title: CMU informedia@ TrecVID 2015 MED/SIN/LNK/SED
+  type: 2
+  url: https://research.monash.edu/en/publications/cmu-informediatrecvid-2015-medsinlnksed
+  venue: TREC Video Retrieval Evaluation 2015
+  year: 2015
+- authors: "V\xEDctor Poblete Ram\xEDrez and Felipe Espic and Simon King and Richard\
+    \ M Stern and Fernando Huenup\xE1n and Josu\xE9 Abraham Fredes Sandoval and N\xE9\
+    stor Becerra Yoma"
+  title: A perceptually-motivated low-complexity instantaneous linearchannel normalization
+    technique applied to speaker verification
+  type: 0
+  url: https://repositorio.uchile.cl/handle/2250/132800
+  venue: TREC Video Retrieval Evaluation 2015
+  year: 2015
+- authors: "Josu\xE9 Fredes and Jos\xE9 Novoa and Victor Poblete and Simon King and\
+    \ Richard M Stern and Nestor Becerra Yoma"
+  title: Robustness to additive noise of locally-normalized cepstral coefficients
+    in speaker verification
+  type: 2
+  url: https://www.researchgate.net/profile/Jose-Novoa-Ilic/publication/281784034_Robustness_to_Additive_Noise_of_Locally-Normalized_Cepstral_Coefficients_in_Speaker_Verification/links/55f860bd08aeafc8ac0e10e7/Robustness-to-Additive-Noise-of-Locally-Normalized-Cepstral-Coefficients-in-Speaker-Verification.pdf
+  venue: Sixteenth Annual Conference of the International Speech Communication Association
+  year: 2015
+- authors: Mark J Harvilla and Richard M Stern
+  title: Robust parameter estimation for audio declipping in noise
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=16196123173124463129&hl=en&oi=scholarr
+  venue: Sixteenth Annual Conference of the International Speech Communication Association
+  year: 2015
+- authors: Martin Hutchings and Lale Kostakoglu and Jan Maciej Zaucha and Bogdan Malkowski
+    and Alberto Biggi and Iwona Danielewicz and Annika Loft and Lena Specht and Dominick
+    Lamonica and Myron S Czuczman and Christina Nanni and Pier Luigi Zinzani and Louis
+    Diehl and Richard Stern and Morton Coleman
+  title: In vivo treatment sensitivity testing with positron emission tomography/computed
+    tomography after one cycle of chemotherapy for Hodgkin lymphoma
+  type: 1
+  url: https://www.academia.edu/download/47693796/2705.full.pdf
+  venue: J Clin Oncol
+  year: 2014
+- authors: Chan Woo Kim and Ki Wan Eom and Jae Won Lee and Richard M Stern
+  title: Signal separation system and method for automatically selecting threshold
+    to separate sound sources
+  type: 0
+  url: https://patents.google.com/patent/US8718293B2/en
+  venue: J Clin Oncol
+  year: 2014
+- authors: Amir R Moghimi and Richard M Stern
+  title: An analysis of binaural spectro-temporal masking as nonlinear beamforming
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6853714/
+  venue: 2014 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2014
+- authors: Richard M Stern
+  title: Time and intensity with Tino
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/135/4_Supplement/2252/604819
+  venue: The Journal of the Acoustical Society of America
+  year: 2014
+- authors: "V\xEDctor Poblete Ram\xEDrez and N\xE9stor Becerra Yoma and Richard Stern"
+  title: Optimization of the parameters characterizing sigmoidal rate-level functions
+    based on acoustic features
+  type: 0
+  url: https://repositorio.uchile.cl/handle/2250/126662
+  venue: The Journal of the Acoustical Society of America
+  year: 2014
+- authors: Shoou-I Yu and Lu Jiang and Zexi Mao and Xiaojun Chang and Xingzhong Du
+    and Chuang Gan and Zhenzhong Lan and Zhongwen Xu and Xuanchong Li and Yang Cai
+    and Anurag Kumar and Yajie Miao and Lara Martin and Nikolas Wolfe and Shicheng
+    Xu and Huan Li and Ming Lin and Zhigang Ma and Yi Yang and Deyu Meng and Shiguang
+    Shan and Pinar Duygulu Sahin and Susanne Burger and Florian Metze and Rita Singh
+    and Bhiksha Raj and Teruko Mitamura and Richard Stern and Alexander Hauptmann
+  title: Informedia@ trecvid 2014 med and mer
+  type: 1
+  url: https://www.academia.edu/download/51496957/TrecVID2014-Informedia.pdf
+  venue: NIST TRECVID Video Retrieval Evaluation Workshop
+  year: 2014
+- authors: Amir R Moghimi and Bhiksha Raj and Richard M Stern
+  title: 'Post-masking: A hybrid approach to array processing for speech recognition'
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=480893028852326321&hl=en&oi=scholarr
+  venue: Fifteenth Annual Conference of the International Speech Communication Association
+  year: 2014
+- authors: Hyung-Min Park and Matthew Maciejewski and Chanwoo Kim and Richard M Stern
+  title: Robust speech recognition in reverberant environments using subband-based
+    steady-state monaural and binaural suppression
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=2467295535072619025&hl=en&oi=scholarr
+  venue: Fifteenth Annual Conference of the International Speech Communication Association
+  year: 2014
+- authors: Mark J Harvilla and Richard M Stern
+  title: Least squares signal declipping for robust speech recognition
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=9273346196986739898&hl=en&oi=scholarr
+  venue: Fifteenth Annual Conference of the International Speech Communication Association
+  year: 2014
+- authors: Chanwoo Kim and Kean K Chin and Michiel Bacchiani and Richard M Stern
+  title: Robust speech recognition using temporal masking and thresholding algorithm
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=17341657172777257869&hl=en&oi=scholarr
+  venue: Fifteenth Annual Conference of the International Speech Communication Association
+  year: 2014
+- authors: "Victor Poblete and N\xE9stor Becerra Yoma and Richard M Stern"
+  title: Optimization of the parameters characterizing sigmoidal rate-level functions
+    based on acoustic features
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0167639313000964
+  venue: Speech Communication
+  year: 2014
+- authors: Zhen-Zhong Lan and Lu Jiang and Shoou-I Yu and Shourabh Rawat and Yang
+    Cai and Chenqiang Gao and Shicheng Xu and Haoquan Shen and Xuanchong Li and Yipei
+    Wang and Waito Sze and Yan Yan and Zhigang Ma and Wei Tong and Yi Yang and Susanne
+    Burger and Florian Metze and Rita Singh and Bhiksha Raj and Richard Stern and
+    Teruko Mitamura and Eric Nyberg and Alexander Hauptmann
+  title: Cmu-informedia at trecvid 2013 multimedia event detection
+  type: 1
+  url: https://www-nlpir.nist.gov/projects/tvpubs/tv13.slides/cmu.tv13.med.slides.pdf
+  venue: TRECVID 2013 Workshop
+  year: 2013
+- authors: Richard M Stern
+  title: Lateralization, discrimination, detection, and Ervin
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/134/5_Supplement/4164/707761
+  venue: The Journal of the Acoustical Society of America
+  year: 2013
+- authors: J Mandelblatt and R Stern and G Luta and J Clapp and A Hurria and P Jacobsen
+    and A Saykin and T Ahles
+  title: 'Cognition in older breast cancer patients prior to systemictherapy: The
+    Thinking and Living With Cancer (TLC) study'
+  type: 1
+  url: https://www.geriatriconcology.net/article/S1879-4068(13)00095-7/abstract
+  venue: Journal of geriatric oncology
+  year: 2013
+- authors: "K Brandenburg and C Faller and J Herre and JD Johnston and WB Kleijn and\
+    \ S Spors and H Wierstorf and A Raake and F Melchior and M Frank and F Zotter\
+    \ and G Richard and S Sundaram and S Narayanan and S M\xF6ller and R Heusdens\
+    \ and H Hermansky and JR Cohen and RM Stern and J Wouters and S Doclo and R Koning\
+    \ and T Francart and E Reinhard and AA Efros and J Kautz and HP Seidel and AC\
+    \ Bovik and HR Wu and AR Reibman and W Lin and F Pereira and SS Hemami and LB\
+    \ Kish and CG Granqvist and LJ Karam and K MacLean and R Garner"
+  title: PERCEPTION-BASED MEDIA PROCESSING
+  type: 1
+  url: https://scholar.archive.org/work/nyzuggz7wvfnnmksn5requleeu/access/wayback/https://ieeexplore.ieee.org/ielx7/5/6582526/06582603.pdf
+  venue: Proceedings of the IEEE
+  year: 2013
+- authors: "V\xEDctor Poblete and N\xE9stor Becerra Yoma and Richard M Stern"
+  title: Optimization of sigmoidal rate-level function based on acoustic features.
+  type: 2
+  url: https://www.researchgate.net/profile/Victor-Poblete-Ramirez/publication/281900116_Optimization_of_sigmoidal_rate-level_function_based_on_acoustic_features/links/55fd3e8408aeba1d9f532cd8/Optimization-of-sigmoidal-rate-level-function-based-on-acoustic-features.pdf
+  venue: INTERSPEECH
+  year: 2013
+- authors: Hynek Hermansky and Jordan R Cohen and Richard M Stern
+  title: Perceptual properties of current speech recognition technology
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/6566018/
+  venue: Proceedings of the IEEE
+  year: 2013
+- authors: Griffin D Romigh and Douglas Brungart and Richard M Stern and Brian D Simpson
+  title: 'The role of spatial detail in sound-source localization: Impact on HRTF
+    modeling and personalization.'
+  type: 1
+  url: https://pubs.aip.org/asa/poma/article-abstract/19/1/050170/962086
+  venue: Proceedings of Meetings on Acoustics
+  year: 2013
+- authors: Griffin D Romigh and Douglas S Brungart and Richard M Stern and Brian D
+    Simpson
+  title: 'The role of spatial detail in sound-source localization: Impact on head-related
+    transfer function modeling and personalization'
+  type: 1
+  url: https://asa.scitation.org/doi/abs/10.1121/1.4806291
+  venue: The Journal of the Acoustical Society of America
+  year: 2013
+- authors: Dalong Cheng and Roger Dannenberg and Richard Stern and Richard Randall
+  title: Master of Science in Music and Technology
+  type: 0
+  url: http://www.cs.cmu.edu/afs/cs/project/music/web/papers/dalong_cheng_thesis.pdf
+  venue: The Journal of the Acoustical Society of America
+  year: 2013
+- authors: Zhen-Zhong Lan and Lu Jiang and Shoou-I Yu and Chenqiang Gao and Shourabh
+    Rawat and Yang Cai and Shicheng Xu and Haoquan Shen and Xuanchong Li and Yipei
+    Wang and Waito Sze and Yan Yan and Zhigang Ma and Nicolas Ballas and Deyu Meng
+    and Wei Tong and Yi Yang and Susanne Burger and Florian Metze and Rita Singh and
+    Bhiksha Raj and Roxana Sarbu and Teruko Mitamura and Eric Nyberg
+  title: 'Informedia E-Lamp@ TRECVID 2013: Multimedia Event Detection and Recounting
+    (MED and MER)'
+  type: 0
+  url: https://kilthub.cmu.edu/articles/journal_contribution/Informedia_E-Lamp_TRECVID_2013_Multimedia_Event_Detection_and_Recounting_MED_and_MER_/6473447/files/11903051.pdf
+  venue: The Journal of the Acoustical Society of America
+  year: 2013
+- authors: Richard M Stern and Stephen J Bachorski
+  title: Department of Electrical Engineering and Biomedical Engineering Program Carnegie-Mellon
+    University Pittsburgh, Pennsylvania 15213 USA
+  type: 1
+  url: https://books.google.com/books?hl=en&lr=&id=s33nCAAAQBAJ&oi=fnd&pg=PA209&dq=info:yyyf6_qvDM8J:scholar.google.com&ots=AWb9_yiTMM&sig=IF9j17gCXpwqshwesi5_NvaQINc
+  venue: HEARING-Physiological Bases and Psychophysics
+  year: 2012
+- authors: L Paola Garcia-Perera and Juan A Nolazco-Flores and Bhiksha Raj and Richard
+    Stern
+  title: Optimization of the DET curve in speaker verification
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6424243/
+  venue: 2012 IEEE Spoken Language Technology Workshop (SLT)
+  year: 2012
+- authors: Richard M Stern and Nelson Morgan
+  title: Features based on auditory physiology and perception
+  type: 1
+  url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118392683#page=202
+  venue: Techniques for Noise Robustness in Automatic Speech Recognition
+  year: 2012
+- authors: Shoou-I Yu and Zhongwen Xu and Duo Ding and Waito Sze and Francisco Vicente
+    and Zhenzhong Lan and Yang Cai and Shourabh Rawat and Peter F Schulam and Sohail
+    Bahmani and Antonio Juarez and Wei Tong and Yi Yang and Susanne Burger and Florian
+    Metze and Rita Singh and Bhiksha Raj and Roxana Sarbu and Teruko Mitamura and
+    Eric Nyberg and Alexander Hauptmann
+  title: 'Informedia e-lamp@ trecvid 2012: multimedia event detection and recounting
+    (med and mer)'
+  type: 0
+  url: https://kilthub.cmu.edu/articles/Informedia_E-Lamp_TRECVID_2012_Multimedia_Event_Detection_and_Recounting_MED_and_MER_/6473450/files/11903054.pdf
+  venue: Techniques for Noise Robustness in Automatic Speech Recognition
+  year: 2012
+- authors: Richard M Stern and Nelson Morgan
+  title: 'Hearing is believing: Biologically inspired methods for robust automatic
+    speech recognition'
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/6296528/
+  venue: IEEE signal processing magazine
+  year: 2012
+- authors: Lale Kostakoglu and Neetha Gandikota and Martin Hutchings and Ryan Cotter
+    and Dominick Lamonica and Josef Machac and Richard Stern and Morton Coleman
+  title: 'Pretherapy metabolic tumor burden (MTV) may risk-stratify lymphoma patients:
+    Comparison with early metabolic response'
+  type: 0
+  url: https://jnm.snmjournals.org/content/53/supplement_1/1380.short
+  venue: IEEE signal processing magazine
+  year: 2012
+- authors: Chanwoo Kim and Charbel Khawand and Richard M Stern
+  title: Two-microphone source separation algorithm based on statistical modeling
+    of angle distributions
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6288950/
+  venue: 2012 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2012
+- authors: Mark J Harvilla and Richard M Stern
+  title: Histogram-based subband powerwarping and spectral averaging for robust speech
+    recognition under matched and multistyle training
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6288967/
+  venue: 2012 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2012
+- authors: Mandy Stern and Mandy Stern
+  title: Review of research exploring school attitude and related constructs
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-1-4614-3427-6_2
+  venue: 2012 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2012
+- authors: Richard M Stern
+  title: Applying physiologically-motivated models of auditory processing to automatic
+    speech recognition
+  type: 1
+  url: https://www.proceedings.isaar.eu/index.php/isaarproc/article/view/2011-33
+  venue: Proceedings of the International Symposium on Auditory and Audiological Research
+  year: 2011
+- authors: Richard Stern
+  title: Acoustical Society of America Distinguished Service Citation
+  type: 1
+  url: https://asa.scitation.org/doi/pdf/10.1121/1.3655728
+  venue: The Journal of the Acoustical Society of America
+  year: 2011
+- authors: Yu-Hsiang Bosco Chiu and Bhiksha Raj and Richard M Stern
+  title: Learning-based auditory encoding for robust speech recognition
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/6020747/
+  venue: IEEE transactions on audio, speech, and language processing
+  year: 2011
+- authors: Kshitiz Kumar and Rita Singh and Bhiksha Raj and Richard Stern
+  title: Gammatone sub-band magnitude-domain dereverberation for ASR
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5947380/
+  venue: 2011 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2011
+- authors: Kshitiz Kumar and Bhiksha Raj and Rita Singh and Richard M Stern
+  title: An iterative least-squares technique for dereverberation
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5947601/
+  venue: 2011 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2011
+- authors: Chanwoo Kim and Kshitiz Kumar and Richard M Stern
+  title: Binaural sound source separation motivated by auditory processing
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5947497/
+  venue: 2011 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2011
+- authors: Kshitiz Kumar and Chanwoo Kim and Richard M Stern
+  title: Delta-spectral cepstral coefficients for robust speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5947425/
+  venue: 2011 IEEE International conference on acoustics, speech and signal processing
+    (ICASSP)
+  year: 2011
+- authors: Wooil Kim and Richard M Stern
+  title: Mask classification for missing-feature reconstruction for robust speech
+    recognition in unknown background noise
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0167639310001391
+  venue: Speech Communication
+  year: 2011
+- authors: Richard M Stern
+  title: The impact of the distribution of internal delays in binaural models on predictions
+    for psychoacoustical data.
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/128/4_Supplement/2473/713070
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Chanwoo Kim and Richard M Stern and Kiwan Eom and Jaewon Lee
+  title: Automatic selection of thresholds for signal separation algorithms based
+    on interaural delay.
+  type: 2
+  url: http://www.cs.cmu.edu/~robust/Papers/is2010KimEtal_PD.pdf
+  venue: INTERSPEECH
+  year: 2010
+- authors: Chanwoo Kim and Richard M Stern
+  title: Nonlinear enhancement of onset for robust speech recognition.
+  type: 2
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/is2010KimStern_SSF.pdf
+  venue: INTERSPEECH
+  year: 2010
+- authors: Ziad Al Bawab and Bhiksha Raj and Richard M Stern
+  title: A hybrid physical and statistical dynamic articulatory framework incorporating
+    analysis-by-synthesis for improved phone classification
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5495696/
+  venue: 2010 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2010
+- authors: Kshitiz Kumar and Richard M Stern
+  title: Maximum-likelihood-based cepstral inverse filtering for blind speech dereverberation
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5495667/
+  venue: 2010 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2010
+- authors: Chanwoo Kim and Richard M Stern
+  title: Feature extraction for robust speech recognition based on maximizing the
+    sharpness of the power distribution and on power flooring
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5495570/
+  venue: 2010 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2010
+- authors: Chanwoo Kim and Kshitiz Kumar and Richard M Stern
+  title: Robust speech recognition using a small power boosting algorithm
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5373230/
+  venue: 2009 IEEE Workshop on Automatic Speech Recognition & Understanding
+  year: 2009
+- authors: Chanwoo Kim and Richard M Stern
+  title: Power function-based power distribution normalization algorithm for robust
+    speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5373233/
+  venue: 2009 IEEE Workshop on Automatic Speech Recognition & Understanding
+  year: 2009
+- authors: Ziad Al Bawab and Lorenzo Turicchia and Richard M Stern and Bhiksha Raj
+  title: Deriving vocal tract shapes from electromagnetic articulograph data via geometric
+    adaptation and matching.
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=11100361679425679405&hl=en&oi=scholarr
+  venue: Interspeech
+  year: 2009
+- authors: Yu-Hsiang Bosco Chiu and Richard M Stern
+  title: Minimum variance modulation filter for robust speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4960484/
+  venue: 2009 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2009
+- authors: Lingyun Gu and Richard M Stern
+  title: Speaker Segmentation and Clustering for Simultaneously Presented Speech
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=14537697492137356187&hl=en&oi=scholarr
+  venue: Tenth Annual Conference of the International Speech Communication Association
+  year: 2009
+- authors: Luis Buera and Antonio Miguel and Alfonso Ortega and Eduardo Lleida and
+    Richard M Stern
+  title: Unsupervised Training Scheme with Non-Stereo Data for Empirical Feature Vector
+    Compensation
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=3091266722258647462&hl=en&oi=scholarr
+  venue: Tenth Annual Conference of the International Speech Communication Association
+  year: 2009
+- authors: Yu-Hsiang Bosco Chiu and Bhiksha Raj and Richard M Stern
+  title: 'Towards fusion of feature extraction and acoustic model training: A top
+    down process for robust speech recognition'
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=12953824089372875391&hl=en&oi=scholarr
+  venue: Tenth Annual Conference of the International Speech Communication Association
+  year: 2009
+- authors: Hyung-Min Park and Richard M Stern
+  title: Spatial separation of speech signals using amplitude estimation based on
+    interaural comparisons of zero-crossings
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0167639308000861
+  venue: Speech Communication
+  year: 2009
+- authors: Chanwoo Kim and Kshitiz Kumar and Bhiksha Raj and Richard M Stern
+  title: Signal separation for robust speech recognition based on phase difference
+    information obtained in the frequency domain
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=9118809632057495797&hl=en&oi=scholarr
+  venue: Tenth Annual Conference of the International Speech Communication Association
+  year: 2009
+- authors: Chanwoo Kim and Richard M Stern
+  title: Feature extraction for robust speech recognition using a power-law nonlinearity
+    and power-bias subtraction
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=3334405659349965744&hl=en&oi=scholarr
+  venue: tenth annual conference of the international speech communication association
+  year: 2009
+- authors: David L Bradley and Richard Stern
+  title: Underwater
+  type: 0
+  url: http://www.protectedspeciesobserver.com/uploads/4/8/3/6/48362305/underwater_sound.pdf
+  venue: tenth annual conference of the international speech communication association
+  year: 2008
+- authors: "Richard M Stern and Evandro Gouv\xEAa and Chanwoo Kim and Kshitiz Kumar\
+    \ and Hyung-Min Park"
+  title: Binaural and multiple-microphone signal processing motivated by auditory
+    perception
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4538697/
+  venue: 2008 Hands-Free Speech Communication and Microphone Arrays
+  year: 2008
+- authors: Richard M Stern and Evandro B Gouvea and Kshitiz Kumar
+  title: '" Polyaural" array processing for robust automatic speech recognition in
+    noisy and reverberant environments'
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/123/5_Supplement/3742/643746
+  venue: The Journal of the Acoustical Society of America
+  year: 2008
+- authors: Lingyun Gu and Richard M Stern
+  title: Single-channel speech separation based on modulation frequency
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4517537/
+  venue: 2008 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2008
+- authors: Ziad Al Bawab and Bhiksha Raj and Richard M Stern
+  title: Analysis-by-synthesis features for speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4518577/
+  venue: 2008 IEEE international conference on acoustics, speech and signal processing
+  year: 2008
+- authors: Kshitiz Kumar and Richard M Stern
+  title: Environment-invariant compensation for reverberation using linear post-filtering
+    for minimum distortion
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4518561/
+  venue: 2008 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2008
+- authors: Richard Martin Stern and Thomas N Scortia
+  title: 'Flammendes Inferno: The Towering Inferno'
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=8339835623271434511&hl=en&oi=scholarr
+  venue: 2008 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2008
+- authors: Frank M Robinson and Stirling Silliphant and Richard Martin Stern
+  title: The Towering Inferno
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=2957218819036706244&hl=en&oi=scholarr
+  venue: 2008 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2008
+- authors: Qin Jin and Kshitiz Kumar and Tanja Schultz and Richard Stern
+  title: Compensation approaches for far-field speaker identification
+  type: 1
+  url: https://www.researchgate.net/profile/Richard-Stern-5/publication/36453485_Compensation_Approaches_for_Far-field_Speaker_Identification/links/542f4f280cf27e39fa995192/Compensation-Approaches-for-Far-field-Speaker-Identification.pdf
+  venue: NIST SRE Workshop
+  year: 2008
+- authors: Yu-Hsiang Bosco Chiu and Richard M Stern
+  title: Analysis of physiologically-motivated signal processing for robust speech
+    recognition
+  type: 2
+  url: https://www.academia.edu/download/72405653/Analysis_of_physiologically-motivated_si20211013-32035-wn4q6.pdf
+  venue: Ninth Annual Conference of the International Speech Communication Association
+  year: 2008
+- authors: Chanwoo Kim and Richard M Stern
+  title: Robust signal-to-noise ratio estimation based on waveform amplitude distribution
+    analysis
+  type: 2
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=69c7ce22dcd2be82ef93db042814de6ce7efb7c1
+  venue: Ninth Annual Conference of the International Speech Communication Association
+  year: 2008
+- authors: Yunbin Deng and Xiaokun Li and Chiman Kwan and B Raj and R Stern
+  title: Continuous feature adaptation for non-native speech recognition
+  type: 1
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8f81eac570a11af84e704c1c53364bb6ed17e236
+  venue: International Journal of Computer and Information Engineering
+  year: 2007
+- authors: Hyung-Min Park and Richard M Stern
+  title: Missing feature speech recognition using dereverberation and echo suppression
+    in reverberant environments
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4218117/
+  venue: 2007 IEEE International Conference on Acoustics, Speech and Signal Processing-ICASSP'07
+  year: 2007
+- authors: Kshitiz Kumar and Tsuhan Chen and Richard M Stern
+  title: Profile view lip reading
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4218129/
+  venue: 2007 IEEE International Conference on Acoustics, Speech and Signal Processing-ICASSP'07
+  year: 2007
+- authors: Chanwoo Kim and R Stern
+  title: Automatic Threshold Selection Algorithm for Sound Source Separation Based
+    on Inter-microphone Time Difference
+  type: 1
+  url: https://www.academia.edu/download/81474223/AUTO_PDCW_v07.pdf
+  venue: Journal of Latex Class Files
+  year: 2007
+- authors: "Richard M Stern and Evandro B Gouv\xEAa and Govindarajan Thattai"
+  title: '" Polyaural" Array Processing for Automatic Speech Recognition in Degraded
+    Environments'
+  type: 2
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/polyaural.pdf
+  venue: Eighth Annual Conference of the International Speech Communication Association
+  year: 2007
+- authors: Michael L Seltzer and Richard M Stern
+  title: Subband likelihood-maximizing beamforming for speech recognition in reverberant
+    environments
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/1709899/
+  venue: IEEE Transactions on Audio, Speech, and Language Processing
+  year: 2006
+- authors: Richard M Stern and Constantine Trahiotis and Angelo M Ripepi and P Divenyi
+    and S Greenberg and G Meyer
+  title: Fluctuations in amplitude and frequency enable interaural delays to foster
+    the identification of speech-like stimuli
+  type: 1
+  url: https://books.google.com/books?hl=en&lr=&id=8tTvAgAAQBAJ&oi=fnd&pg=PA143&dq=info:DNFaNEyft0QJ:scholar.google.com&ots=lKTZ9LA9v3&sig=7tzuJ1iP4GRSfUYxxlEpE_3sRKs
+  venue: Dynamics of speech production and perception
+  year: 2006
+- authors: Hyung-Min Park and Richard M Stern
+  title: Spatial separation of speech signals using continuously-variable masks estimated
+    from comparisons of zero crossings
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1661181/
+  venue: 2006 IEEE International Conference on Acoustics Speech and Signal Processing
+    Proceedings
+  year: 2006
+- authors: Wooil Kim and Richard M Stern
+  title: Band-independent mask estimation for missing-feature reconstruction in the
+    presence of unknown background noise
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1660018/
+  venue: 2006 IEEE International Conference on Acoustics Speech and Signal Processing
+    Proceedings
+  year: 2006
+- authors: Steven Parmett and Dana Rausch and Ping Lu and Ash Rafique and Nazar Golewale
+    and Melissa Quispe and Chun Kim and Josef Machac and Richard Stern and Borys Krynyckyi
+  title: Improved breast and axillary lesion detection on PET imaging through the
+    novel use of a breast holding device
+  type: 0
+  url: https://jnm.snmjournals.org/content/47/suppl_1/557P.3.short
+  venue: 2006 IEEE International Conference on Acoustics Speech and Signal Processing
+    Proceedings
+  year: 2006
+- authors: M Stern Richard and Ko Hanseok
+  title: Mask Estimation Based on Band-Independent Bayesian Classifler for Missing-Feature
+    Reconstruction
+  type: 1
+  url: https://koreascience.kr/article/JAKO200614222983757.page
+  venue: The Journal of the Acoustical Society of Korea
+  year: 2006
+- authors: Yunbin Deng and Xiaokun Li and Chiman Kwan and Roger Xu and Bhiksha Raj
+    and Richard M Stern and David Williamson
+  title: An integrated approach to improve speech recognition rate for non-native
+    speakers
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=4063422754430194903&hl=en&oi=scholarr
+  venue: Ninth International Conference on Spoken Language Processing
+  year: 2006
+- authors: Balakrishnan Narayanaswamy and Rashmi Gangadharaiah and Richard M Stern
+  title: Voting for two speaker segmentation
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=46958527257622623&hl=en&oi=scholarr
+  venue: Ninth International Conference on Spoken Language Processing
+  year: 2006
+- authors: Chanwoo Kim and Yu-Hsiang Chiu and Richard M Stern
+  title: Physiologically-motivated synchrony-based processing for robust automatic
+    speech recognition
+  type: 2
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/KimEtal06.pdf
+  venue: Ninth International Conference on Spoken Language Processing
+  year: 2006
+- authors: DeLiang Wang and Guy J Brown
+  title: Binaural sound localization
+  type: 0
+  url: https://ieeexplore.ieee.org/abstract/document/5769587/
+  venue: Ninth International Conference on Spoken Language Processing
+  year: 2006
+- authors: Bhiksha Raj and Richard M Stern
+  title: Missing-feature approaches in speech recognition
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/1511828/
+  venue: IEEE Signal Processing Magazine
+  year: 2005
+- authors: Chiman Kwan and Xiaokun Li and Debang Lao and Yunbin Deng and Zhubing Ren
+    and Bhiksha Raj and Rita Singh and R Stern
+  title: Voice driven applications in non-stationary and chaotic environment
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1708609/
+  venue: 2005 IEEE International Conference on Robotics and Biomimetics-ROBIO
+  year: 2005
+- authors: Nam Soo Kim and Woohyung Lim and Richard M Stern
+  title: Feature compensation based on switching linear dynamic model
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/1430750/
+  venue: IEEE Signal Processing Letters
+  year: 2005
+- authors: B Raj and RM Stern
+  title: Missing-feature methods for robust automatic speech recognition
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=9983259466008158462&hl=en&oi=scholarr
+  venue: IEEE Signal Processing Letters
+  year: 2005
+- authors: Richard M Stern
+  title: 'Signal separation motivated by human auditory perception: Applications to
+    automatic speech recognition'
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/0-387-22794-6_9
+  venue: IEEE Signal Processing Letters
+  year: 2005
+- authors: Wooil Kim and Richard M Stern and Hanseok Ko
+  title: Environment-independent mask estimation for missing-feature reconstruction
+  type: 2
+  url: https://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/KimStern05.pdf
+  venue: Ninth European Conference on Speech Communication and Technology
+  year: 2005
+- authors: Constantine Trahiotis and Leslie R Bernstein and Richard M Stern and Thomas
+    N Buell
+  title: 'Interaural correlation as the basis of a working model of binaural processing:
+    an introduction'
+  type: 1
+  url: https://link.springer.com/chapter/10.1007/0-387-28863-5_7
+  venue: Sound source localization
+  year: 2005
+- authors: Michael L Seltzer and Bhiksha Raj and Richard M Stern
+  title: A Bayesian classifier for spectrographic mask estimation for missing feature
+    speech recognition
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0167639304000688
+  venue: Speech Communication
+  year: 2004
+- authors: Bhiksha Raj and Michael L Seltzer and Richard M Stern
+  title: Reconstruction of missing features for robust speech recognition
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0167639304000627
+  venue: Speech communication
+  year: 2004
+- authors: Michael L Seltzer and Bhiksha Raj and Richard M Stern
+  title: Likelihood-maximizing beamforming for robust hands-free speech recognition
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/1323085/
+  venue: IEEE Transactions on speech and audio processing
+  year: 2004
+- authors: Michael L Seltzer and Richard M Stern
+  title: Parameter sharing in subband likelihood-maximizing beamforming for speech
+    recognition using microphone arrays
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1326127/
+  venue: 2004 IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 2004
+- authors: Xiang Li and Richard M Stern
+  title: Feature generation based on maximum normalized acoustic likelihood for improved
+    speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1326043/
+  venue: 2004 IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 2004
+- authors: Satanjeev Banerjee and Jason Cohen and Thomas Quisel and Arthur Chan and
+    Yash Patodia and Ziad Al Bawab and Rong Zhang and Alan Black and Roxana Sarbu
+    and Alexander Rudnicky and Paul E Rybski and Manuela Veloso
+  title: Creating multi-modal, user-centric records of meetings with the carnegie
+    mellon meeting recorder architecture
+  type: 0
+  url: https://kilthub.cmu.edu/articles/journal_contribution/Creating_Multi-Modal_User-Centric_Records_of_Meetings_with_the_Carnegie_Mellon_Meeting_Recorder_Architecture/6604565
+  venue: 2004 IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 2004
+- authors: Bhiksha Raj and Rita Singh and Richard Stern
+  title: On tracking noise with linear dynamical system models
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1326148/
+  venue: 2004 IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 2004
+- authors: Yasunari Obuchi and Nobuo Hataoka and Richard M Stern
+  title: Normalization of time-derivative parameters for robust speech recognition
+    in small devices
+  type: 1
+  url: https://search.ieice.org/bin/summary.php?id=e87-d_4_1004
+  venue: IEICE Transactions on Information and Systems
+  year: 2004
+- authors: Xiang Li and Richard Stern
+  title: Parallel feature generation based on maximizing normalized acoustic likelihood
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=9538811971797419493&hl=en&oi=scholarr
+  venue: Eighth International Conference on Spoken Language Processing
+  year: 2004
+- authors: Luis R Salgado-Garza and Richard M Stern and Juan A Nolazco F
+  title: N-Best list rescoring using syntactic trigrams
+  type: 2
+  url: https://link.springer.com/chapter/10.1007/978-3-540-24694-7_9
+  venue: 'MICAI 2004: Advances in Artificial Intelligence: Third Mexican International
+    Conference on Artificial Intelligence, Mexico City, Mexico, April 26-30, 2004.
+    Proceedings 3'
+  year: 2004
+- authors: Xiang Li and Richard M Stern
+  title: Feature generation based on maximum classification probability for improved
+    speech recognition.
+  type: 2
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/euro03_X3.pdf
+  venue: INTERSPEECH
+  year: 2003
+- authors: Yasunari Obuchi and Richard M Stern
+  title: Normalization of time-derivative parameters using histogram equalization.
+  type: 2
+  url: https://www.researchgate.net/profile/Richard-Stern-5/publication/221484855_Normalization_of_time-derivative_parameters_using_histogram_equalization/links/542f4f200cf27e39fa99518b/Normalization-of-time-derivative-parameters-using-histogram-equalization.pdf
+  venue: INTERSPEECH
+  year: 2003
+- authors: Xiang Li and Richard M Stern
+  title: Training of stream weights for the decoding of speech using parallel feature
+    streams
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1198910/
+  venue: 2003 IEEE International Conference on Acoustics, Speech, and Signal Processing,
+    2003. Proceedings.(ICASSP'03).
+  year: 2003
+- authors: Michael L Seltzer and Richard M Stern
+  title: Subband parameter optimization of microphone arrays for speech recognition
+    in reverberant environments
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1198804/
+  venue: 2003 IEEE International Conference on Acoustics, Speech, and Signal Processing,
+    2003. Proceedings.(ICASSP'03).
+  year: 2003
+- authors: X Li and R Stern
+  title: 'SPEECH-P12. 1: TRAINING OF STREAM WEIGHTS FOR THE DECODING OF SPEECH USING
+    PARALLEL FEATURE STREAMS'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=6254898975698105993&hl=en&oi=scholarr
+  venue: IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS SPEECH AND SIGNAL PROCESSING
+  year: 2003
+- authors: Jon P Nedel and Richard M Stern
+  title: Duration Normalization and Hypothesis Combination for Improved Spontaneous
+    Speech Recognition
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=3291604766841472569&hl=en&oi=scholarr
+  venue: Eighth European Conference on Speech Communication and Technology
+  year: 2003
+- authors: "\u8352\u4E95\u517C\u79C0"
+  title: Mitsubishi Electric Research Laboratories
+  type: 1
+  url: https://www.jstage.jst.go.jp/article/isciesci/46/12/46_KJ00001013146/_article/-char/ja/
+  venue: "\u30B7\u30B9\u30C6\u30E0/\u5236\u5FA1/\u60C5\u5831"
+  year: 2002
+- authors: Jon P Nedel and Richard M Stern
+  title: Duration normalization for improved automatic speech recognition
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/112/5_Supplement/2321/541425
+  venue: The Journal of the Acoustical Society of America
+  year: 2002
+- authors: Richard Stern
+  title: REFERENCES TO CONTEMPORARY PAPERS ON ACOUSTICS 2002 Edition
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/112/3/iii/2874926
+  venue: J. Acoust. Soc. Am
+  year: 2002
+- authors: Xiang Li and Rita Singh and Richard M Stern
+  title: Combining search spaces of heterogeneous recognizers for improved speech
+    recogniton.
+  type: 2
+  url: https://www.cs.cmu.edu/~rsingh/homepage/papers/1657.icslp2002.pdf
+  venue: INTERSPEECH
+  year: 2002
+- authors: Michael L Seltzer and Bhiksha Raj and Richard M Stern
+  title: Speech recognizer-based microphone array processing for robust hands-free
+    speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5743884/
+  venue: 2002 IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 2002
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Automatic generation of subword units for speech recognition systems
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/985546/
+  venue: IEEE Transactions on Speech and Audio Processing
+  year: 2002
+- authors: Xiang Li and Rita Singh and Richard M Stern
+  title: Lattice combination for improved speech recognition
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/icslp02_xiang.pdf
+  venue: "ICSLP\u201902"
+  year: 2002
+- authors: Bhiksha Raj and Michael L Seltzer and Richard M Stern
+  title: 'Robust speech recognition: the case for restoring missing features'
+  type: 1
+  url: https://www.academia.edu/download/30790473/TR2001-40.pdf
+  venue: Proc. of Eurospeech, The Workshop on Consistent and Reliable Acoustic Cues,
+    Aalborg, Denmark
+  year: 2001
+- authors: Jon P Nedel and Richard M Stern
+  title: Duration normalization for improved recognition of spontaneous and read speech
+    via missing feature methods
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/940830/
+  venue: 2001 IEEE International Conference on Acoustics, Speech, and Signal Processing.
+    Proceedings (Cat. No. 01CH37221)
+  year: 2001
+- authors: Rita Singh and Michael L Seltzer and Bhiksha Raj and Richard M Stern
+  title: 'Speech in noisy environments: robust automatic segmentation, feature extraction,
+    and hypothesis combination'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/940820/
+  venue: 2001 IEEE International Conference on Acoustics, Speech, and Signal Processing.
+    Proceedings (Cat. No. 01CH37221)
+  year: 2001
+- authors: Juan M Huerta and Richard M Stern
+  title: Distortion-class modeling for robust speech recognition under GSM RPE-LTP
+    coding
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0167639300000558
+  venue: Speech Communication
+  year: 2001
+- authors: Arthur G Every and Wolfgang Sachse and Veerle Keppens
+  title: Dynamic methods for measuring the elastic properties of solids
+  type: 1
+  url: https://cir.nii.ac.jp/crid/1130000797862658560
+  venue: (No Title)
+  year: 2001
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Automatic generation of phone sets and lexical transcriptions
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/862076/
+  venue: 2000 IEEE International Conference on Acoustics, Speech, and Signal Processing.
+    Proceedings (Cat. No. 00CH37100)
+  year: 2000
+- authors: S-J Doh and R Stern
+  title: Inter-class MLLR for speaker adaptation
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/861957/
+  venue: 2000 IEEE International Conference on Acoustics, Speech, and Signal Processing.
+    Proceedings (Cat. No. 00CH37100)
+  year: 2000
+- authors: Mosur Ravishankar and Rita Singh and Bhiksha Raj and Richard M Stern
+  title: The 1999 CMU 10x real time broadcast news transcription system
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=4042769824778657853&hl=en&oi=scholarr
+  venue: Proc. darpa workshop on automatic transcription of broadcast news
+  year: 2000
+- authors: TungFai Chan and Annie Cheng and Hui Zhang and Dave Nagle and Richard Stern
+  title: A monitoring tool for self-organizing overlay network
+  type: 0
+  url: http://www.cs.cmu.edu/~./tungfai/Documents/Thesis/Proposal.doc
+  venue: Proc. darpa workshop on automatic transcription of broadcast news
+  year: 2000
+- authors: Juan M Huerta and Richard M Stern
+  title: Instantaneous-Distortion Based Weighted Acoustic Modeling for Robust Recognition
+    of Coded Speech
+  type: 2
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/icslp2k_huerta.pdf
+  venue: Sixth International Conference on Spoken Language Processing
+  year: 2000
+- authors: Sam-Joo Doh and Richard M Stern
+  title: Using class weighting in inter-class MLLR
+  type: 2
+  url: https://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/icslp2k_doh.pdf
+  venue: Sixth International Conference on Spoken Language Processing
+  year: 2000
+- authors: Jon P Nedel and Rita Singh and Richard M Stern
+  title: 'Phone transition acoustic modeling: application to speaker independent and
+    spontaneous speech systems.'
+  type: 2
+  url: https://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/icslp2k_nedel1.pdf
+  venue: INTERSPEECH
+  year: 2000
+- authors: Jon P Nedel and Rita Singh and Richard M Stern
+  title: Automatic subword unit refinement for spontaneous speech recognition via
+    phone splitting.
+  type: 2
+  url: https://www.cs.cmu.edu/~robust/Papers/icslp2k_nedel2.pdf
+  venue: INTERSPEECH
+  year: 2000
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Structured redefinition of sound units by merging and splitting for improved
+    speech recognition
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=1248421622910256401&hl=en&oi=scholarr
+  venue: Sixth International Conference on Spoken Language Processing
+  year: 2000
+- authors: Michael L Seltzer and Bhiksha Raj and Richard M Stern
+  title: Classifier-based mask estimation for missing feature methods of robust speech
+    recognition
+  type: 2
+  url: https://www.cs.cmu.edu/~robust/Papers/icslp2k_seltzer.pdf
+  venue: Sixth International Conference on Spoken Language Processing
+  year: 2000
+- authors: Bhiksha Raj and Michael L Seltzer and Richard M Stern
+  title: Reconstruction of damaged spectrographic features for robust speech recognition
+  type: 2
+  url: http://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/icslp2k_raj.pdf
+  venue: Sixth International Conference on Spoken Language Processing
+  year: 2000
+- authors: Sam-Joo Doh and Richard M Stern
+  title: Weighted principal component MLLR for speaker adaptation
+  type: 1
+  url: http://www.cs.cmu.edu/~robust/Papers/asru99_doh.pdf
+  venue: Proc. of the IEEE Workshop on Automatic Speech Recognition and Understanding
+    (ASRU)
+  year: 1999
+- authors: Constantine Trahiotis and Leslie R Bernstein and Richard M Stern
+  title: "Selected aspects of across\u2010frequency processing in binaural hearing"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/106/4_Supplement/2177/547557
+  venue: The Journal of the Acoustical Society of America
+  year: 1999
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Automatic clustering and generation of contextual questions for tied states
+    in hidden Markov models
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/758076/
+  venue: 1999 IEEE International Conference on Acoustics, Speech, and Signal Processing.
+    Proceedings. ICASSP99 (Cat. No. 99CH36258)
+  year: 1999
+- authors: Juan M Huerta and SJ Chen and Richard M Stern
+  title: The 1998 carnegie mellon university sphinx-3 spanish broadcast news transcription
+    system
+  type: 1
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c9aa70a9914b56cf0bffda04cfc240e88250b278
+  venue: Proc. of the DARPA Broadcast News Transcription and Understanding Workshop
+  year: 1999
+- authors: Richard Martin Stern
+  title: 'Sturm ist ihre Ernte: Roman'
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=16670078611215557025&hl=en&oi=scholarr
+  venue: Proc. of the DARPA Broadcast News Transcription and Understanding Workshop
+  year: 1999
+- authors: Richard Stern
+  title: References to Contemporary Papers on Acoustics
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=338328512716821887&hl=en&oi=scholarr
+  venue: Journal of the Acoustical Society of America
+  year: 1999
+- authors: Juan M Huerta and Richard M Stern
+  title: Distortion-class weighted acoustic modeling for robust speech recognition
+    under GSM RPE-LTP coding
+  type: 1
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5a033780c64ac6454dd17ae80998360a5316c679
+  venue: Proceedings of the Robust Methods for Speech Recognition in Adverse Conditions,
+    Tampere Finland
+  year: 1999
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Domain Adduced State Tying for Cross-Domain Acoustic Modelling
+  type: 2
+  url: http://www.cs.cmu.edu/~robust/Papers/eurospeech99.pdf
+  venue: Sixth European Conference on Speech Communication and Technology
+  year: 1999
+- authors: Bhiksha Raj and Rita Singh and Richard M Stern
+  title: Inference of missing spectrographic features for robust speech recognition.
+  type: 1
+  url: https://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/icslp98r.pdf
+  venue: ICSLP
+  year: 1998
+- authors: Juan M Huerta and Richard M Stern
+  title: Speech recognition from GSM codec parameters.
+  type: 2
+  url: https://www.academia.edu/download/43660444/icslp98_juan.pdf
+  venue: ICSLP
+  year: 1998
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: 'Data-driven environmental compensation for speech recognition: A unified
+    approach'
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0167639398000259
+  venue: Speech Communication
+  year: 1998
+- authors: Juan M Huerta and Eric Thayer and Mosur Ravishankar and Richard M Stern
+  title: The development of the 1997 CMU Spanish broadcast news transcription system
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/SLT98-H4NE.pdf
+  venue: Proceedings of the DARPA Broadcast News Transcription and Understanding Workshop,
+    Lansdowne, VA
+  year: 1998
+- authors: Kristie Seymore and Ronald Rosenfeld and S Chen and Maxine Eskenazi and
+    E Gouvea and Raj Reddy and Mosur Ravishankar and Matthew Siegler and Richard Stern
+    and Eric Thayer
+  title: The 1997 CMU Sphinx-3 English broadcast news transcription system
+  type: 0
+  url: https://kilthub.cmu.edu/articles/conference_contribution/The_1997_CMU_Sphinx-3_English_Broadcast_News_Transcription_System/21709784
+  venue: Proceedings of the DARPA Broadcast News Transcription and Understanding Workshop,
+    Lansdowne, VA
+  year: 1998
+- authors: Richard M Stern and Constantine Trahiotis
+  title: Binaural mechanisms that emphasize consistent interaural timing information
+    over frequency
+  type: 1
+  url: https://www.cs.cmu.edu/afs/cs.cmu.edu/user/rms/www/BinauralWeb/papers/SternTrahiotis_ish97.pdf
+  venue: Proceedings of the XI International Symposium on Hearing, AR Palmer, A. Rees,
+    AQ Summerfield, and R. Meddis, Eds
+  year: 1998
+- authors: "Evandro B Gouv\xEAa and Richard M Stern"
+  title: Speaker normalization through formant-based warping of the frequency scale.
+  type: 2
+  url: https://www.cs.cmu.edu/~robust/Papers/euro97-warp.pdf
+  venue: Eurospeech
+  year: 1997
+- authors: Richard Stern and VASILIKl KARLIS and Lisa Kinney and Robert Glickman
+  title: Using the international normalized ratio to standardize prothrombin time
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0002817715604275
+  venue: The Journal of the American Dental Association
+  year: 1997
+- authors: Bhiksha Raj and Vipul N Parikh and Richard M Stern
+  title: The effects of background music on speech recognition accuracy
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/596069/
+  venue: 1997 IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 1997
+- authors: "Bhiksha Raj and Evandro Gouv\xEAa and Richard M Stern"
+  title: Cepstral compensation using statistical linearization
+  type: 1
+  url: http://www.cs.cmu.edu/~egouvea/paper/etrw97.pdf
+  venue: Proc. of the ESCA Tutorial and Research Workshop on Robust Speech Recognition
+    for Unknown Communication Channels, Pont-au-Mousson, France
+  year: 1997
+- authors: Matthew A Siegler and Uday Jain and Bhiksha Raj and Richard M Stern
+  title: Automatic segmentation, classification and clustering of broadcast news audio
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs/user/msiegler/www/publish/DARPA/darpa97-H4seg.pdf
+  venue: Proc. DARPA speech recognition workshop
+  year: 1997
+- authors: Vipul N Parikh and Bhiksha Raj and Richard M Stern
+  title: Speaker adaptation and environmental compensation for the 1996 broadcast
+    news task
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=9491713474603270456&hl=en&oi=scholarr
+  venue: Proc. DARPA Speech Recognition Workshop
+  year: 1997
+- authors: Paul Placeway and Scotte Chen and Maxine Eskenazi and Uday Jain and Vipul
+    Parikh and Bhiksha Raj and Mosur Ravishankar and Roni Rosenfeld and Kristie Seymore
+    and M Siegler and R Stern and Eric Thayer
+  title: The 1996 hub-4 sphinx-3 system
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs/user/roni/WWW/papers/Placewayetal97.pdf
+  venue: Proc. DARPA Speech recognition workshop
+  year: 1997
+- authors: Sumin Chen and M Eskenazi and U Jain and V Parikh and B Raj and M Ravishankar
+    and R Rosenfeld and K Seymore and M Siegler and R Stern and E Thayer
+  title: The 1996 Hub-4 Sphinx-3 system
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=9671143409358234900&hl=en&oi=scholarr
+  venue: Proceedings of the ARPA Speech Recognition Workshop
+  year: 1997
+- authors: RM STERN
+  title: Compensation for Environmental Degradation in Automatic Speech Rpeech Recognition
+    in Automatic Speech Recognition
+  type: 1
+  url: https://cir.nii.ac.jp/crid/1573105973880099840
+  venue: ESCA-NATO Workshop on Robust Speech Recognition for Unknown Communication
+    Channels
+  year: 1997
+- authors: "Bhiksha Raj and Evandro B Gouv\xEAa and Richard M Stern"
+  title: Vector polynomial approximations for robust speech recognition
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/etrw97-vps.pdf
+  venue: Proc. of the ESCA Workshop ETRW on Speech Processing in Adverse Conditions
+  year: 1997
+- authors: Juan M Huerta and Richard M Stern
+  title: Compensation for environmental and speaker variability by normalization of
+    pole locations.
+  type: 2
+  url: http://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/euro97poles.pdf
+  venue: EUROSPEECH
+  year: 1997
+- authors: R Stern
+  title: Specification of the 1996 Hub4 broadcast news evaluation
+  type: 1
+  url: https://cir.nii.ac.jp/crid/1573668924006644480
+  venue: Proc. ARPA Speech Recognition Workshop
+  year: 1997
+- authors: Richard M Stern and Constantine Trahiotis
+  title: Models of binaural perception
+  type: 1
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c12341b627d5929004eef9947f0e85daad1cf518
+  venue: Binaural and spatial hearing in real and virtual environments
+  year: 1997
+- authors: Richard M Stern and Bhiksha Raj and Pedro J Moreno
+  title: Compensation for environmental degradation in automatic speech recognition
+  type: 0
+  url: https://www.isca-speech.org/archive_open/rsr_97/rsr7_033.html
+  venue: Binaural and spatial hearing in real and virtual environments
+  year: 1997
+- authors: "Bhiksha Raj and Evandro Bacci Gouv\xEAa and Pedro J Moreno and Richard\
+    \ M Stern"
+  title: Cepstral compensation by polynomial approximation for environment-independent
+    speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/607277/
+  venue: Proceeding of Fourth International Conference on Spoken Language Processing.
+    ICSLP'96
+  year: 1996
+- authors: Richard M Stern and Pedro J Moreno and Bhiksha Raj
+  title: Compensation for speech recognition in degraded acoustical environments
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/100/4_Supplement/2792/563197
+  venue: The Journal of the Acoustical Society of America
+  year: 1996
+- authors: Richard M Stern and Glenn D Shear
+  title: "Lateralization and detection of low\u2010frequency binaural stimuli: Effects\
+    \ of distribution of internal delay"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/100/4/2278/580314
+  venue: The Journal of the Acoustical Society of America
+  year: 1996
+- authors: RM Stern and GD Shear
+  title: 'Lateralization and Detection of Low-Frequency Binaural Stimuli: Specification
+    ot the Extended Position-Variable Model'
+  type: 1
+  url: https://www.researchgate.net/profile/Richard-Stern-5/publication/239547415_Lateralization_and_Detection_of_Low-Frequency_Binaural_Stimuli_Specification_ot_the_Extended_Position-Variable_Model/links/53d77aff0cf29f55cfb4d243/Lateralization-and-Detection-of-Low-Frequency-Binaural-Stimuli-Specification-ot-the-Extended-Position-Variable-Model.pdf
+  venue: "J. Acoust. Soc. Am. AIP Document No. E\u2013PAPS E\u2013JASMA\u2013100\u2013\
+    2278"
+  year: 1996
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: A vector Taylor series approach for environment-independent speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/543225/
+  venue: 1996 IEEE international conference on acoustics, speech, and signal processing
+    conference proceedings
+  year: 1996
+- authors: Richard M Stern and Alejandro Acero and Fu-Hua Liu and Yoshiaki Ohshima
+  title: Signal processing for robust speech recognition
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-1-4613-1367-0_15
+  venue: 1996 IEEE international conference on acoustics, speech, and signal processing
+    conference proceedings
+  year: 1996
+- authors: "Evandro B Gouv\xEAa and Pedro J Moreno and Bhiksha Raj and Thomas M Sullivan\
+    \ and Richard M Stern"
+  title: 'Adaptation and compensation: Approaches to microphone and speaker independence
+    in automatic speech recognition'
+  type: 1
+  url: https://www.academia.edu/download/30790499/darpa96_H3.pdf
+  venue: Proc. DARPA Speech Recognition Workshop
+  year: 1996
+- authors: Richard M Stern
+  title: 'Specification of the 1995 ARPA hub 3 evaluation: Unlimited vocabulary NAB
+    news baseline'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=4766397692029325549&hl=en&oi=scholarr
+  venue: Proceedings of the DARPA Speech Recognition Workshop
+  year: 1996
+- authors: Uday Jain and Matthew A Siegler and Sam-Joo Doh and Evandro Gouvea and
+    Juan Huerta and Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: Recognition of continuous broadcast news with multiple unknown speakers and
+    environments
+  type: 1
+  url: https://www.academia.edu/download/38450893/darpa96-H4.pdf
+  venue: Proc. DARPA Speech Recognition Workshop
+  year: 1996
+- authors: RM Stern and TM Sullivan
+  title: Robust speech recognition using signal processing based on binaural perception
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=9612294347602176446&hl=en&oi=scholarr
+  venue: ACUSTICA
+  year: 1996
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: A unified approach for robust speech recognition.
+  type: 2
+  url: https://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/euro95.pdf
+  venue: EUROSPEECH
+  year: 1995
+- authors: Pedro J Moreno and Bhiksha Raj and Evandro Gouvea and Richard M Stern
+  title: Multivariate-Gaussian-based cepstral normalization for robust speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/479292/
+  venue: 1995 International Conference on Acoustics, Speech, and Signal Processing
+  year: 1995
+- authors: Matthew A Siegler and Richard M Stern
+  title: On the effects of speech rate in large vocabulary speech recognition systems
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/479672/
+  venue: 1995 international conference on acoustics, speech, and signal processing
+  year: 1995
+- authors: Richard Stern
+  title: Automatic speech recognition using signal processing based on auditory physiology
+    and perception
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/97/5_Supplement/3260/646608
+  venue: The Journal of the Acoustical Society of America
+  year: 1995
+- authors: GJ PALUMBO and R STERN and WC GLASGOW and L MARTINEZ and RM BULLER and
+    RW MOYER
+  title: RABBITPOX PS/HR (VV-WR-B5R ORF) GENE-PRODUCT INHIBITS THE GENERATION OF AN
+    INFLAMMATORY RESPONSE IN-VIVO
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=15976252374801304235&hl=en&oi=scholarr
+  venue: JOURNAL OF CELLULAR BIOCHEMISTRY
+  year: 1995
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: Approaches to Environment Compensation in Automatic Speech Recognition
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/ica95.pdf
+  venue: "Proceeding of the 1995 International Conference in Acoustics ICA\u201995"
+  year: 1995
+- authors: Pedro J Moreno and Uday Jain and Bhiksha Raj and Richard M Stern
+  title: Approaches to microphone independence in Automatic Speech Recognition
+  type: 1
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=71f169ce029da28e35e2c198c7727105b2c3e91b
+  venue: Proceedings of the ARPA Spoken Language Systems Technology Workshop
+  year: 1995
+- authors: Richard M Stern
+  title: Robust speech recognition
+  type: 0
+  url: https://www.tsc.uc3m.es/~fdiaz/docencia/Seminario_R_Stern/Carlos3_05b.pdf
+  venue: Proceedings of the ARPA Spoken Language Systems Technology Workshop
+  year: 1995
+- authors: Pedro J Moreno and Matthew A Siegler and Uday Jain and Richard M Stern
+  title: Continuous Recognition of Large-Vocabulary Telephone-Quality Speech
+  type: 1
+  url: https://www.researchgate.net/profile/Richard-Stern-5/publication/245787123_Continuous_Recognition_of_Large_Vocabulary_Telephone_Quality_Speech/links/53d77afd0cf29f55cfb4d242/Continuous-Recognition-of-Large-Vocabulary-Telephone-Quality-Speech.pdf
+  venue: Proc. ARPA Spoken Language Systems Technology Workshop
+  year: 1995
+- authors: Richard M Stern and Constantine Trahiotis
+  title: Models of binaural interaction
+  type: 1
+  url: https://books.google.com/books?hl=en&lr=&id=OywDx9pxCMYC&oi=fnd&pg=PA347&dq=info:xjmdmCNn_ccJ:scholar.google.com&ots=P00O-6g1v-&sig=zZHSB2yyP00CUxYqeOkZ45ND_YQ
+  venue: Handbook of perception and cognition
+  year: 1995
+- authors: Constantine Trahiotis and Richard M Stern
+  title: "Across\u2010frequency interaction in lateralization of complex binaural\
+    \ stimuli"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/96/6/3804/626415
+  venue: The Journal of the Acoustical Society of America
+  year: 1994
+- authors: Yoshiaki Ohshima and Richard M Stern
+  title: Environmental robustness in automatic speech recognition using physiologic
+    ally-motivated signal processing.
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=10463621924515913478&hl=en&oi=scholarr
+  venue: ICSLP
+  year: 1994
+- authors: Nobutoshi Hanai and Richard M Stern
+  title: Robust speech recognition in the automobile.
+  type: 2
+  url: https://www.academia.edu/download/85113964/icslp94_hanai.pdf
+  venue: ICSLP
+  year: 1994
+- authors: Wonseok Lee and Richard M Stern
+  title: "Consistency over frequency in high\u2010frequency binaural lateralization"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/95/5_Supplement/2896/675850
+  venue: The Journal of the Acoustical Society of America
+  year: 1994
+- authors: Fu-Hua Liu and Richard M Stern and Alejandro Acero and Pedro J Moreno
+  title: Environment normalization for robust speech recognition using direct cepstral
+    comparison
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/389718/
+  venue: Proceedings of ICASSP'94. IEEE International Conference on Acoustics, Speech
+    and Signal Processing
+  year: 1994
+- authors: Pedro J Moreno and Richard M Stern
+  title: Sources of degradation of speech recognition in the telephone network
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/389343/
+  venue: Proceedings of ICASSP'94. IEEE International Conference on Acoustics, Speech
+    and Signal Processing
+  year: 1994
+- authors: Richard M Stern
+  title: 'Session 14: New Directions/Applications'
+  type: 2
+  url: https://scholar.archive.org/work/olkjeaogcndnjlenlffv6mg5lm/access/wayback/https://aclanthology.org/H94-1082.pdf
+  venue: 'Human Language Technology: Proceedings of a Workshop held at Plainsboro,
+    New Jersey, March 8-11, 1994'
+  year: 1994
+- authors: Fu-Hua Liu and Pedro J Moreno and Richard M Stem and Alejandro Acero
+  title: Signal processing for robust speech recognition
+  type: 2
+  url: https://aclanthology.org/H94-1066.pdf
+  venue: 'Human Language Technology: Proceedings of a Workshop held at Plainsboro,
+    New Jersey, March 8-11, 1994'
+  year: 1994
+- authors: Thomas M Sullivan and Richard M Stern
+  title: Multi-microphone correlation-based processing for robust speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/319238/
+  venue: 1993 IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 1993
+- authors: Thomas M Sullivan and Richard M Stern
+  title: "Multi\u2010microphone cross\u2010correlation based processing for robust\
+    \ speech recognition"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/93/4_Supplement/2319/687028
+  venue: The Journal of the Acoustical Society of America
+  year: 1993
+- authors: Fu-Hua Liu and Richard M Stern and Xuedong Huang and Alejandro Acero
+  title: Efficient cepstral normalization for robust speech recognition
+  type: 2
+  url: https://aclanthology.org/H93-1014.pdf
+  venue: 'Human Language Technology: Proceedings of a Workshop Held at Plainsboro,
+    New Jersey, March 21-24, 1993'
+  year: 1993
+- authors: Samuel H Tao and Richard M Stern
+  title: Additive versus multiplicative combination of differences of interaural time
+    and intensity.
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/91/4_Supplement/2414/729937
+  venue: The Journal of the Acoustical Society of America
+  year: 1992
+- authors: F-H Liu and Alejandro Acero and Richard M Stern
+  title: Efficient joint compensation of speech for the effects of additive noise
+    and linear filtering
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/225923/
+  venue: '[Proceedings] ICASSP-92: 1992 IEEE International Conference on Acoustics,
+    Speech, and Signal Processing'
+  year: 1992
+- authors: Alejandro Acero and Richard M Stern
+  title: Cepstral normalization for robust speech recognition
+  type: 2
+  url: https://www.isca-speech.org/archive_open/spac/spac_089.html
+  venue: Speech processing in adverse conditions
+  year: 1992
+- authors: Wayne Ward and Sunil Issar and Xuedong Huang and Hsiao-Wuen Hon and Mei-Yuh
+    Hwang and Sheryl Young and Mike Matessa and Fu-Hua Liu and Richard M Stern
+  title: Speech understanding in open tasks
+  type: 2
+  url: https://aclanthology.org/H92-1015.pdf
+  venue: 'Speech and Natural Language: Proceedings of a Workshop Held at Harriman,
+    New York, February 23-26, 1992'
+  year: 1992
+- authors: Richard M Stern and Constantine Trahiotis
+  title: The role of consistency of interaural timing over frequency in binaural lateralization
+  type: 0
+  url: https://www.sciencedirect.com/science/article/pii/B9780080418476500678
+  venue: 'Speech and Natural Language: Proceedings of a Workshop Held at Harriman,
+    New York, February 23-26, 1992'
+  year: 1992
+- authors: Richard M Stern and Fu-Hua Liu and Yoshiaki Ohshima and Thomas M Sullivan
+    and Alejandro Acero
+  title: Multiple approaches to robust speech recognition
+  type: 2
+  url: https://aclanthology.org/H92-1055.pdf
+  venue: 'Speech and Natural Language: Proceedings of a Workshop Held at Harriman,
+    New York, February 23-26, 1992'
+  year: 1992
+- authors: Richard M Stern and Andrew S Zeiberg and Constantine Trahiotis
+  title: "Erratum: Lateralization of complex binaural stimuli: A weighted\u2010image\
+    \ model [J. Acoust. Soc. Am. 84, 156\u2013165 (1988)]"
+  type: 1
+  url: https://asa.scitation.org/doi/pdf/10.1121/1.402404
+  venue: The Journal of the Acoustical Society of America
+  year: 1991
+- authors: Richard M Stern and Torsten Zeppenfeld and Glenn D Shear
+  title: 'Lateralization of rectangularly modulated noise: Explanations for counterintuitive
+    reversals'
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/90/4/1908/963899
+  venue: The Journal of the Acoustical Society of America
+  year: 1991
+- authors: Alejandro Acero and Richard M Stern
+  title: Robust speech recognition by normalization of the acoustic space.
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/ica91.pdf
+  venue: icassp
+  year: 1991
+- authors: William Anthony Michael Rozzi
+  title: Speaker adaptation in continuous speech recognition via estimation of correlated
+    mean vectors
+  type: 0
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=25d3c6d178e297513ab35869a00e12065b625609
+  venue: icassp
+  year: 1991
+- authors: Alejandro Acero and Richard M Stern
+  title: ACOUSTICAL PRE-PROCESSING
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=3751568548036600399&hl=en&oi=scholarr
+  venue: icassp
+  year: 1990
+- authors: Douglas A Coast and Richard M Stern and Gerald G Cano and Stanley A Briller
+  title: An approach to cardiac arrhythmia analysis using hidden Markov models
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/58593/
+  venue: IEEE Transactions on biomedical Engineering
+  year: 1990
+- authors: Alejandro Acero and Richard M Stern
+  title: Environmental robustness in automatic speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/115971/
+  venue: International Conference on Acoustics, Speech, and Signal Processing
+  year: 1990
+- authors: Richard Martin Stern
+  title: "Tsunami: jeder Tag z\xE4hlt; Roman"
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=11087634817715350890&hl=en&oi=scholarr
+  venue: International Conference on Acoustics, Speech, and Signal Processing
+  year: 1990
+- authors: Richard M Stern
+  title: Overview of the Third DARPA Speech and Natural Language Workshop
+  type: 2
+  url: https://aclanthology.org/H90-1001.pdf
+  venue: 'Speech and Natural Language: Proceedings of a Workshop Held at Hidden Valley,
+    Pennsylvania, June 24-27, 1990'
+  year: 1990
+- authors: Richard Stern
+  title: References to contemporary papers on acoustics.
+  type: 1
+  url: https://europepmc.org/article/med/2197308
+  venue: The Journal of the Acoustical Society of America
+  year: 1990
+- authors: Alejandro Acero and Richard M Stern
+  title: Acoustical Pre-Processing for Robust Spoken Language Systems
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=6631765123568475256&hl=en&oi=scholarr
+  venue: First International Conference on Spoken Language Processing
+  year: 1990
+- authors: Alejandro Acero and Richard M Stern
+  title: Towards environment-independent spoken language systems
+  type: 2
+  url: https://aclanthology.org/H90-1034.pdf
+  venue: 'Speech and Natural Language: Proceedings of a Workshop Held at Hidden Valley,
+    Pennsylvania, June 24-27, 1990'
+  year: 1990
+- authors: Richard Stern and Alex Acero
+  title: Acoustical preprocessing for automatic speech recognition
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=15431580211503770346&hl=en&oi=scholarr
+  venue: DARPA Speech and Natural Language Workshop
+  year: 1989
+- authors: Constantine Trahiotis and Richard M Stern
+  title: 'Lateralization of bands of noise: Effects of bandwidth and differences of
+    interaural time and phase'
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/86/4/1285/901346
+  venue: The Journal of the Acoustical Society of America
+  year: 1989
+- authors: David M Green and Georeg F Kuhn and Robert Butler and HS Colburn and John
+    C Middlebrooks and Richard M Stern and James R Lackner and William A Yost
+  title: Sound Localization by Human Observers Symposium Proceedings Held in National
+    Academy of Sciences on 14-16 October 1988
+  type: 0
+  url: https://apps.dtic.mil/sti/citations/ADA212877
+  venue: The Journal of the Acoustical Society of America
+  year: 1989
+- authors: Richard Martin Stern
+  title: "T\xF6dliche Flut: Roman"
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=12430504893544767822&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1989
+- authors: Richard Martin Stern
+  title: "Die Todesbr\xFCcke: Roman"
+  type: 1
+  url: https://cir.nii.ac.jp/crid/1130282272888190592
+  venue: (No Title)
+  year: 1989
+- authors: Richard M Stern
+  title: Spoken language systems II
+  type: 2
+  url: https://aclanthology.org/H89-2025.pdf
+  venue: 'Speech and Natural Language: Proceedings of a Workshop Held at Cape Cod,
+    Massachusetts, October 15-18, 1989'
+  year: 1989
+- authors: Richard M Stern and Alejandro Acero
+  title: Acoustical pre-processing for robust speech recognition
+  type: 2
+  url: https://aclanthology.org/H89-2044.pdf
+  venue: 'Speech and Natural Language: Proceedings of a Workshop Held at Cape Cod,
+    Massachusetts, October 15-18, 1989'
+  year: 1989
+- authors: Richard M Stern and Glenn D Shear and Torsten Zeppenfeld
+  title: "Lateralization predictions for high\u2010frequency binaural stimuli"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/84/S1/S80/624817
+  venue: The Journal of the Acoustical Society of America
+  year: 1988
+- authors: Richard M Stern and Andrew S Zeiberg and Constantine Trahiotis
+  title: "Lateralization of complex binaural stimuli: A weighted\u2010image model"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/84/1/156/956724
+  venue: The Journal of the Acoustical Society of America
+  year: 1988
+- authors: Wayne H Ward and Alexander G Hauptmann and Richard M Stern and Thomas Chanak
+  title: Parsing spoken phrases despite missing words.
+  type: 2
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8ef961aca4b6eb5e1404dd7e3d1bab48373ec3e3
+  venue: ICASSP
+  year: 1988
+- authors: Richard Martin Stern and Karl-Otto von Czernicki
+  title: "H\xF6lle im Schnee: Roman"
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=8992553192115795578&hl=en&oi=scholarr
+  venue: ICASSP
+  year: 1988
+- authors: Richard Martin Stern and Helmug Bergner
+  title: 'Die Himmelsmaschine: Roman'
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=8017536482680345786&hl=en&oi=scholarr
+  venue: ICASSP
+  year: 1988
+- authors: Constantine Trahiotis and Richard M Stern
+  title: differences of interaural time and phase
+  type: 1
+  url: http://www.cs.cmu.edu/~rms/BinauralWeb/papers/TrahiotisStern89.pdf
+  venue: Acoust. Soc. Am
+  year: 1988
+- authors: Richard Stern
+  title: A satellite classroom for advanced acoustic studies
+  type: 1
+  url: https://asa.scitation.org/doi/pdf/10.1121/1.2025063
+  venue: The Journal of the Acoustical Society of America
+  year: 1987
+- authors: RM Stern and M Lasry
+  title: Dynamic speaker adaptation for feature-based isolated word recognition
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/1165203/
+  venue: IEEE transactions on acoustics, speech, and signal processing
+  year: 1987
+- authors: Glenn D Shear and Richard M Stern
+  title: "Extending the position\u2010variable model: Dependence of lateralization\
+    \ on frequency and bandwidth"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/81/S1/S27/691059
+  venue: The Journal of the Acoustical Society of America
+  year: 1987
+- authors: R Stern and W Ward and A Hauptmann and Juan Leon
+  title: Sentence parsing with weak grammatical constraints
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1169656/
+  venue: ICASSP'87. IEEE International Conference on Acoustics, Speech, and Signal
+    Processing
+  year: 1987
+- authors: Richard Martin Stern
+  title: 'Waldfeuer: Roman'
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=10017861951079737134&hl=en&oi=scholarr
+  venue: ICASSP'87. IEEE International Conference on Acoustics, Speech, and Signal
+    Processing
+  year: 1987
+- authors: Richard M Stern and Andrew S Zeiberg
+  title: A weighted image model for binaural lateralization
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/80/S1/S107/739216
+  venue: The Journal of the Acoustical Society of America
+  year: 1986
+- authors: Laural Beecher and Richard M Stern
+  title: Perception of modulations in pitch and lateralization
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/79/S1/S22/650277
+  venue: The Journal of the Acoustical Society of America
+  year: 1986
+- authors: Ronald Cole and Richard M Stern and Moshe J Lasry
+  title: 'Performing fine phonetic distinctions: templates versus features'
+  type: 1
+  url: https://www.researchgate.net/profile/Ronald-Cole/publication/324603830_Performing_Fine_Phonetic_Distinctions_Templates_versus_Features/links/5ad8baf4aca272fdaf81acce/Performing-Fine-Phonetic-Distinctions-Templates-versus-Features.pdf
+  venue: Invariance and Variability of Speech Processes
+  year: 1986
+- authors: Laurel Beecher and Richard M Stern
+  title: Perception of modulations in pitch and lateralization
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/78/S1/S18/632036
+  venue: The Journal of the Acoustical Society of America
+  year: 1985
+- authors: Richard M Stern Jr and H Steven Colburn
+  title: "Lateral\u2010position\u2010based models of interaural discrimination"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/77/2/753/933362
+  venue: The Journal of the Acoustical Society of America
+  year: 1985
+- authors: Richard M Stern and Ann E Elsner and Jeffrey L Schiano
+  title: Interaural time discrimination in tonal maskers
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/76/S1/S91/652943
+  venue: The Journal of the Acoustical Society of America
+  year: 1984
+- authors: Moshe J Lasry and Richard M Stern
+  title: A posteriori estimation of correlated jointly Gaussian mean vectors
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/4767559/
+  venue: IEEE transactions on pattern analysis and machine intelligence
+  year: 1984
+- authors: M Lasry and R Stern
+  title: Unsupervised adaptation to new speakers in feature-based letter recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1172566/
+  venue: ICASSP'84. IEEE International Conference on Acoustics, Speech, and Signal
+    Processing
+  year: 1984
+- authors: James L Crowley and Richard M Stern
+  title: Fast computation of the difference of low-pass transform
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/4767504/
+  venue: IEEE transactions on pattern analysis and machine intelligence
+  year: 1984
+- authors: Frances Sharkey and Heiner Simon and Judith Richards and Richard Martin
+    Stern
+  title: 'Geschenk zum Abschied: eine Kurzfassung des Buches'
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=8768855683435904262&hl=en&oi=scholarr
+  venue: IEEE transactions on pattern analysis and machine intelligence
+  year: 1984
+- authors: "Mosh\xE9 J Lasry and Richard M Stern"
+  title: "Unsupervised speaker adaptation in feature\u2010based isolated letter recognition"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/74/S1/S16/668156
+  venue: The Journal of the Acoustical Society of America
+  year: 1983
+- authors: Richard M Stern Jr
+  title: aaLSLLL GGG LL LS GGG L GGG LLLL GGGG AND INTERAURAL DISCRIVIINATION
+  type: 0
+  url: https://www.researchgate.net/profile/H-Steven-Colburn-2/publication/22260747_Lateral_position_and_interaural_discrimination/links/543fccea0cf2fd72f99dae10/Lateral-position-and-interaural-discrimination.pdf
+  venue: The Journal of the Acoustical Society of America
+  year: 1983
+- authors: Richard M Stern Jr and H Steven Colburn
+  title: Subjective Lateral Position and Interaural Discrimination
+  type: 0
+  url: http://www.cs.cmu.edu/afs/cs/user/rms/www/BinauralWeb/papers/paps85.pdf
+  venue: The Journal of the Acoustical Society of America
+  year: 1983
+- authors: Richard M Stern Jr and Janet E Slocum and Michael S Phillips
+  title: Interaural time and amplitude discrimination in noise
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/73/5/1714/669325
+  venue: The Journal of the Acoustical Society of America
+  year: 1983
+- authors: Stephen J Bachorski and Richard M Stern
+  title: Dynamic cues in binaural perception
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/73/S1/S42/693421
+  venue: The Journal of the Acoustical Society of America
+  year: 1983
+- authors: R Stern and M Lasry
+  title: Dynamic speaker adaptation for isolated letter recognition using MAP estimation
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1172079/
+  venue: ICASSP'83. IEEE International Conference on Acoustics, Speech, and Signal
+    Processing
+  year: 1983
+- authors: Ronald Cole and Richard Stern and M Phillips and S Brill and A Pilant and
+    Philippe Specker
+  title: Feature-based speaker-independent recognition of isolated English letters
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1172077/
+  venue: ICASSP'83. IEEE International Conference on Acoustics, Speech, and Signal
+    Processing
+  year: 1983
+- authors: Richard Stern
+  title: Can Software Be Tied to Hardware? Part II
+  type: 1
+  url: https://www.researchgate.net/profile/Richard-Stern-4/publication/3215742_Can_Software_Be_Tied_to_Hardware_Part_II/links/5aaaedfaaca272d39cd7a724/Can-Software-Be-Tied-to-Hardware-Part-II.pdf
+  venue: IEEE Micro
+  year: 1983
+- authors: Maurice Amram and Richard Stern
+  title: "Erratum:\u2018\u2018Refractive and other acoustic effects produced by a\
+    \ prism\u2010shaped network of rigid strips\u2019\u2019[J. Acoust. Soc. Am. 70,\
+    \ 1463\u20131472 (1981)]"
+  type: 1
+  url: https://asa.scitation.org/doi/pdf/10.1121/1.389589
+  venue: The Journal of the Acoustical Society of America
+  year: 1983
+- authors: Richard M Stern and Stephen J Bachorski
+  title: Dynamic cues in binaural perception
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-3-642-69257-4_31
+  venue: The Journal of the Acoustical Society of America
+  year: 1983
+- authors: Richard M Stern and Moshe J Lasry
+  title: 'Tuning to the speaker: dynamic adaptation of statistical parameters in isolated
+    letter recognition'
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/72/S1/S31/734635
+  venue: The Journal of the Acoustical Society of America
+  year: 1982
+- authors: Scott M Brill and Michael S Phillips and Moshe J Lasry and Richard M Stern
+  title: Decisions about features
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/72/S1/S32/734581
+  venue: The Journal of the Acoustical Society of America
+  year: 1982
+- authors: Wlliam A Yost and D Wesley Grantham and Robert A Lutfi and Richard M Stern
+  title: The phase angle of addition in temporal masking for diotic and dichotic listening
+    conditions
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/0378595582900399
+  venue: Hearing Research
+  year: 1982
+- authors: Richard Stern
+  title: 'Software and copyright law: court judgments remain unpredictable'
+  type: 1
+  url: https://www.researchgate.net/profile/Richard-Stern-4/publication/3215699_Software_and_Copyright_Law_Court_Judgments_Remain_Unpredictable/links/5aaaebaf45851517881b4863/Software-and-Copyright-Law-Court-Judgments-Remain-Unpredictable.pdf
+  venue: IEEE Micro
+  year: 1982
+- authors: Krishna G Murti and Richard M Stern and Erdem I Cantekin and Charles D
+    Bluestone
+  title: Classification of spectral patterns obtained from eustachian tube sonometry
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/4121448/
+  venue: IEEE Transactions on Biomedical Engineering
+  year: 1982
+- authors: Donald L Kaiser and Richard M Stern
+  title: Interaural time determination in tonal maskers
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/70/S1/S88/639438
+  venue: The Journal of the Acoustical Society of America
+  year: 1981
+- authors: Richard Martin Stern
+  title: "Die S\xF6hne: Roman"
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=7462651114823489643&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1981
+- authors: Hans Herlin and Joan Martin Hundley and Richard Martin Stern and Hugo Hartung
+  title: Satan ist auf Gottes seite
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=3159051314130344379&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1981
+- authors: Janet E Slocum and Richard M Stern
+  title: Interaural time and amplitude discrimination in noise
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/68/S1/S60/732778
+  venue: The Journal of the Acoustical Society of America
+  year: 1980
+- authors: Richard M Stern and Alexander H Waibel
+  title: Audibility of phase changes in vowel sounds and complex tones
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/68/S1/S50/656170
+  venue: The Journal of the Acoustical Society of America
+  year: 1980
+- authors: Krishna G Murti and Erdem I Cantekin and Richard M Stern and Charles D
+    Bluestone
+  title: Sonometric evaluation of eustachian tube function using broadband stimuli
+  type: 1
+  url: https://journals.sagepub.com/doi/abs/10.1177/00034894800890S342
+  venue: Annals of Otology, Rhinology & Laryngology
+  year: 1980
+- authors: "Richard Martin Stern and Hans Blickensd\xF6rfer and Roger Bourgeon and\
+    \ Henry Denker"
+  title: "H\xF6lle im Schnee: eine Kurzfassung des Buches"
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=11877519266380489368&hl=en&oi=scholarr
+  venue: Annals of Otology, Rhinology & Laryngology
+  year: 1980
+- authors: S REID and N SWEIG and G FARR and D SAKS and M HARSHBARGER and R STERN
+  title: A FAVORABLE PROGNOSIS FOR DRUG STOCKS
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=4187158233365910931&hl=en&oi=scholarr
+  venue: INSTITUTIONAL INVESTOR
+  year: 1980
+- authors: B Robert Ruotolo and Richard M Stern Jr and H Steven Colburn
+  title: "Discrimination of symmetric time\u2010intensity traded binaural stimuli"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/66/6/1733/667685
+  venue: The Journal of the Acoustical Society of America
+  year: 1979
+- authors: Eliot M Rubinov and Richard M Stern
+  title: Effects of binaural maskers on the subjective laterality of diotic targets
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/65/S1/S121/739879
+  venue: The Journal of the Acoustical Society of America
+  year: 1979
+- authors: Richard M Stern
+  title: On the use of multiple perceptual images in binaural discrimination experiments
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/65/S1/S122/739920
+  venue: The Journal of the Acoustical Society of America
+  year: 1979
+- authors: Gregory J DuMond and Richard M Stern
+  title: "A forced\u2010choice paradigm for pulsation\u2010threshold measurements"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/65/S1/S58/654357
+  venue: The Journal of the Acoustical Society of America
+  year: 1979
+- authors: S Gilman and D Dirks and R Stern
+  title: Eardrum impedance effects on the free field frequency response of occluded
+    ears
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/64/S1/S107/621420
+  venue: The Journal of the Acoustical Society of America
+  year: 1978
+- authors: Richard M Stern Jr and H Steven Colburn
+  title: "Theory of binaural interaction based on auditory\u2010nerve data. IV. A\
+    \ model for subjective lateral position"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/64/1/127/771725
+  venue: The Journal of the Acoustical Society of America
+  year: 1978
+- authors: Richard Martin Stern and Wulf Bergner
+  title: Die Himmelsmaschine (I hide, we seek, dt.) Roman
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=12814024404775121691&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1978
+- authors: Richard Martin Stern and Georg Albrecht von Ihering
+  title: Sturm ist ihre Ernte (Stanfield harvest, dt.) Roman
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=10321199206446633831&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1978
+- authors: Richard M Stern
+  title: "Laterization and the MLD: detection\u2010threshold performance of an auditory\u2010\
+    nerve\u2010based model for lateral position"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/61/S1/S60/745625
+  venue: The Journal of the Acoustical Society of America
+  year: 1977
+- authors: B Robert Ruotolo and Richard M Stern Jr and H Steven Colburn
+  title: "Discrimination of symmetric, time\u2010intensity traded stimuli"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/61/S1/S60/745624
+  venue: The Journal of the Acoustical Society of America
+  year: 1977
+- authors: "Peter Benchley and Ephraim Kishon and Richard Martin Stern and Hans Blickensd\xF6\
+    rfer"
+  title: 'Der weisse Hai: eine Kurzfassung des Buches'
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=11510936159504263146&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1977
+- authors: HS Colburn and RH Domnitz and RM Stern Jr and NI Durlach
+  title: Current problems in binaural hearing research
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/59/S1/S16/671022
+  venue: The Journal of the Acoustical Society of America
+  year: 1976
+- authors: Richard M Stern
+  title: "Lateral position, interaural discrimination, and binaural detection: Model\
+    \ based on auditory\u2010nerve activity"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/59/S1/S23/671074
+  venue: The Journal of the Acoustical Society of America
+  year: 1976
+- authors: Richard Martin Stern
+  title: Flammendes Inferno
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=5380632029600243792&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1976
+- authors: Richard Martin Stern
+  title: 'Die Herren von El Rancho: Roman'
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=7614637859591059882&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1976
+- authors: Richard Martin Stern and Charlotte von Ihering and Georg Albrecht von Ihering
+  title: Die Herren von El Rancho (Power. dt) Roman
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=1658741891838730185&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1976
+- authors: Richard Martin Stern
+  title: Lateralization, discrimination, and detection of binaural pure tones
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=3795495789359325548&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1976
+- authors: Richard Martin Stern
+  title: 'Der Turm: Roman'
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=16630394123612082377&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1974
+- authors: John Guillermin and Steve McQueen and Paul Newman and William Holden
+  title: The towering inferno
+  type: 1
+  url: https://cir.nii.ac.jp/crid/1130282271782116096
+  venue: (No Title)
+  year: 1974
+- authors: Richard Martin Stern and Wulf Bergner
+  title: Der Turm (The tower, dt.) Roman
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=12011315410977418280&hl=en&oi=scholarr
+  venue: (No Title)
+  year: 1974
+- authors: Richard Martin Stern
+  title: 'Der Turm: flammendes Inferno: Roman'
+  type: 1
+  url: https://cir.nii.ac.jp/crid/1130000793701836800
+  venue: (No Title)
+  year: 1973
+- authors: Richard Martin Stern
+  title: Tod im Schnee
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=6047625540336837106&hl=en&oi=scholarr
+  venue: (No Title)
+  year: 1973
+- authors: RM Stern
+  title: Perception of simultaneously presented musical timbres
+  type: 0
+  url: https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL733657399
+  venue: (No Title)
+  year: 1972
+- authors: John Laurence Markson and R Stern
+  title: Use of FM pulses to measure acoustic backscatter from rough plane surfaces
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/49/5B/1464/621946
+  venue: The Journal of the Acoustical Society of America
+  year: 1971
+- authors: Yoshiya Igarashi and Richard Stern
+  title: Observation of Wind Wave Generated Doppler Shifts in Surface Reverberation
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/48/1A_Supplement/128/626152
+  venue: The Journal of the Acoustical Society of America
+  year: 1970
+- authors: JL Markson and R Stern
+  title: "Measurement of Acoustic Backscatter in Air from Rough Surfaces using Frequency\u2010\
+    Modulated Pulses"
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/47/1A_Supplement/63/638944
+  venue: The Journal of the Acoustical Society of America
+  year: 1970
+- authors: Richard Martin Stern and Walter Kolbenhoff
+  title: "Cocktails f\xFCr den M\xF6rder: kriminalroman"
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=13310715767722026435&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1963
+- authors: Richard Martin Stern and Gitta Bauer
+  title: "Kein Weg zur\xFCck: Kriminalroman"
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=1877558603499501947&hl=en&oi=scholarr
+  venue: The Journal of the Acoustical Society of America
+  year: 1961
+- authors: Vasiliki Karlis and R Stern and J Auerbach and Robert Glickman
+  title: Benign cystic lympoepithelial lesions of the parotid gland and their association
+    with the human immunodeficiency virus
+  type: 1
+  url: https://nyuscholars.nyu.edu/en/publications/benign-cystic-lympoepithelial-lesions-of-the-parotid-gland-and-th
+  venue: Oral Surgery, Oral Medicine, Oral Pathology
+  year: 1800
+- authors: Richard M Stern and Stephen J Bachorski
+  title: Department of Electrical Engineering and Biomedical Engineering Program Carnegie-Mellon
+    University
+  type: 0
+  url: https://www.cs.cmu.edu/~rms/BinauralWeb/papers/Bachorski_83.pdf
+  venue: Oral Surgery, Oral Medicine, Oral Pathology
+  year: null
+- authors: Shoou-I Yu and Lu Jiang and Zhongwen Xu and Zhenzhong Lan and Shicheng
+    Xu and Xiaojun Chang and Xuanchong Li and Zexi Mao and Chuang Gan and Yajie Miao
+    and Xingzhong Du and Yang Cai and Lara Martin and Nikolas Wolfe and Anurag Kumar
+    and Huan Li and Ming Lin and Zhigang Ma and Yi Yang and Deyu Meng and Shiguang
+    Shan and Pinar Duygulu and Susanne Burger Sahin and Florian Metze and Rita Singh
+    and Bhiksha Raj and Teruko Mitamura and Richard Stern and Alexander Hauptmann
+  title: CMU Informedia@ TRECVID 2015 MED
+  type: 0
+  url: http://www.cs.cmu.edu/~fmetze/interACT/Publications_files/publications/cmu.pdf
+  venue: Oral Surgery, Oral Medicine, Oral Pathology
+  year: null
+- authors: Richard Stern and Evandro Gouvea and Kshitiz Kumar
+  title: "ACOUSTICS2008/3436\u201D Polyaural\u201D array processing for robust automatic\
+    \ speech recognition in noisy and reverberant environments"
+  type: 0
+  url: http://www.conforg.fr/acoustics2008/cdrom/data/articles/003436.pdf
+  venue: Oral Surgery, Oral Medicine, Oral Pathology
+  year: null
+- authors: Satanjeev Banerjee and Jason Cohen and Thomas Quisel and Arthur Chan and
+    Yash Patodia and Ziad Al Bawab and Rong Zhang and Alan Black and Richard Stern
+    and Roni Rosenfeld and Alexander Rudnicky and Paul Rybski and Manuela Veloso and
+    Adam Kalai and Stan Chen and Avrim Blum
+  title: Publication Submission Form
+  type: 0
+  url: https://www.ri.cmu.edu/pubs/?wpv_view_count=4514-TCPID4515&authors-first-last-and-separated=Roni%20Rosenfeld&wpv_post_search=&wpv-publication-taxonomies=0&publication-year=&wpv_filter_submit=Search
+  venue: Oral Surgery, Oral Medicine, Oral Pathology
+  year: null
+- authors: A ACERO and B ATAL and F JELINEK and M JOHNSON and D JURAFSKY and E LEVIN
+    and S LEVINSON and K MCKEOWN and M OSTENDORF and PJ PRICE and R STERN and G VAN
+    NOORD
+  title: "Founding Editor (1986\u20131993) Frank Fallside"
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=14887093248982205918&hl=en&oi=scholarr
+  venue: Oral Surgery, Oral Medicine, Oral Pathology
+  year: null
+- authors: Richard M Stern and Andrew S Zeiberg
+  title: 'Lateralization of complex binaural stimuli: A weighted-image'
+  type: 0
+  url: https://www.cs.cmu.edu/~rms/BinauralWeb/papers/SternZeibergTrahiotis88.pdf
+  venue: Oral Surgery, Oral Medicine, Oral Pathology
+  year: null
+- authors: Richard M Stern and Torsten Zeppenfeld and Glenn D Shear
+  title: 'Lateralization of rectangularly modulated noise: Explanations'
+  type: 0
+  url: https://www.academia.edu/download/79115504/8e14e097da1f227c3d757a8c191a85d4611d.pdf
+  venue: Oral Surgery, Oral Medicine, Oral Pathology
+  year: null
+- authors: Michael R Kellman and Richard M Stern
+  title: Robust Physiologically-Based Speech Recognition
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=1390307117425137251&hl=en&oi=scholarr
+  venue: Oral Surgery, Oral Medicine, Oral Pathology
+  year: null
+- authors: Fu-Hua Liu and Richard Stern and Alex Acero
+  title: Efficient Joint Compensation of Speech for the Effects of Additive Noise
+    and
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=5947141167536025137&hl=en&oi=scholarr
+  venue: Proc. of the Sixth ARPA Workshop on Human Language Technology
+  year: null
+- authors: Alan W Black and Bhiksha Raj and Richard Stern and H Timothy Bunnell
+  title: IMPROVING THE ACOUSTIC MODELS OF SPEECH SYNTHESIS
+  type: 0
+  url: http://www.cs.cmu.edu/~pmuthuku/publications/proposal/Proposal.pdf
+  venue: Proc. of the Sixth ARPA Workshop on Human Language Technology
+  year: null
+- authors: Kathleen R McKeown and Damaris Ayuso and Catherine N Ball and Chris Barry
+    and Madeleine Bates and Mary E Beckman and Sean Boisen and William Byrne and Francine
+    R Chen and Yen-Lu Chow and Kenneth W Church and Deborah Dahl and Nancy Daly and
+    Alan Derr and V Digalakis and Z Dobes and Adoram Erell and Steven K Feiner and
+    William A Gale and Zvi Galil and James Glass and David Goodine and Ralph Grishman
+    and SM Haller and Patrick Hanks and Roger Hartley and Donald Hindle and Elizabeth
+    Hinkelman and Julia Hisrchberg and Lynette Hirschman and Hsiao-Wuen Hon and Eduard
+    H Hovy and XD Huang and Robert JP Ingria and Aravind K Joshi and Owen Kimball
+    and Jacqueline C Kowtko and Francis Kubala and Julien Kupiec and Chin-Hui Lee
+    and Kai-Fu Lee and Hong Leung and Russell Mills and JG Neal and Lewis M Norton
+    and M Ostendorf and Douglas B Paul and Michael Phillips and Roberto Pieraccini
+    and Paul Placeway and Joseph Polifroni and Patti J Price and Lawrence R Rabiner
+    and Lance Ramshaw and Michael D Riley and John Robinson and JR Rohlicek and Alexander
+    I Rudnicky and William Russell and Michelle Sakamoto and Stephanie Seneff and
+    Yves Schabes and Shihab Shamma and Richard Schwartz and SC Shapiro and Michal
+    Soclof and David Stallard and John Sterling and Richard M Stern and Salvatore
+    J Stolfo and Dean G Sturtevant and CY Thielman and Wayne Ward and Robert Weide
+    and Mitch Weintraub and Carl Weir and CW Wightman and Yorick Wilks and Jay G Wilpon
+    and George Yu and Victor Zue
+  title: Mark Liberman Marcia Linebarger A. Ljolje John Makhoul
+  type: 0
+  url: https://aclanthology.org/H89-2079.pdf
+  venue: Proc. of the Sixth ARPA Workshop on Human Language Technology
+  year: null
+- authors: Mark J Harvilla and Richard M Stern
+  title: Recognition of Speech Enhanced by Blind Compensation for Artifacts of Single-Sideband
+    Demodulation
+  type: 0
+  url: http://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/HarvillaStern13.pdf
+  venue: Proc. of the Sixth ARPA Workshop on Human Language Technology
+  year: null
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: ENVIRONMENT-INDEPENDENT SPEECH RECOGNITION
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=18100017451978097908&hl=en&oi=scholarr
+  venue: Proc. of the Sixth ARPA Workshop on Human Language Technology
+  year: null
+- authors: Mosur Ravishankar and Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Department of Electrical and Computer Engineering and School of Computer
+    Science Carnegie Mellon University Pittsburgh, Pennsylvania 15213
+  type: 0
+  url: https://www.academia.edu/download/30790554/darpa500.pdf
+  venue: Proc. of the Sixth ARPA Workshop on Human Language Technology
+  year: null
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: COMPENSATION OF HMM STATISTICS FOR NOISE AND CHANNEL ROBUSTNESS
+  type: 0
+  url: https://www.cs.cmu.edu/~robust/Papers/pjm.euro95.ps
+  venue: Proc. of the Sixth ARPA Workshop on Human Language Technology
+  year: null
+- authors: Constantine Trahiotis and Leslie R Bernstein and Richard M Stern
+  title: and Thomas N. Buell
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=9340770875532827254&hl=en&oi=scholarr
+  venue: Sound Source Localization
+  year: null
+- authors: Richard M Stern and Pierre Ponce and Rita Singh
+  title: FEATURE EXTRACTION FOR ROBUST AUTOMATIC SPEECH RECOGNITION USING SYNCHRONY
+    OF ZERO CROSSINGS
+  type: 0
+  url: http://www.cs.cmu.edu/~rms/BinauralWeb/papers/zsynch_submit.pdf
+  venue: Sound Source Localization
+  year: null
+- authors: Chanwoo Kim and Khistiz Kumar and Bhiksha Raj and Richard M Stern
+  title: Suppression of Slowly-Varying Components and Offset of Power Contour for
+    Robust Speech Recognition
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=2402820625654785549&hl=en&oi=scholarr
+  venue: Sound Source Localization
+  year: null
+- authors: Richard M Stern and Thomas M Sullivan
+  title: Robust Speech Recognition Based On Human Binaural Perception
+  type: 0
+  url: http://www.cs.cmu.edu/~robust/Papers/ATR94.pdf
+  venue: Sound Source Localization
+  year: null

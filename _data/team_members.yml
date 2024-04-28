@@ -2,22 +2,22 @@
   info: Professor
   name: Bhiksha Raj
   photo: Bhiksha-Raj.jpg
-  url: 
+  url: bhiksha_raj
 - group: 0
   info: Research Professor
   name: Rita Singh
   photo: ritasingh.png
-  url: 
+  url: rita_singh
 - group: 1
   info: Multimodal AI
   name: Kashu Yamazaki
   photo: kashu_yamazaki.jpg
-  url: kashu_yamazaki
+  url: https://kashu7100.github.io/
 - group: 1
   info: Continual Learning
   name: Muqiao Yang
   photo: MuqiaoYang.png
-  url: 
+  url: https://muqiaoy.github.io/
 - group: 1
   info: Adversarial Robustness
   name: Ahmed Shah
@@ -27,46 +27,46 @@
   info: Weakly supervised audio
   name: Ankit Shah
   photo: ankit.png
-  url: 
+  url: https://ankitshah009.github.io/
 - group: 1
   info: Speech
   name: Hira Dhamyal
   photo: hira.jpg
-  url: 
+  url: https://www.linkedin.com/in/hiradhamyal/
 - group: 1
   info: Explainable AI
   name: Joseph Konan
   photo: joseph.jpg
-  url: 
+  url: https://www.linkedin.com/in/josephkonan/
 - group: 1
   info: Active Learning, Speech
   name: Mark Lindsey
   photo: mark.jpg
-  url: 
+  url: https://www.linkedin.com/in/mark-lindsey-636503135/
 - group: 1
   info: Vision
   name: Xiang Li
   photo: xiangli.jpg
-  url: 
+  url: https://lxa9867.github.io/
 - group: 1
   info: Noisy learning, Vision
   name: Hao Chen
   photo: haoc.jpg
-  url: 
+  url: https://www.linkedin.com/in/haochen97/
 - group: 1
   info: Audio, Speech
   name: Soham Deshmukh
   photo: soham.jpg
-  url: 
+  url: https://soham97.github.io/
 - group: 1
   info: Speech
-  name: Massa
+  name: Massa Baali
   photo: massa.jpg
   url: 
 - group: 2
   info: Speech
   name: Hazim Bukhari
-  photo: tartan.jpg
+  photo: hazim.png
   url: 
 - group: 2
   info: Speech

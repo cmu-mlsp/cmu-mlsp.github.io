@@ -7,76 +7,24 @@ permalink: /publications/
 ---
 
 
-## Conference Papers
+{% for year in (1976..2024) reversed %}
+
+### {{ year }}
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
-
-{% if publi.type == 1 %}
+{% if publi.year == year %}
 
 <div class="row">
-
 <div class="col-sm-12 clearfix">
  <div class="row">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: left" />
-  <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
-  <a class="pub2"> {{ publi.link.display }} </a>
+  <a class="pub1" href="{{ publi.url }}">{{ publi.title }}</a><br>
+  <a class="pub2">{{ publi.authors }}</a>
+  <a class="pub2"><i>{{ publi.venue }}</i> {{ publi.year }}</a>
  </div>
+</div>
 </div>
 
 {% endif %}
 {% endfor %}
-
-<p> &nbsp; </p>
-
-## Journal Papers
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% if publi.type == 2 %}
-
-<div class="row">
-
-<div class="col-sm-12 clearfix">
- <div class="row">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: left" />
-  <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
-  <a class="pub2"> {{ publi.link.display }} </a>
- </div>
-</div>
-
-{% endif %}
 {% endfor %}
-
-<p> &nbsp; </p>
-
-## Patents
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% if publi.type == 3 %}
-
-<div class="row">
-
-<div class="col-sm-12 clearfix">
- <div class="row">
-  <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
-  <a class="pub2"> {{ publi.link.display }} </a>
- </div>
-</div>
-
-{% endif %}
-{% endfor %}
-
-<p> &nbsp; </p>
-
----
-
-<div>
-
-<br><br><br>
-
-</div>
-
