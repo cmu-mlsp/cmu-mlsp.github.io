@@ -78,6 +78,10 @@
   name: Shuo Han
   photo: shuohan.jpeg
   url: https://scholar.google.com/citations?user=ZV2qwR0AAAAJ&hl=en
+- group: 3
+  info: Quantum Computing
+  name: Thomas Cantalapiedra
+  photo: thomas.png
 - group: 8
   info: Amazon
   name: Yang Gao

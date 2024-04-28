@@ -138,7 +138,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-<!-- 
+
 ---
 
 ## Undergraduate Students
@@ -172,6 +172,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+<!-- 
 ---
 
 ## Interns
