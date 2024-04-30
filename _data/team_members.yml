@@ -94,25 +94,30 @@
   photo: thomas.png
   url: www.linkedin.com/in/thomas-cantalapiedra-06b915190
 - group: 8
-  info: Amazon
-  name: Yang Gao
-  photo: yang.jpg
-  url: https://www.linkedin.com/in/yang-gao-8702a981/
-- group: 8
-  info: LinkedIn
-  name: Abelino Jiminez
-  photo: abelino.jpg
-  url: https://www.linkedin.com/in/abjimenez/es?originalSubdomain=cl
-- group: 8
-  info: Meta Reality Labs
-  name: Anurag Kumar
-  photo: anurag.jpeg
-  url: https://anuragkr90.github.io/
+  info: Microsoft
+  name: Raymond Xia
+  photo: raymond.jpg
+  url: https://scholar.google.com/citations?user=adOGS2AAAAAJ&hl=en
 - group: 8
   info: Google
   name: Roshan Sharma
   photo: roshan.jpg
   url: https://roshansh-cmu.github.io/
+- group: 8
+  info: Microsoft
+  name: Mahmoud Alismail
+  photo: mahmoud.jpg
+  url: https://www.linkedin.com/in/malismail/
+- group: 8
+  info: 
+  name: Raphael Oliver
+  photo: raphael.jpg
+  url: https://raphaelolivier.github.io/
+- group: 8
+  info: Amazon
+  name: Yang Gao
+  photo: yang.jpg
+  url: https://www.linkedin.com/in/yang-gao-8702a981/
 - group: 8
   info: JD Technology Research
   name: Wenbo Liu
@@ -129,15 +134,25 @@
   photo: yandong.jpg
   url: https://ydwen.github.io/
 - group: 8
-  info: 
-  name: Raphael Oliver
-  photo: raphael.jpg
-  url: https://raphaelolivier.github.io/
+  info: Spotify
+  name: M. Joana Correia
+  photo: joana.jpg
+  url: https://www.hlt.inesc-id.pt/wiki/index.php/M._Joana_Correia
+- group: 8
+  info: Meta Reality Labs
+  name: Anurag Kumar
+  photo: anurag.jpeg
+  url: https://anuragkr90.github.io/
 - group: 8
   info: Microsoft
   name: Benjamin Elizalde
   photo: ben.png
   url: https://bmartin1.github.io/
+- group: 8
+  info: LinkedIn
+  name: Abelino Jiminez
+  photo: abelino.jpg
+  url: https://www.linkedin.com/in/abjimenez/es?originalSubdomain=cl
 - group: 8
   info: Google
   name: Sourish Chaudhuri
@@ -149,12 +164,7 @@
   photo: sohail.jpg
   url: https://sohail-bahmani.github.io/
 - group: 8
-  info: Microsoft
-  name: Mahmoud Alismail
-  photo: mahmoud.jpg
-  url: https://www.linkedin.com/in/malismail/
-- group: 8
-  info: Microsoft
-  name: Raymond Xia
-  photo: tartan.jpg
-  url: https://scholar.google.com/citations?user=adOGS2AAAAAJ&hl=en
+  info: Amazon
+  name: Benjamin Lambert
+  photo: lambert.jpg
+  url: https://belambert.github.io/papers/
