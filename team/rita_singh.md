@@ -2,6 +2,7 @@
 layout: member
 title: Rita Singh
 position: Associate Research Professor, LTI, School of Computer Science
+position2: Director, Center for Voice Intelligence and Security  
 handle: template
 email: rsingh@cs.cmu.edu
 twitter:
@@ -22,3 +23,91 @@ In December 2014, I began building up the science of profiling humans from their
 Currently my work includes the design of powerful AI systems to explore the depths of information in the human voice. Examples include systems for genetic discovery, systems for biomarker discovery and systems for other kinds of explorations into the human physical state and psyche, including emotions and personality, through the portal of voice.
 
 In addition to my work on human profiling, I am working on creating core designs for general AI systems that are capable of universal speech and audio processing. The goal of this endeavor is to eventually build a system that is capable of all that our brain is capable of doing, in response to multisensory input from the world. This will require powerful computing. And then we will need to give it mobility. I have begun working on these aspects as well.
+
+### Technical Publications: Books
+
+<table style="width:100%;border:5px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
+    <tbody><tr>
+        <td style="padding:15px;width:15%;horizontal-align:center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/cover_from_springer-1.png" style="float:left"/>
+        </td>
+        <td style="padding:5px;width:70%">
+            <p><b>Profiling Humans from their Voice</b></p>
+            <p>Rita Singh</p>
+            <p>First published: July 2019</p>
+            <p>Copyright 2019 Springer-Nature, Switzerland, July 2019</p>
+            <p>ISBN: ISBN 978-981-13-8402-8</p>
+        </td>
+    </tr></tbody>
+</table>
+
+<table style="width:100%;border:5px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
+    <tbody><tr>
+        <td style="padding:15px;width:15%;horizontal-align:center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Techniques_cover.jpg" style="float:left"/>
+        </td>
+        <td style="padding:5px;width:70%">
+            <p><b>Techniques for Noise Robustness in Automatic Speech Recognition</b></p>
+            <p>Tuomas Virtanen, Rita Singh, Bhiksha Raj (Eds)</p>
+            <p>First published:5 October 2012</p>
+            <p>Copyright 2013 John Wiley & Sons, Ltd</p>
+            <p>Print ISBN:9781119970880</p>
+            <p>Online ISBN:9781118392683</p>
+            <p>DOI:10.1002/9781118392683</p>
+        </td>
+    </tr></tbody>
+</table>
+
+### Literary creations and Art
+I write poetry of all kinds, most rhyme, some don't, some are difficult to read, some are very simple, some are for kids, some for everyone else, some are short, most are long... some are epic poetry... I'm also working on a comic book. Creative arts are my indulgence, it gives me great joy to create visual art and illustrations, and to write poetry and stories. 
+
+<table style="width:100%;border:5px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
+    <tbody><tr>
+        <td style="padding:15px;width:25%;horizontal-align:center">
+            <a href="https://www.amazon.com/dp/B087P5YGF3"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/magicalmoonthumbnail.png" style="float:left" height="200"/></a>
+        </td>
+        <td style="padding:15px;width:25%;horizontal-align:center">
+            <a href="https://www.amazon.com/dp/B088F1S64D"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/fireside_verse_cover.jpg" style="float:left" height="200"/></a>
+        </td>
+        <td style="padding:15px;width:25%;horizontal-align:center">
+            <a href="https://www.amazon.com/dp/B088ZB6W26"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/OFT_cover.jpg" style="float:left" height="200"/></a>
+        </td>
+        <td style="padding:15px;width:25%;horizontal-align:center">
+            <a href="https://www.amazon.com/dp/B088KQWFV4"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/incense_cover.jpg" style="float:left" height="200"/></a>
+        </td>
+    </tr></tbody>
+</table>
+
+#### Oil on Canvas
+
+<table style="width:100%;border:5px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
+    <tbody><tr>
+        <td style="padding:15px;width:25%;horizontal-align:center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/ritapic/myoffice.jpg" style="float:left" height="200"/>
+        </td>
+    </tr></tbody>
+</table>
+
+> A corner of my office at home in Pittsburgh (An observational painting)
+> 24x36 Oil on Canvas. Unfinished.
+> March 2022   
+
+#### Sketches and drawings
+
+<table style="width:100%;border:5px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
+    <tbody><tr>
+        <td style="padding:15px;width:25%;horizontal-align:center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/ritapic/charcoal_1b.jpg" style="float:left" height="150"/>
+        </td>
+        <td style="padding:15px;width:25%;horizontal-align:center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/ritapic/charcoal_2a.jpg" style="float:left" height="150"/>
+        </td>
+        <td style="padding:15px;width:25%;horizontal-align:center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/ritapic/charcoal_3a.jpg" style="float:left" height="150"/>
+        </td>
+    </tr></tbody>
+</table>
+
+> Three quick sketches: City crossing, A delightful day and A path through the trees
+> Charcoal on paper.
+> Nov. 2022, Drawn in Abu Dhabi, UAE 

@@ -7,12 +7,12 @@
   info: Research Professor
   name: Rita Singh
   photo: ritasingh.png
-  url: rita_singh
+  url: http://mlsp.cs.cmu.edu/people/rsingh/
 - group: 0
   info: Professor
   name: Richard Stern
   photo: rich.png
-  url:
+  url: https://www.ece.cmu.edu/directory/bios/stern-richard.html
 - group: 1
   info: Multimodal AI
   name: Kashu Yamazaki
@@ -143,3 +143,8 @@
   name: Sohail Bahmani
   photo: sohail.jpg
   url: https://sohail-bahmani.github.io/
+- group: 8
+  info: Microsoft Research
+  name: Mahmoud Alismail
+  photo: mahmoud.jpg
+  url: https://www.linkedin.com/in/malismail/

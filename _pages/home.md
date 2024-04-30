@@ -6,24 +6,28 @@ sitemap: false
 permalink: /
 ---
 
+<center>
+<h3>Welcome to MSLP Group</h3>
+</center>
 
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/header.png){: style="width: 100%; border: 0px"}
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/team_pic1.png){: style="width: 100%; border: 0px"}
+
+Machine Learning for Signal Processing, as the name imples, is an applied subfield of the more well-discriminated fields of signal processing and machine learning. Within MLSP, our group works on multiple appication domains, including computational speech, audio and audiovisual processing. Our research focuses on building more powerful algorithms and tools to understand and process these signals, especially in very high-noise environments.
 
 ### News
 
-* [April 26, 2024] Dr. Bhiksha was selected as one of the [98 Amazon Research Awards recipients](https://www.amazon.science/research-awards/program-updates/99-amazon-research-awards-recipients-announced) 🎉
 
-<!-- Machine Learning for Signal Processing, as the name imples, is an applied subfield of the more well-discriminated fields of signal processing and machine learning. Within MLSP, our group works on multiple appication domains, including computational speech, audio and audiovisual processing. Our research focuses on building more powerful algorithms and tools to understand and process these signals, especially in very high-noise environments.
+<div style="overflow-y: scroll; height: 200px; border: 0px; padding: 5px;">
+<ul style="list-style-type: disc; padding-left: 20px;">
+    <li style="margin-top: 5px; margin-bottom: 5px;"><strong>April 30, 2024</strong> 🍺 <a href="https://www.linkedin.com/in/yangyang-raymond-xia-946518b7/">Yangyang (Raymond) Xia</a> defended his Ph.D., congrats!</li>
+    <li style="margin-top: 5px; margin-bottom: 5px;"><strong>April, 2024</strong> 🎉 Dr. <a href="{{ site.url }}{{ site.baseurl }}/team/bhiksha_raj">Bhiksha Raj</a> was selected as one of the <a href="https://www.amazon.science/research-awards/program-updates/99-amazon-research-awards-recipients-announced">98 Amazon Research Awards recipients</a>.</li>
+    <li style="margin-top: 5px; margin-bottom: 5px;"><strong>May 2-3, 2024</strong> 📣 LTI is hosting <a href="https://cmu-agent-workshop.github.io/">LLM Agents workshop at CMU</a> May 2-3.</li>
+    <li style="margin-top: 5px; margin-bottom: 5px;"><strong>April, 2024</strong> 🎉 Dr. <a href="{{ site.url }}{{ site.baseurl }}/team/bhiksha_raj">Bhiksha Raj</a> was elected as <a href="">DISCA Fellow</a>.</li>
+    <li style="margin-top: 5px; margin-bottom: 5px;"><strong>April, 2024</strong> 🎉 Dr. <a href="{{ site.url }}{{ site.baseurl }}/team/rita_singh">Rita Singh</a> was elected as <a href="">ISCA Distinguished Lecturer</a>.</li>
 
-In Speech Processing, we work on automatic speech recognition, conversation tracking, forensics, privacy and security for speech processing systems.
+</ul>
+</div>
 
-In Audio and Multimedia Content Analysis, we work on building technologies that can help make sense of the sounds around us. This includes problems related to the very definition of what comprises an audio object as we perceive it, to the automatic learning, categorization and detection of all sounds in the world. We made the first effort to use weakly label supervision for detection and localization of sound events. See the Research section for more details.
 
-Our research on Forensic-Biometrics is focussed on deducing information from audio, voice and speech signals in high-noise environments for tracking, rather than identification, of humans.
-
-Our research on Privacy and Security is focussed on preventing the tracking of humans through audio and voice signals. In other words, it is focussed on preserving the privacy of the human voice, and the audio that it is embedded in.
-
-In Conversation Tracking, we design computational models to automatically capture the key characteristics of the flow of human conversation. For example, in a scenario where multiple people converse while a computer passively listens, we try to understand how and when the machine must intervene to enhance the goals of the conversation. In this scenario, we see the machine as a helper, rather than an active participant in a command-and-control scenario.
-
-Within the five key research topics mentioned above, we address myriad prblems that have a bearing on the solutions that we come up with. These problems require us to conduct research in, or draw information from, many more scientific areas. Examples include the performing arts, medicine, architectural acoustics, compressive sensing etc.  -->
+![]({{ site.url }}{{ site.baseurl }}/images/cmu.gif){: style="width: 100%; border: 0px"}

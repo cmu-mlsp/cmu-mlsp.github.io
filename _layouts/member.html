@@ -16,6 +16,11 @@ layout: default
 				<p><div class="smallhead">
 					{{ member.position }}
 				</div></p>
+				{% if member.position2 %}
+				<p><div class="smallhead">
+					{{ member.position2 }}
+				</div></p>
+				{% endif %}
 	</div>
 </div>
 
@@ -98,7 +103,7 @@ layout: default
 		{% endif %}
 
 	</div>
-	<div class="col-sm-6" style="text-align:justify">
+	<div class="col-sm-8" style="text-align:justify">
 		<i class="content" style="margin:auto">{{ content }}</i>
 
 	</div>
