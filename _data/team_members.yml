@@ -83,6 +83,11 @@
   name: Shuo Han
   photo: shuohan.jpeg
   url: https://scholar.google.com/citations?user=ZV2qwR0AAAAJ&hl=en
+- group: 2
+  info: Speech
+  name: Sunghwan Baek
+  photo: sunghwan.png
+  url: 
 - group: 3
   info: Quantum Computing
   name: Thomas Cantalapiedra
