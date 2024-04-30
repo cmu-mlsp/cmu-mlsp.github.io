@@ -4,7 +4,7 @@
   photo: Bhiksha-Raj.jpg
   url: bhiksha_raj
 - group: 0
-  info: Research Professor
+  info: Professor
   name: Rita Singh
   photo: ritasingh.png
   url: http://mlsp.cs.cmu.edu/people/rsingh/
@@ -134,7 +134,7 @@
   photo: raphael.jpg
   url: https://raphaelolivier.github.io/
 - group: 8
-  info: Microsoft Research
+  info: Microsoft
   name: Benjamin Elizalde
   photo: ben.png
   url: https://bmartin1.github.io/
@@ -149,7 +149,12 @@
   photo: sohail.jpg
   url: https://sohail-bahmani.github.io/
 - group: 8
-  info: Microsoft Research
+  info: Microsoft
   name: Mahmoud Alismail
   photo: mahmoud.jpg
   url: https://www.linkedin.com/in/malismail/
+- group: 8
+  info: Microsoft
+  name: Raymond Xia
+  photo:
+  url: https://scholar.google.com/citations?user=adOGS2AAAAAJ&hl=en
