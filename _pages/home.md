@@ -8,6 +8,7 @@ permalink: /
 
 <center>
 <h3>Welcome to MSLP Group</h3>
+affiliated with @ <a href="https://www.lti.cs.cmu.edu/">LTI/CMU</a>.
 </center>
 
 
