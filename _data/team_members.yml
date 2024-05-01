@@ -99,6 +99,11 @@
   photo: thomas.png
   url: www.linkedin.com/in/thomas-cantalapiedra-06b915190
 - group: 8
+  info: 
+  name: Anders Øland
+  photo: anders.jpg
+  url: https://www.linkedin.com/in/andersoland/
+- group: 8
   info: Microsoft
   name: Raymond Xia
   photo: raymond.png
