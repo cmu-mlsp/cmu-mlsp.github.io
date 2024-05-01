@@ -20,6 +20,7 @@ Machine Learning for Signal Processing, as the name imples, is an applied subfie
 
 <div style="overflow-y: scroll; height: 200px; border: 0px; padding: 5px;">
 <ul style="list-style-type: disc; padding-left: 20px;">
+    <li style="margin-top: 5px; margin-bottom: 5px;"><strong>May 1, 2024</strong> 🍺 <a href="https://www.linkedin.com/in/andersoland/">Anders Øland</a> defended his Ph.D., congrats!</li>
     <li style="margin-top: 5px; margin-bottom: 5px;"><strong>April 30, 2024</strong> 🍺 <a href="https://www.linkedin.com/in/yangyang-raymond-xia-946518b7/">Yangyang (Raymond) Xia</a> defended his Ph.D., congrats!</li>
     <li style="margin-top: 5px; margin-bottom: 5px;"><strong>April, 2024</strong> 🎉 Dr. <a href="{{ site.url }}{{ site.baseurl }}/team/bhiksha_raj">Bhiksha Raj</a> was selected as one of the <a href="https://www.amazon.science/research-awards/program-updates/99-amazon-research-awards-recipients-announced">98 Amazon Research Awards recipients</a>.</li>
     <li style="margin-top: 5px; margin-bottom: 5px;"><strong>April, 2024</strong> 📣 LTI is hosting <a href="https://cmu-agent-workshop.github.io/">LLM Agents workshop at CMU</a> May 2-3.</li>
