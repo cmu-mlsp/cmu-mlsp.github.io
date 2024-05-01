@@ -68,6 +68,11 @@
   name: Massa Baali
   photo: massa.png
   url: 
+- group: 1
+  info: Vision
+  name: Yizhou Zhao
+  photo: yizhou.jpg
+  url: https://www.linkedin.com/in/yizhou-zhao42/
 - group: 2
   info: Speech
   name: Hazim Bukhari
@@ -106,7 +111,7 @@
 - group: 8
   info: Amazon
   name: Tyler Vuong
-  photo: tyler.jpeg
+  photo: tyler.png
   url: https://scholar.google.com/citations?user=a_osjZoAAAAJ&hl=en
 - group: 8
   info: Microsoft
@@ -171,10 +176,10 @@
 - group: 8
   info: Amazon
   name: Benjamin Lambert
-  photo: lambert.jpg
+  photo: lambert.png
   url: https://belambert.github.io/papers/
 - group: 8
   info: Google
   name: Manas Pathak
-  photo: manas.jpg
+  photo: manas.png
   url: https://www.linkedin.com/in/manas-pathak-806b002a/
