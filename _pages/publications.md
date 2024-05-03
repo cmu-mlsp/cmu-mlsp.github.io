@@ -6,8 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-
-🚧 will be updated... 🚧
+🚧 last updated May 2, 2024 🚧
 
 {% for year in (1976..2024) reversed %}
 

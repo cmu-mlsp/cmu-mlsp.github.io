@@ -2589,3 +2589,3823 @@
   url: http://www.cs.cmu.edu/~robust/Papers/ATR94.pdf
   venue: Sound Source Localization
   year: null
+- authors: Fan Yang and Muqiao Yang and Xiang Li and Yuxuan Wu and Zhiyuan Zhao and
+    Bhiksha Raj and Rita Singh
+  title: A closer look at reinforcement learning-based automatic speech recognition
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S088523082400024X
+  venue: Computer Speech & Language
+  year: 2024
+- authors: Muqiao Yang and Umberto Cappellazzo and Xiang Li and Bhiksha Raj
+  title: Improving Continual Learning of Acoustic Scene Classification via Mutual
+    Information Optimization
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10446846/
+  venue: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2024
+- authors: Hira Dhamyal and Benjamin Elizalde and Soham Deshmukh and Huaming Wang
+    and Bhiksha Raj and Rita Singh
+  title: Prompting Audios Using Acoustic Properties for Emotion Representation
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10448213/
+  venue: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2024
+- authors: Muqiao Yang and Chunlei Zhang and Yong Xu and Zhongweiyang Xu and Heming
+    Wang and Bhiksha Raj and Dong Yu
+  title: 'uSee: Unified Speech Enhancement And Editing with Conditional Diffusion
+    Models'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10447017/
+  venue: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2024
+- authors: Ankit Shah and Fuyu Tang and Zelin Ye and Rita Singh and Bhiksha Raj
+  title: Importance of negative sampling in weak label learning
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10447229/
+  venue: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2024
+- authors: Soham Deshmukh and Benjamin Elizalde and Dimitra Emmanouilidou and Bhiksha
+    Raj and Rita Singh and Huaming Wang
+  title: Training audio captioning models without audio
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10448115/
+  venue: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2024
+- authors: Muhammad A Shah and Bhiksha Raj
+  title: Fixed Inter-Neuron Covariability Induces Adversarial Robustness
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10447409/
+  venue: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2024
+- authors: Hao Chen and Jindong Wang and Zihan Wang and Ran Tao and Hongxin Wei and
+    Xing Xie and Masashi Sugiyama and Bhiksha Raj
+  title: Learning with Noisy Foundation Models
+  type: 1
+  url: https://arxiv.org/abs/2403.06869
+  venue: arXiv preprint arXiv:2403.06869
+  year: 2024
+- authors: Xiang Li and Kai Qiu and Jinglu Wang and Xiaohao Xu and Rita Singh and
+    Kashu Yamazak and Hao Chen and Xiaonan Huang and Bhiksha Raj
+  title: '-Bench: Benchmarking the Robustness of Referring Perception Models under
+    Perturbations'
+  type: 1
+  url: https://arxiv.org/abs/2403.04924
+  venue: arXiv preprint arXiv:2403.04924
+  year: 2024
+- authors: Zhaorun Chen and Zhuokai Zhao and Zhihong Zhu and Ruiqi Zhang and Xiang
+    Li and Bhiksha Raj and Huaxiu Yao
+  title: 'AutoPRM: Automating Procedural Supervision for Multi-Step Reasoning via
+    Controllable Question Decomposition'
+  type: 1
+  url: https://arxiv.org/abs/2402.11452
+  venue: arXiv preprint arXiv:2402.11452
+  year: 2024
+- authors: Muqiao Yang and Xiang Li and Umberto Cappellazzo and Shinji Watanabe and
+    Bhiksha Raj
+  title: Evaluating and Improving Continual Learning in Spoken Language Understanding
+  type: 1
+  url: https://arxiv.org/abs/2402.10427
+  venue: arXiv preprint arXiv:2402.10427
+  year: 2024
+- authors: Soham Deshmukh and Rita Singh and Bhiksha Raj
+  title: Domain Adaptation for Contrastive Audio-Language Models
+  type: 1
+  url: https://arxiv.org/abs/2402.09585
+  venue: arXiv preprint arXiv:2402.09585
+  year: 2024
+- authors: Shentong Mo and Bhiksha Raj
+  title: Weakly-Supervised Audio-Visual Segmentation
+  type: 1
+  url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/377b2e39e97e917b9e625b35241e33df-Abstract-Conference.html
+  venue: Advances in Neural Information Processing Systems
+  year: 2024
+- authors: Xiang Li and Chung-Ching Lin and Yinpeng Chen and Zicheng Liu and Jinglu
+    Wang and Rita Singh and Bhiksha Raj
+  title: 'PaintSeg: Painting Pixels for Training-free Segmentation'
+  type: 1
+  url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/0021c2cb1b9b6a71ac478ea52a93b25a-Abstract-Conference.html
+  venue: Advances in Neural Information Processing Systems
+  year: 2024
+- authors: Muhammad Shah and Aqsa Kashaf and Bhiksha Raj
+  title: Training on Foveated Images Improves Robustness to Adversarial Attacks
+  type: 1
+  url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/e0c256700465c158de71081b4cf5e8c3-Abstract-Conference.html
+  venue: Advances in Neural Information Processing Systems
+  year: 2024
+- authors: Thanh-Dat Truong and Hoang-Quan Nguyen and Bhiksha Raj and Khoa Luu
+  title: Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World
+    Environments
+  type: 1
+  url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/ce3cf998b7f59271e80ce03fb74a7115-Abstract-Conference.html
+  venue: Advances in Neural Information Processing Systems
+  year: 2024
+- authors: Xiaohao Xu and Tianyi Zhang and Sibo Wang and Xiang Li and Yongqi Chen
+    and Ye Li and Bhiksha Raj and Matthew Johnson-Roberson and Xiaonan Huang
+  title: Customizable Perturbation Synthesis for Robust SLAM Benchmarking
+  type: 1
+  url: https://arxiv.org/abs/2402.08125
+  venue: arXiv preprint arXiv:2402.08125
+  year: 2024
+- authors: Hao Chen and Jindong Wang and Lei Feng and Xiang Li and Yidong Wang and
+    Xing Xie and Masashi Sugiyama and Rita Singh and Bhiksha Raj
+  title: A General Framework for Learning from Weak Supervision
+  type: 1
+  url: https://arxiv.org/abs/2402.01922
+  venue: arXiv preprint arXiv:2402.01922
+  year: 2024
+- authors: Hao Chen and Bhiksha Raj and Xing Xie and Jindong Wang
+  title: On Catastrophic Inheritance of Large Foundation Models
+  type: 1
+  url: https://arxiv.org/abs/2402.01909
+  venue: arXiv preprint arXiv:2402.01909
+  year: 2024
+- authors: Soham Deshmukh and Dareen Alharthi and Benjamin Elizalde and Hannes Gamper
+    and Mahmoud Al Ismail and Rita Singh and Bhiksha Raj and Huaming Wang
+  title: 'PAM: Prompting Audio-Language Models for Audio Quality Assessment'
+  type: 1
+  url: https://arxiv.org/abs/2402.00282
+  venue: arXiv preprint arXiv:2402.00282
+  year: 2024
+- authors: Jee-weon Jung and Roshan Sharma and William Chen and Bhiksha Raj and Shinji
+    Watanabe
+  title: 'AugSumm: towards generalizable speech summarization using synthetic labels
+    from large language model'
+  type: 1
+  url: https://arxiv.org/abs/2401.06806
+  venue: arXiv preprint arXiv:2401.06806
+  year: 2024
+- authors: Roshan Sharma and William Chen and Takatomo Kano and Ruchira Sharma and
+    Siddhant Arora and Shinji Watanabe and Atsunori Ogawa and Marc Delcroix and Rita
+    Singh and Bhiksha Raj
+  title: 'Espnet-Summ: Introducing a Novel Large Dataset, Toolkit, and a Cross-Corpora
+    Evaluation of Speech Summarization Systems'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10389641/
+  venue: 2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
+  year: 2023
+- authors: Xiang Li and Jinglu Wang and Xiaohao Xu and Muqiao Yang and Fan Yang and
+    Yizhou Zhao and Rita Singh and Bhiksha Raj
+  title: 'Towards noise-tolerant speech-referring video object segmentation: Bridging
+    speech and text'
+  type: 2
+  url: https://aclanthology.org/2023.emnlp-main.140/
+  venue: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+    Processing
+  year: 2023
+- authors: Thanh-Dat Truong and Utsav Prabhu and Bhiksha Raj and Jackson Cothren and
+    Khoa Luu
+  title: 'FALCON: Fairness Learning via Contrastive Attention Approach to Continual
+    Semantic Scene Understanding in Open World'
+  type: 1
+  url: https://arxiv.org/abs/2311.15965
+  venue: arXiv preprint arXiv:2311.15965
+  year: 2023
+- authors: Yutian Chen and Hao Kang and Vivian Zhai and Liangze Li and Rita Singh
+    and Bhiksha Raj
+  title: Token Prediction as Implicit Classification to Identify LLM-Generated Text
+  type: 1
+  url: https://arxiv.org/abs/2311.08723
+  venue: arXiv preprint arXiv:2311.08723
+  year: 2023
+- authors: Xiang Li and Yandong Wen and Muqiao Yang and Jinglu Wang and Rita Singh
+    and Bhiksha Raj
+  title: 'Rethinking Voice-Face Correlation: A Geometry View'
+  type: 0
+  url: https://dl.acm.org/doi/abs/10.1145/3581783.3611779
+  venue: arXiv preprint arXiv:2311.08723
+  year: 2023
+- authors: Joseph Konan and Ojas Bhargave and Shikhar Agnihotri and Shuo Han and Yunyang
+    Zeng and Ankit Shah and Bhiksha Raj
+  title: Psychoacoustic Challenges Of Speech Enhancement On VoIP Platforms
+  type: 1
+  url: https://arxiv.org/abs/2310.07161
+  venue: arXiv preprint arXiv:2310.07161
+  year: 2023
+- authors: Francisco Teixeira and Alberto Abad and Bhiksha Raj and Isabel Trancoso
+  title: Privacy-oriented manipulation of speaker representations
+  type: 1
+  url: https://arxiv.org/abs/2310.06652
+  venue: arXiv preprint arXiv:2310.06652
+  year: 2023
+- authors: Umberto Cappellazzo and Enrico Fini and Muqiao Yang and Daniele Falavigna
+    and Alessio Brutti and Bhiksha Raj
+  title: Continual Contrastive Spoken Language Understanding
+  type: 1
+  url: https://arxiv.org/abs/2310.02699
+  venue: arXiv preprint arXiv:2310.02699
+  year: 2023
+- authors: Muhammad Ahmed Shah and Roshan Sharma and Hira Dhamyal and Raphael Olivier
+    and Ankit Shah and Dareen Alharthi and Hazim T Bukhari and Massa Baali and Soham
+    Deshmukh and Michael Kuhlmann and Bhiksha Raj and Rita Singh
+  title: 'Loft: Local proxy fine-tuning for improving transferability of adversarial
+    attacks against large language model'
+  type: 1
+  url: https://arxiv.org/abs/2310.04445
+  venue: arXiv preprint arXiv:2310.04445
+  year: 2023
+- authors: Dareen Alharthi and Roshan Sharma and Hira Dhamyal and Soumi Maiti and
+    Bhiksha Raj and Rita Singh
+  title: Evaluating speech synthesis by training recognizers on synthetic speech
+  type: 1
+  url: https://arxiv.org/abs/2310.00706
+  venue: arXiv preprint arXiv:2310.00706
+  year: 2023
+- authors: Xiang Li and Yinpeng Chen and Chung-Ching Lin and Rita Singh and Bhiksha
+    Raj and Zicheng Liu
+  title: Completing visual objects via bridging generation and segmentation
+  type: 1
+  url: https://arxiv.org/abs/2310.00808
+  venue: arXiv preprint arXiv:2310.00808
+  year: 2023
+- authors: Xiang Li and Jinglu Wang and Xiaohao Xu and Xiulian Peng and Rita Singh
+    and Yan Lu and Bhiksha Raj
+  title: Towards Robust Audiovisual Segmentation in Complex Environments with Quantization-based
+    Semantic Decomposition
+  type: 1
+  url: https://arxiv.org/abs/2310.00132
+  venue: arXiv preprint arXiv:2310.00132
+  year: 2023
+- authors: Hao Chen and Jindong Wang and Ankit Shah and Ran Tao and Hongxin Wei and
+    Xing Xie and Masashi Sugiyama and Bhiksha Raj
+  title: Understanding and mitigating the label noise in pre-training on downstream
+    tasks
+  type: 1
+  url: https://arxiv.org/abs/2309.17002
+  venue: arXiv preprint arXiv:2309.17002
+  year: 2023
+- authors: Xiang Li and Jinglu Wang and Xiaohao Xu and Xiulian Peng and Rita Singh
+    and Yan Lu and Bhiksha Raj
+  title: Rethinking audiovisual segmentation with semantic quantization and decomposition
+  type: 1
+  url: https://ui.adsabs.harvard.edu/abs/2023arXiv231000132L/abstract
+  venue: arXiv e-prints
+  year: 2023
+- authors: Samiran Gode and Supreeth Bare and Bhiksha Raj and Hyungon Yoo
+  title: 'Understanding political polarization using language models: A dataset and
+    method'
+  type: 1
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/aaai.12104
+  venue: AI Magazine
+  year: 2023
+- authors: Raphael Olivier and Hadi Abdullah and Bhiksha Raj
+  title: Transferable Adversarial Perturbations between Self-Supervised Speech Recognition
+    Models
+  type: 2
+  url: https://openreview.net/forum?id=XHtyRYd3m3
+  venue: The Second Workshop on New Frontiers in Adversarial Machine Learning
+  year: 2023
+- authors: Liao Qu and Xianwei Zou and Xiang Li and Yandong Wen and Rita Singh and
+    Bhiksha Raj
+  title: 'The hidden dance of phonemes and visage: Unveiling the enigmatic link between
+    phonemes and facial features'
+  type: 1
+  url: https://arxiv.org/abs/2307.13953
+  venue: arXiv preprint arXiv:2307.13953
+  year: 2023
+- authors: Roshan Sharma and Kenneth Zheng and Siddhant Arora and Shinji Watanabe
+    and Rita Singh and Bhiksha Raj
+  title: 'BASS: Block-wise Adaptation for Speech Summarization'
+  type: 1
+  url: https://arxiv.org/abs/2307.08217
+  venue: arXiv preprint arXiv:2307.08217
+  year: 2023
+- authors: Raphael Olivier and Bhiksha Raj
+  title: How many perturbations break this model? evaluating robustness beyond adversarial
+    accuracy
+  type: 2
+  url: https://proceedings.mlr.press/v202/olivier23a.html
+  venue: International Conference on Machine Learning
+  year: 2023
+- authors: Xiang Li and Haoyuan Cao and Shijie Zhao and Junlin Li and Li Zhang and
+    Bhiksha Raj
+  title: Panoramic video salient object detection with ambisonic audio guidance
+  type: 1
+  url: https://ojs.aaai.org/index.php/AAAI/article/view/25227
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+  year: 2023
+- authors: Kashu Yamazaki and Khoa Vo and Quang Sang Truong and Bhiksha Raj and Ngan
+    Le
+  title: 'VLTinT: visual-linguistic transformer-in-transformer for coherent video
+    paragraph captioning'
+  type: 1
+  url: https://ojs.aaai.org/index.php/AAAI/article/view/25412
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+  year: 2023
+- authors: Pha Nguyen and Kha Gia Quach and John Gauch and Samee U Khan and Bhiksha
+    Raj and Khoa Luu
+  title: 'Utopia: Unconstrained tracking objects without preliminary examination via
+    cross-domain adaptation'
+  type: 1
+  url: https://arxiv.org/abs/2306.09613
+  venue: arXiv preprint arXiv:2306.09613
+  year: 2023
+- authors: Ankit Shah and Larry Tang and Po Hao Chou and Yi Yu Zheng and Ziqian Ge
+    and Bhiksha Raj
+  title: An Approach to Ontological Learning from Weak Labels
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10097025/
+  venue: ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2023
+- authors: Francisco Teixeira and Alberto Abad and Bhiksha Raj and Isabel Trancoso
+  title: Privacy-Preserving Automatic Speaker Diarization
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10096113/
+  venue: ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2023
+- authors: Mark Lindsey and Richard M Stern and Bhiksha Raj and Aswin Sankaranarayanan
+    and Rita Singh and Francis Kubala
+  title: The Interactive Machine Learning Paradigm
+  type: 0
+  url: http://cvis.cs.cmu.edu/cvis/docs/mark_proposal_final.pdf
+  venue: ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2023
+- authors: Yunyang Zeng and Joseph Konan and David Bick and Muqiao Wang and Anurag
+    Kumar and Shinji Watanabe and Bhiksha Raj
+  title: 'TAPLoss: A Temporal Acoustic Parameter Loss for Speech Enhancement'
+  type: 2
+  url: null
+  venue: ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and
+    Signal Processing (ICASSP)
+  year: 2023
+- authors: Xiang Li and Chung-Ching Lin and Yinpeng Chen and Zicheng Liu and Jinglu
+    Wang and Bhiksha Raj
+  title: 'PaintSeg: Training-free Segmentation via Painting'
+  type: 1
+  url: https://arxiv.org/abs/2305.19406
+  venue: arXiv preprint arXiv:2305.19406
+  year: 2023
+- authors: Hao Chen and Ankit Shah and Jindong Wang and Ran Tao and Yidong Wang and
+    Xing Xie and Masashi Sugiyama and Rita Singh and Bhiksha Raj
+  title: 'Imprecise label learning: A unified framework for learning with various
+    imprecise label configurations'
+  type: 1
+  url: https://arxiv.org/abs/2305.12715
+  venue: arXiv preprint arXiv:2305.12715
+  year: 2023
+- authors: Joseph Konan and Ojas Bhargave and Shikhar Agnihotri and Hojeong Lee and
+    Ankit Shah and Shuo Han and Yunyang Zeng and Amanda Shu and Haohui Liu and Xuankai
+    Chang and Hamza Khalid and Minseon Gwak and Kawon Lee and Minjeong Kim and Bhiksha
+    Raj
+  title: Improving Perceptual Quality, Intelligibility, and Acoustics on VoIP Platforms
+  type: 1
+  url: https://arxiv.org/abs/2303.09048
+  venue: arXiv preprint arXiv:2303.09048
+  year: 2023
+- authors: Ankit Shah and Shuyi Chen and Kejun Zhou and Yue Chen and Bhiksha Raj
+  title: Approach to Learning Generalized Audio Representation Through Batch Embedding
+    Covariance Regularization and Constant-Q Transforms
+  type: 1
+  url: https://arxiv.org/abs/2303.03591
+  venue: arXiv preprint arXiv:2303.03591
+  year: 2023
+- authors: Bhiksha Raj
+  title: Improving sound event detection with ontologies
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/153/3_supplement/A364/2886543
+  venue: The Journal of the Acoustical Society of America
+  year: 2023
+- authors: Laurie M Heller and Benjamin Elizalde and Bhiksha Raj and Soham Deshmukh
+  title: 'Synergy between human and machine approaches to sound/scene recognition
+    and processing: An overview of ICASSP special session'
+  type: 0
+  url: https://arxiv.org/abs/2302.09719
+  venue: The Journal of the Acoustical Society of America
+  year: 2023
+- authors: Hao Chen and Ran Tao and Yue Fan and Yidong Wang and Jindong Wang and Bernt
+    Schiele and Xing Xie and Bhiksha Raj and Marios Savvides
+  title: 'Softmatch: Addressing the quantity-quality trade-off in semi-supervised
+    learning'
+  type: 1
+  url: https://arxiv.org/abs/2301.10921
+  venue: arXiv preprint arXiv:2301.10921
+  year: 2023
+- authors: Xiang Li and Jinglu Wang and Xiaohao Xu and Xiao Li and Bhiksha Raj and
+    Yan Lu
+  title: Robust referring video object segmentation with cyclic structural consensus
+  type: 2
+  url: http://openaccess.thecvf.com/content/ICCV2023/html/Li_Robust_Referring_Video_Object_Segmentation_with_Cyclic_Structural_Consensus_ICCV_2023_paper.html
+  venue: Proceedings of the IEEE/CVF International Conference on Computer Vision
+  year: 2023
+- authors: "Yandong Wen and Weiyang Liu and Yao Feng and Bhiksha Raj and Rita Singh\
+    \ and Adrian Weller and Michael J Black and Bernhard Sch\xF6lkopf"
+  title: Pairwise Similarity Learning is SimPLE
+  type: 2
+  url: http://openaccess.thecvf.com/content/ICCV2023/html/Wen_Pairwise_Similarity_Learning_is_SimPLE_ICCV_2023_paper.html
+  venue: Proceedings of the IEEE/CVF International Conference on Computer Vision
+  year: 2023
+- authors: Thanh-Dat Truong and Ngan Le and Bhiksha Raj and Jackson Cothren and Khoa
+    Luu
+  title: 'Fredom: Fairness domain adaptation approach to semantic scene understanding'
+  type: 2
+  url: http://openaccess.thecvf.com/content/CVPR2023/html/Truong_FREDOM_Fairness_Domain_Adaptation_Approach_to_Semantic_Scene_Understanding_CVPR_2023_paper.html
+  venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  year: 2023
+- authors: Khoa Vo and Sang Truong and Kashu Yamazaki and Bhiksha Raj and Minh-Triet
+    Tran and Ngan Le
+  title: 'Aoe-net: Entities interactions modeling with adaptive attention mechanism
+    for temporal action proposals generation'
+  type: 1
+  url: https://link.springer.com/article/10.1007/s11263-022-01702-9
+  venue: International Journal of Computer Vision
+  year: 2023
+- authors: Yidong Wang and Hao Chen and Yue Fan and Wang Sun and Ran Tao and Wenxin
+    Hou and Renjie Wang and Linyi Yang and Zhi Zhou and Lan-Zhe Guo and Heli Qi and
+    Zhen Wu and Yu-Feng Li and Satoshi Nakamura and Wei Ye and Marios Savvides and
+    Bhiksha Raj and Takahiro Shinozaki and Bernt Schiele and Jindong Wang and Xing
+    Xie and Yue Zhang
+  title: 'Usb: A unified semi-supervised learning benchmark for classification'
+  type: 1
+  url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/190dd6a5735822f05646dc27decff19b-Abstract-Datasets_and_Benchmarks.html
+  venue: Advances in Neural Information Processing Systems
+  year: 2022
+- authors: Praveen V Naidu and B Sri Hasa and B Anjani Reddy and B Samuel Raj and
+    Naveen Kalasani and Aravind Kumar
+  title: 5 and L Shaped ACS Fed MIMO Antenna with Improved Isolation and Diversity
+    Metrics
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10294695/
+  venue: 2022 IEEE International Conference on Service Operations and Logistics, and
+    Informatics (SOLI)
+  year: 2022
+- authors: Hao Chen and Yue Fan and Yidong Wang and Jindong Wang and Bernt Schiele
+    and Xing Xie and Marios Savvides and Bhiksha Raj
+  title: An embarrassingly simple baseline for imbalanced semi-supervised learning
+  type: 1
+  url: https://arxiv.org/abs/2211.11086
+  venue: arXiv preprint arXiv:2211.11086
+  year: 2022
+- authors: Hira Dhamyal and Benjamin Elizalde and Soham Deshmukh and Huaming Wang
+    and Bhiksha Raj and Rita Singh
+  title: Describing emotions with acoustic property prompts for speech emotion recognition
+  type: 1
+  url: https://arxiv.org/abs/2211.07737
+  venue: arXiv preprint arXiv:2211.07737
+  year: 2022
+- authors: Roshan Sharma and Bhiksha Raj
+  title: Cross-utterance context for multimodal video transcription
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10052073/
+  venue: 2022 56th Asilomar Conference on Signals, Systems, and Computers
+  year: 2022
+- authors: Xiang Li and Jinglu Wang and Xiaohao Xu and Xiao Li and Yan Lu and Bhiksha
+    Raj
+  title: 'R^ 2-VOS: Robust Referring Video Object Segmentation via Relational Cycle
+    Consistency'
+  type: 0
+  url: https://openreview.net/forum?id=vExdPu73R2z
+  venue: 2022 56th Asilomar Conference on Signals, Systems, and Computers
+  year: 2022
+- authors: Roshan Sharma and Bhiksha Raj
+  title: 'Xnor-former: Learning accurate approximations in long speech transformers'
+  type: 1
+  url: https://arxiv.org/abs/2210.16643
+  venue: arXiv preprint arXiv:2210.16643
+  year: 2022
+- authors: Roshan Sharma and Hira Dhamyal and Bhiksha Raj and Rita Singh
+  title: Unifying the discrete and continuous emotion labels for speech emotion recognition
+  type: 1
+  url: https://arxiv.org/abs/2210.16642
+  venue: arXiv preprint arXiv:2210.16642
+  year: 2022
+- authors: Raphael Olivier and Bhiksha Raj
+  title: 'There is more than one kind of robustness: Fooling whisper with adversarial
+    examples'
+  type: 1
+  url: https://arxiv.org/abs/2210.17316
+  venue: arXiv preprint arXiv:2210.17316
+  year: 2022
+- authors: Xiang Li and Jinglu Wang and Xiaohao Xu and Xiao Li and Yan Lu and Bhiksha
+    Raj
+  title: '-VOS: Robust Referring Video Object Segmentation via Relational Cycle Consistency'
+  type: 0
+  url: https://openreview.net/forum?id=h-oMvNaV_Nr
+  venue: arXiv preprint arXiv:2210.17316
+  year: 2022
+- authors: Muhammad A Shah and Bhiksha Raj
+  title: 'Less Is More: Training on Low-Fidelity Images Improves Robustness to Adversarial
+    Attacks'
+  type: 0
+  url: https://openreview.net/forum?id=8mQrCW_JO3
+  venue: arXiv preprint arXiv:2210.17316
+  year: 2022
+- authors: Ankit Parag Shah and Bhiksha Raj
+  title: Training image classifiers using semi-weak label data
+  type: 0
+  url: https://openreview.net/forum?id=kPL4YzdDqWE
+  venue: arXiv preprint arXiv:2210.17316
+  year: 2022
+- authors: Raphael Olivier and Hadi Abdullah and Bhiksha Raj
+  title: 'Watch What You Pretrain For: Targeted, Transferable Adversarial Examples
+    on Self-Supervised Speech Recognition models'
+  type: 1
+  url: https://arxiv.org/abs/2209.13523
+  venue: arXiv preprint arXiv:2209.13523
+  year: 2022
+- authors: "Joseph Turian and Jordie Shier and Humair Raj Khan and Bhiksha Raj and\
+    \ Bj\xF6rn W Schuller and Christian J Steinmetz and Colin Malloy and George Tzanetakis\
+    \ and Gissel Velarde and Kirk McNally and Max Henry and Nicolas Pinto and Camille\
+    \ Noufi and Christian Clough and Dorien Herremans and Eduardo Fonseca and Jesse\
+    \ Engel and Justin Salamon and Philippe Esling and Pranay Manocha and Shinji Watanabe\
+    \ and Zeyu Jin and Yonatan Bisk"
+  title: 'Hear: Holistic evaluation of audio representations'
+  type: 2
+  url: https://proceedings.mlr.press/v176/turian22a.html
+  venue: NeurIPS 2021 Competitions and Demonstrations Track
+  year: 2022
+- authors: Xiang Li and Jinglu Wang and Xiaohao Xu and Bhiksha Raj and Yan Lu
+  title: Online video instance segmentation via robust context fusion
+  type: 1
+  url: https://arxiv.org/abs/2207.05580
+  venue: arXiv preprint arXiv:2207.05580
+  year: 2022
+- authors: Xiang Li and Jinglu Wang and Xiaohao Xu and Xiao Li and Yan Lu and Bhiksha
+    Raj
+  title: 'R^ 2VOS: Robust Referring Video Object Segmentation via Relational Multimodal
+    Cycle Consistency'
+  type: 1
+  url: https://arxiv.org/abs/2207.01203
+  venue: arXiv preprint arXiv:2207.01203
+  year: 2022
+- authors: Muqiao Yang and Joseph Konan and David Bick and Anurag Kumar and Shinji
+    Watanabe and Bhiksha Raj
+  title: Improving speech enhancement through fine-grained speech characteristics
+  type: 1
+  url: https://arxiv.org/abs/2207.00237
+  venue: arXiv preprint arXiv:2207.00237
+  year: 2022
+- authors: Roshan Sharma and Tyler Vuong and Mark Lindsey and Hira Dhamyal and Rita
+    Singh and Bhiksha Raj
+  title: Self-supervision and learnable strfs for age, emotion, and country prediction
+  type: 1
+  url: https://arxiv.org/abs/2206.12568
+  venue: arXiv preprint arXiv:2206.12568
+  year: 2022
+- authors: Francisco Teixeira and Alberto Abad and Bhiksha Raj and Isabel Trancoso
+  title: Towards End-to-End Private Automatic Speaker Recognition
+  type: 1
+  url: https://arxiv.org/abs/2206.11750
+  venue: arXiv preprint arXiv:2206.11750
+  year: 2022
+- authors: Chonghan Chen and Qi Jiang and Chih-Hao Wang and Noel Chen and Haohan Wang
+    and Xiang Li and Bhiksha Raj
+  title: 'Bear the Query in Mind: Visual Grounding with Query-conditioned Convolution'
+  type: 1
+  url: https://arxiv.org/abs/2206.09114
+  venue: arXiv preprint arXiv:2206.09114
+  year: 2022
+- authors: Yidong Wang and Hao Chen and Qiang Heng and Wenxin Hou and Yue Fan and
+    Zhen Wu and Jindong Wang and Marios Savvides and Takahiro Shinozaki and Bhiksha
+    Raj and Bernt Schiele and Xing Xie
+  title: 'Freematch: Self-adaptive thresholding for semi-supervised learning'
+  type: 1
+  url: https://arxiv.org/abs/2205.07246
+  venue: arXiv preprint arXiv:2205.07246
+  year: 2022
+- authors: Ankit Shah and Hira Dhamyal and Yang Gao and Daniel Arancibia and Mario
+    Arancibia and Bhiksha Raj and Rita Singh
+  title: On the pragmatism of using binary classifiers over data intensive neural
+    network classifiers for detection of COVID-19 from voice
+  type: 1
+  url: https://arxiv.org/abs/2204.04802
+  venue: arXiv preprint arXiv:2204.04802
+  year: 2022
+- authors: Raphael Olivier and Bhiksha Raj
+  title: Recent improvements of asr models in the face of adversarial attacks
+  type: 1
+  url: https://arxiv.org/abs/2203.16536
+  venue: arXiv preprint arXiv:2203.16536
+  year: 2022
+- authors: Shentong Mo and Jingfei Xia and Xiaoqing Tan and Bhiksha Raj
+  title: 'Point3D: tracking actions as moving points with 3D CNNs'
+  type: 1
+  url: https://arxiv.org/abs/2203.10584
+  venue: arXiv preprint arXiv:2203.10584
+  year: 2022
+- authors: Weiyang Liu and Yandong Wen and Bhiksha Raj and Rita Singh and Adrian Weller
+  title: 'Sphereface revived: Unifying hyperspherical face recognition'
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/9736575/
+  venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  year: 2022
+- authors: Larry Tang and Po Hao Chou and Yi Yu Zheng and Ziqian Ge and Ankit Shah
+    and Bhiksha Raj
+  title: Ontological Learning from Weak Labels
+  type: 1
+  url: https://arxiv.org/abs/2203.02483
+  venue: arXiv preprint arXiv:2203.02483
+  year: 2022
+- authors: Hira Dhamyal and Bhiksha Raj and Rita Singh
+  title: Positional Encoding for Capturing Modality Specific Cadence for Emotion Detection}}
+  type: 1
+  url: https://drive.google.com/file/d/1RbUv7dmYecJUhJxqaofwNrAZPv5bvXzC/view
+  venue: Proc. Interspeech 2022
+  year: 2022
+- authors: "Rapha\xEBl Olivier and Bhiksha Raj"
+  title: 'Not all broken defenses are equal: The dead angles of adversarial accuracy.'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=3478925080427582195&hl=en&oi=scholarr
+  venue: CoRR
+  year: 2022
+- authors: Yidong Wang and Hao Chen and Yue Fan and Wang Sun and Ran Tao and Wenxin
+    Hou and Renjie Wang and Linyi Yang and Zhi Zhou and Lan-Zhe Guo and Heli Qi and
+    Zhen Wu and Yu-Feng Li and Satoshi Nakamura and Wei Ye and Marios Savvides and
+    Bhiksha Raj and Takahiro Shinozaki and Bernt Schiele and Jindong Wang and Xing
+    Xie and Yue Zhang
+  title: 'Usb: A unified semi-supervised learning benchmark'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=6058238015136645789&hl=en&oi=scholarr
+  venue: Conference on Neural Information Processing Systems (NeurIPS)
+  year: 2022
+- authors: Yandong Wen and Weiyang Liu and Adrian Weller and Bhiksha Raj and Rita
+    Singh
+  title: 'SphereFace2: Binary Classification is All You Need for Deep Face Recognition'
+  type: 2
+  url: https://arxiv.org/abs/2108.01513
+  venue: International Conference on Learning Representations (ICLR)
+  year: 2022
+- authors: Wenbo Liu and Ming Li and Xiaobing Zou and Bhiksha Raj
+  title: Discriminative dictionary learning for autism Spectrum disorder identification
+  type: 1
+  url: https://www.frontiersin.org/articles/10.3389/fncom.2021.662401/full
+  venue: Frontiers in Computational Neuroscience
+  year: 2021
+- authors: Raphael Olivier and Bhiksha Raj
+  title: Sequential randomized smoothing for adversarially robust speech recognition
+  type: 1
+  url: https://arxiv.org/abs/2112.03000
+  venue: arXiv preprint arXiv:2112.03000
+  year: 2021
+- authors: Benjamin Elizalde and Radu Revutchi and Samarjit Das and Bhiksha Raj and
+    Ian Lane and Laurie M Heller
+  title: Identifying actions for sound event classification
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9632782/
+  venue: 2021 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics
+    (WASPAA)
+  year: 2021
+- authors: Joana Correia and Francisco Teixeira and Catarina Botelho and Isabel Trancoso
+    and Bhiksha Raj
+  title: The in-the-wild speech medical corpus
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9414230/
+  venue: ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2021
+- authors: Raphael Olivier and Bhiksha Raj and Muhammad Shah
+  title: High-frequency adversarial defense for speech and audio
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9414525/
+  venue: ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2021
+- authors: Muhammad A Shah and Raphael Olivier and Bhiksha Raj
+  title: Towards adversarial robustness via compact feature representations
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9414696/
+  venue: ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2021
+- authors: "Ali Shahin Shamsabadi and Francisco Sep\xFAlveda Teixeira and Alberto\
+    \ Abad and Bhiksha Raj and Andrea Cavallaro and Isabel Trancoso"
+  title: 'Foolhd: Fooling speaker identification by highly imperceptible adversarial
+    disturbances'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9413760/
+  venue: ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2021
+- authors: Bronya Roni Chernyak and Bhiksha Raj and Tamir Hazan and Joseph Keshet
+  title: Constant random perturbations provide adversarial robustness with minimal
+    effect on accuracy
+  type: 1
+  url: https://arxiv.org/abs/2103.08265
+  venue: arXiv preprint arXiv:2103.08265
+  year: 2021
+- authors: Bronya Roni Chernyak and Bhiksha Raj and Tamir Hazan and Joseph Keshet
+  title: Constant Random Perturbations Provide Adversarial Robustness with Minimal
+    Effect on Accuracy
+  type: 1
+  url: https://ui.adsabs.harvard.edu/abs/2021arXiv210308265R/abstract
+  venue: arXiv e-prints
+  year: 2021
+- authors: Yang Gao and Jiachen Lian and Bhiksha Raj and Rita Singh
+  title: Detection and evaluation of human and machine generated speech in spoofing
+    attacks on automatic speaker verification systems
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9383558/
+  venue: 2021 IEEE Spoken Language Technology Workshop (SLT)
+  year: 2021
+- authors: Muhammad A Shah and Raphael Olivier and Bhiksha Raj
+  title: Optimal Strategies For Comparing Covariates To Solve Matching Problems
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9412932/
+  venue: 2020 25th International Conference on Pattern Recognition (ICPR)
+  year: 2021
+- authors: Muhammad A Shah and Raphael Olivier and Bhiksha Raj
+  title: Exploiting non-linear redundancy for neural model compression
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9413178/
+  venue: 2020 25th International Conference on Pattern Recognition (ICPR)
+  year: 2021
+- authors: Wenbo Zhao and Yang Gao and Shahan Ali Memon and Bhiksha Raj and Rita Singh
+  title: Hierarchical routing mixture of experts
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9412813/
+  venue: 2020 25th International Conference on Pattern Recognition (ICPR)
+  year: 2021
+- authors: Rita Singh Jiachen Lian and Aiswarya Vinod Kumar and Hira Dhamyal and Bhiksha
+    Raj
+  title: Masked Proxy Loss for Text-Independent Speaker Verification
+  type: 2
+  url: null
+  venue: Interspeech 2021
+  year: 2021
+- authors: Rita Singh Soham Deshmukh and Bhiksha Raj
+  title: Improving Weakly Supervised Sound Event Detection with Self-Supervised Auxiliary
+    Tasks
+  type: 2
+  url: null
+  venue: Interspeech 2021
+  year: 2021
+- authors: "Rodolfo M Vega and Enrique Pel\xE1ez and Bhiksha Raj"
+  title: 'Shadowing as peer experiential learning for faculty instructional development
+    strategy: A case study on a computer science course'
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S2666374021000613
+  venue: International Journal of Educational Research Open
+  year: 2021
+- authors: Yandong Wen and Weiyang Liu and Bhiksha Raj and Rita Singh
+  title: Self-supervised 3d face reconstruction via conditional estimation
+  type: 2
+  url: http://openaccess.thecvf.com/content/ICCV2021/html/Wen_Self-Supervised_3D_Face_Reconstruction_via_Conditional_Estimation_ICCV_2021_paper.html
+  venue: Proceedings of the IEEE/CVF International Conference on Computer Vision
+  year: 2021
+- authors: Kai Hu and Jie Shao and Yuan Liu and Bhiksha Raj and Marios Savvides and
+    Zhiqiang Shen
+  title: Contrast and order representations for video self-supervised learning
+  type: 2
+  url: http://openaccess.thecvf.com/content/ICCV2021/html/Hu_Contrast_and_Order_Representations_for_Video_Self-Supervised_Learning_ICCV_2021_paper.html
+  venue: Proceedings of the IEEE/CVF International Conference on Computer Vision
+  year: 2021
+- authors: Thanh-Dat Truong and Chi Nhan Duong and Hoang Anh Pham and Bhiksha Raj
+    and Ngan Le and Khoa Luu
+  title: 'The right to talk: An audio-visual transformer approach'
+  type: 2
+  url: http://openaccess.thecvf.com/content/ICCV2021/html/Truong_The_Right_To_Talk_An_Audio-Visual_Transformer_Approach_ICCV_2021_paper.html
+  venue: Proceedings of the IEEE/CVF International Conference on Computer Vision
+  year: 2021
+- authors: Muhammad A Shah and Khaled A Harras and Bhiksha Raj
+  title: 'Sherlock: A crowd-sourced system for automatic tagging of indoor floor plans'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9356066/
+  venue: 2020 IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems
+    (MASS)
+  year: 2020
+- authors: "Ali Shahin Shamsabadi and Francisco Sep\xFAlveda Teixeira and Alberto\
+    \ Abad and Bhiksha Raj and Andrea Cavallaro and Isabel Trancoso"
+  title: 'FoolHD: Fooling speaker identification by Highly imperceptible adversarial
+    Disturbances'
+  type: 1
+  url: https://ui.adsabs.harvard.edu/abs/2020arXiv201108483S/abstract
+  venue: arXiv e-prints
+  year: 2020
+- authors: Soham Deshmukh and Bhiksha Raj and Rita Singh
+  title: Multi-task learning for interpretable weakly labelled sound event detection
+  type: 1
+  url: https://arxiv.org/abs/2008.07085
+  venue: arXiv preprint arXiv:2008.07085
+  year: 2020
+- authors: Yuichiro Koyama and Bhiksha Raj
+  title: Exploring optimal dnn architecture for end-to-end beamformers based on time-frequency
+    references
+  type: 1
+  url: https://arxiv.org/abs/2005.12683
+  venue: arXiv preprint arXiv:2005.12683
+  year: 2020
+- authors: Yuichiro Koyama and Tyler Vuong and Stefan Uhlich and Bhiksha Raj
+  title: Exploring the best loss function for DNN-based low-latency speech enhancement
+    with temporal convolutional networks
+  type: 1
+  url: https://arxiv.org/abs/2005.11611
+  venue: arXiv preprint arXiv:2005.11611
+  year: 2020
+- authors: Yuichiro Koyama and Oluwafemi Azeez and Bhiksha Raj
+  title: Efficient integration of multi-channel information for speaker-independent
+    speech separation
+  type: 1
+  url: https://arxiv.org/abs/2005.11612
+  venue: arXiv preprint arXiv:2005.11612
+  year: 2020
+- authors: Muhammad A Shah and Bhiksha Raj
+  title: Deriving compact feature representations via annealed contraction
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9054527/
+  venue: ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2020
+- authors: Joana Correia and Isabel Trancoso and Bhiksha Raj
+  title: Automatic in-the-wild dataset annotation with deep generalized multiple instance
+    learning
+  type: 2
+  url: https://aclanthology.org/2020.lrec-1.435/
+  venue: Proceedings of the Twelfth Language Resources and Evaluation Conference
+  year: 2020
+- authors: Rowland Chen and Roger B Dannenberg and Bhiksha Raj and Rita Singh
+  title: 'Artificial Creative Intelligence: Breaking the Imitation Barrier.'
+  type: 2
+  url: http://www.cs.cmu.edu/~rbd/papers/ACI2020-online.pdf
+  venue: ICCC
+  year: 2020
+- authors: Hao Liang and Lulan Yu and Guikang Xu and Bhiksha Raj and Rita Singh
+  title: Controlled autoencoders to generate faces from voices
+  type: 2
+  url: https://link.springer.com/chapter/10.1007/978-3-030-64556-4_37
+  venue: "Advances in Visual Computing: 15th International Symposium, ISVC 2020, San\
+    \ Diego, CA, USA, October 5\u20137, 2020, Proceedings, Part I 15"
+  year: 2020
+- authors: Jiachen Lian and Aiswarya Vinod Kumar and Hira Dhamyal and Bhiksha Raj
+    and Rita Singh
+  title: Mask Proxy Loss for Text-Independent Speaker Recognition.
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=2800574691640053447&hl=en&oi=scholarr
+  venue: CoRR
+  year: 2020
+- authors: Jie Shao and Kai Hu and Changhu Wang and Xiangyang Xue and Bhiksha Raj
+  title: Is normalization indispensable for training deep neural network?
+  type: 1
+  url: https://proceedings.neurips.cc/paper/2020/hash/9b8619251a19057cff70779273e95aa6-Abstract.html
+  venue: Advances in Neural Information Processing Systems
+  year: 2020
+- authors: Joana Correia and Isabel Trancoso and Bhiksha Raj
+  title: In-the-wild end-to-end detection of speech affecting diseases
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9003754/
+  venue: 2019 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
+  year: 2019
+- authors: Hira Dhamyal and Tianyan Zhou and Bhiksha Raj and Rita Singh
+  title: Optimizing neural network embeddings using a pair-wise loss for text-independent
+    speaker verification
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9003794/
+  venue: 2019 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
+  year: 2019
+- authors: Yandong Wen and Rita Singh and Bhiksha Raj
+  title: Face Reconstruction from Voice using Generative Adversarial Networks
+  type: 2
+  url: https://proceedings.neurips.cc/paper/2019/hash/eb9fc349601c69352c859c1faa287874-Abstract.html
+  venue: Neural Information Processing Systems
+  year: 2019
+- authors: Hira Dhamyal and Shahan Ali Memon and Bhiksha Raj and Rita Singh
+  title: 'The phonetic bases of vocal expressed emotion: natural versus acted'
+  type: 1
+  url: https://arxiv.org/abs/1911.05733
+  venue: arXiv preprint arXiv:1911.05733
+  year: 2019
+- authors: "Andreas Nautsch and Abelino Jim\xE9nez and Amos Treiber and Jascha Kolberg\
+    \ and Catherine Jasserand and Els Kindt and H\xE9ctor Delgado and Massimiliano\
+    \ Todisco and Mohamed Amine Hmani and Aymen Mtibaa and Mohammed Ahmed Abdelraheem\
+    \ and Alberto Abad and Francisco Teixeira and Driss Matrouf and Marta Gomez-Barrero\
+    \ and Dijana Petrovska-Delacr\xE9taz and G\xE9rard Chollet and Nicholas Evans\
+    \ and Thomas Schneider and Jean-Fran\xE7ois Bonastre and Bhiksha Raj and Isabel\
+    \ Trancoso and Christoph Busch"
+  title: Preserving privacy in speaker and speech characterisation
+  type: 0
+  url: https://www.sciencedirect.com/science/article/pii/S0885230818303875
+  venue: arXiv preprint arXiv:1911.05733
+  year: 2019
+- authors: Yuichiro Koyama and Bhiksha Raj
+  title: 'W-Net BF: DNN-based beamformer using joint training approach'
+  type: 1
+  url: https://arxiv.org/abs/1910.14262
+  venue: arXiv preprint arXiv:1910.14262
+  year: 2019
+- authors: Shahan Ali Memon and Hira Dhamyal and Oren Wright and Daniel Justice and
+    Vijaykumar Palat and William Boler and Bhiksha Raj and Rita Singh
+  title: Detecting gender differences in perception of emotion in crowdsourced data
+  type: 1
+  url: https://arxiv.org/abs/1910.11386
+  venue: arXiv preprint arXiv:1910.11386
+  year: 2019
+- authors: Shahan Ali Memon and Wenbo Zhao and Bhiksha Raj and Rita Singh
+  title: Neural regression trees
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8852133/
+  venue: 2019 International Joint Conference on Neural Networks (IJCNN)
+  year: 2019
+- authors: Daanish Ali Khan and Linhong Li and Ninghao Sha and Zhuoran Liu and Abelino
+    Jimenez and Bhiksha Raj and Rita Singh
+  title: Non-Determinism in Neural Networks for Adversarial Robustness
+  type: 1
+  url: https://arxiv.org/abs/1905.10906
+  venue: arXiv preprint arXiv:1905.10906
+  year: 2019
+- authors: Chirag Nagpal and Rohan Sangave and Amit Chahar and Parth Shah and Artur
+    Dubrawski and Bhiksha Raj
+  title: Nonlinear semi-parametric models for survival analysis
+  type: 1
+  url: https://arxiv.org/abs/1905.05865
+  venue: arXiv preprint arXiv:1905.05865
+  year: 2019
+- authors: "Abelino Jim\xE9nez and Bhiksha Raj"
+  title: Time signal classification using random convolutional features
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8682489/
+  venue: ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Daanish Ali Khan and Saquib Razak and Bhiksha Raj and Rita Singh
+  title: Human behaviour recognition using WiFi channel state information
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8682821/
+  venue: ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Benjamin Elizalde and Shuayb Zarar and Bhiksha Raj
+  title: Cross modal audio search and retrieval with joint embeddings based on text
+    and audio
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8682632/
+  venue: ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2019
+- authors: Yandong Wen and Mahmoud Al Ismai and Weiyang Liu and Bhiksha Raj and Rita
+    Singh
+  title: Disjoint Mapping Network for Cross-modal Matching of Voices and Faces
+  type: 2
+  url: https://arxiv.org/abs/1807.04836
+  venue: Seventh International Conference on Learning Representations
+  year: 2019
+- authors: Yandong Wen and Rita Singh and Bhiksha Raj
+  title: Reconstructing Faces from Voices
+  type: 0
+  url: https://arxiv.org/abs/1905.10604
+  venue: Seventh International Conference on Learning Representations
+  year: 2019
+- authors: Yandong Wen and Rita Singh and Bhiksha Raj
+  title: Reconstructing Faces from Voices
+  type: 1
+  url: https://arxiv.org/abs/1905.10604
+  venue: arXiv preprint arXiv:1905.10604
+  year: 2019
+- authors: Annamaria Mesaros and Aleksandr Diment and Benjamin Elizalde and Toni Heittola
+    and Emmanuel Vincent and Bhiksha Raj and Tuomas Virtanen
+  title: Sound event detection in the DCASE 2017 challenge
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/8673582/
+  venue: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  year: 2019
+- authors: Felix Kreuk and Yossi Adi and Bhiksha Raj and Rita Singh and Joseph Keshet
+  title: 'Hide and speak: Towards deep neural networks for speech steganography'
+  type: 1
+  url: https://arxiv.org/abs/1902.03083
+  venue: arXiv preprint arXiv:1902.03083
+  year: 2019
+- authors: Isabel Trancoso and Maria Joana Ribeiro Folgado Correia and Francisco Teixeira
+    and Alberto Abad and Maria Catarina Tavares Botelho and Bhiksha Raj
+  title: Speech as a (private?) biomarker for speech affecting diseases
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=15259227198761609598&hl=en&oi=scholarr
+  venue: In ICIEA
+  year: 2019
+- authors: Felix Kreuk and Yossi Adi and Bhiksha Raj and Rita Singh and Joseph Keshet
+  title: 'Hide and speak: Deep neural networks for speech steganography'
+  type: 1
+  url: https://www.researchgate.net/profile/Joseph-Keshet/publication/331008926_Hide_and_Speak_Deep_Neural_Networks_for_Speech_Steganography/links/5c6e821ca6fdcc404ec21a78/Hide-and-Speak-Deep-Neural-Networks-for-Speech-Steganography.pdf
+  venue: arXiv preprint arXiv:1902.03083
+  year: 2019
+- authors: Joana Correia and Bhiksha Raj and Isabel Trancoso
+  title: Querying depression vlogs
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8639555/
+  venue: 2018 IEEE Spoken Language Technology Workshop (SLT)
+  year: 2018
+- authors: Sabit Hassan and Shaden Shaar and Bhiksha Raj and Saquib Razak
+  title: Interactive evaluation of classifiers under limited resources
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8614058/
+  venue: 2018 17th IEEE International Conference on Machine Learning and Applications
+    (ICMLA)
+  year: 2018
+- authors: "Sebastian S\xE4ger and Benjamin Elizalde and Damian Borth and Christian\
+    \ Schulze and Bhiksha Raj and Ian Lane"
+  title: 'AudioPairBank: towards a large-scale tag-pair-based audio content analysis'
+  type: 1
+  url: https://link.springer.com/article/10.1186/s13636-018-0137-5
+  venue: EURASIP Journal on Audio, Speech, and Music Processing
+  year: 2018
+- authors: Anurag Kumar and Ankit Shah and Bhiksha Raj and Alex Hauptmann
+  title: Learning sound events from webly labeled data
+  type: 1
+  url: https://arxiv.org/abs/1811.09967
+  venue: arXiv preprint arXiv:1811.09967
+  year: 2018
+- authors: Kai Hu and Bhiksha Raj
+  title: Higher-order Network for Action Recognition
+  type: 1
+  url: https://arxiv.org/abs/1811.07519
+  venue: arXiv preprint arXiv:1811.07519
+  year: 2018
+- authors: Bhiksha Raj and Alberto Abad
+  title: Analysing Speech for Clinical Applications
+  type: 1
+  url: https://books.google.com/books?hl=en&lr=&id=4I5xDwAAQBAJ&oi=fnd&pg=PA4&dq=info:YvX_Nd_hk4MJ:scholar.google.com&ots=eQCR4u1cuN&sig=VdoU9UDONRQrMzaHQ8I0tUian_0
+  venue: "Statistical Language and Speech Processing: 6th International Conference,\
+    \ SLSP 2018, Mons, Belgium, October 15\u201316, 2018, Proceedings"
+  year: 2018
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Model compensation and matched condition methods for robust speech recognition
+  type: 0
+  url: https://www.taylorfrancis.com/chapters/edit/10.1201/9781315220109-10/model-compensation-matched-condition-methods-robust-speech-recognition-rita-singh-bhiksha-raj-richard-stern
+  venue: "Statistical Language and Speech Processing: 6th International Conference,\
+    \ SLSP 2018, Mons, Belgium, October 15\u201316, 2018, Proceedings"
+  year: 2018
+- authors: Rita Singh and Richard M Stern and Bhiksha Raj
+  title: Signal and feature compensation methods for robust speech recognition
+  type: 0
+  url: https://www.taylorfrancis.com/chapters/edit/10.1201/9781315220109-9/signal-feature-compensation-methods-robust-speech-recognition-rita-singh-richard-stern-bhiksha-raj
+  venue: "Statistical Language and Speech Processing: 6th International Conference,\
+    \ SLSP 2018, Mons, Belgium, October 15\u201316, 2018, Proceedings"
+  year: 2018
+- authors: Wenbo Zhao and Shahan Ali Memon and Bhiksha Raj and Rita Singh
+  title: Neural Regression Tree
+  type: 0
+  url: https://openreview.net/forum?id=H1lFZnR5YX
+  venue: "Statistical Language and Speech Processing: 6th International Conference,\
+    \ SLSP 2018, Mons, Belgium, October 15\u201316, 2018, Proceedings"
+  year: 2018
+- authors: Isabel Trancoso and Joana Correia and Francisco Teixeira and Bhiksha Raj
+    and Alberto Abad
+  title: Analysing speech for clinical applications
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-3-030-00810-9_1
+  venue: "Statistical Language and Speech Processing: 6th International Conference,\
+    \ SLSP 2018, Mons, Belgium, October 15\u201316, 2018, Proceedings"
+  year: 2018
+- authors: Sourish Chaudhuri and Bhiksha Raj
+  title: Semantic Analysis of Audio Content
+  type: 0
+  url: https://dl.acm.org/doi/abs/10.5555/3299202
+  venue: "Statistical Language and Speech Processing: 6th International Conference,\
+    \ SLSP 2018, Mons, Belgium, October 15\u201316, 2018, Proceedings"
+  year: 2018
+- authors: Isabel Trancoso and Joana Correia and Francisco Teixeira and Bhiksha Raj
+    and Alberto Abad
+  title: Speech analytics for medical applications
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-3-030-00794-2_3
+  venue: "Statistical Language and Speech Processing: 6th International Conference,\
+    \ SLSP 2018, Mons, Belgium, October 15\u201316, 2018, Proceedings"
+  year: 2018
+- authors: Yandong Wen and Mahmoud Al Ismail and Bhiksha Raj and Rita Singh
+  title: Optimal strategies for matching and retrieval problems by comparing covariates
+  type: 1
+  url: https://arxiv.org/abs/1807.04834
+  venue: arXiv preprint arXiv:1807.04834
+  year: 2018
+- authors: Anurag Kumar and Bhiksha Raj
+  title: Classifier risk estimation under limited labeling resources
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-3-319-93034-3_1
+  venue: arXiv preprint arXiv:1807.04834
+  year: 2018
+- authors: Ankit Shah and Anurag Kumar and Alexander G Hauptmann and Bhiksha Raj
+  title: A closer look at weak label learning for audio events
+  type: 1
+  url: https://arxiv.org/abs/1804.09288
+  venue: arXiv preprint arXiv:1804.09288
+  year: 2018
+- authors: Benjamin Elizalde and Rohan Badlani and Ankit Shah and Anurag Kumar and
+    Bhiksha Raj
+  title: NELS--Never-Ending Learner of Sounds
+  type: 1
+  url: https://arxiv.org/abs/1801.05544
+  venue: arXiv preprint arXiv:1801.05544
+  year: 2018
+- authors: Abelino Jimenez and Benjamin Elizalde and Bhiksha Raj
+  title: 'DCASE 2017 task 1: Acoustic scene classification using shift-invariant kernels
+    and random features'
+  type: 1
+  url: https://arxiv.org/abs/1801.02690
+  venue: arXiv preprint arXiv:1801.02690
+  year: 2018
+- authors: Benjamin Elizalde and Abelino Jimenez and Bhiksha Raj
+  title: Sound event classification using ontology-based neural networks
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=13814097413240147642&hl=en&oi=scholarr
+  venue: NIPS 2018 Workshop
+  year: 2018
+- authors: "Bhiksha Raj and G\xE9rard Chollet"
+  title: Privacy-Preserving Cloud Computing
+  type: 2
+  url: https://telecom-paris.hal.science/hal-02287996/
+  venue: International Conference on Advanced Technologies for Signal and Image Processing
+  year: 2018
+- authors: Abelino Jimenez and Benjamin Elizalde and Bhiksha Raj
+  title: Sound event classification using ontology-based neural networks
+  type: 1
+  url: https://openreview.net/forum?id=HkGv2NMTjQ
+  venue: Proceedings of the Annual Conference on Neural Information Processing Systems
+  year: 2018
+- authors: Joana Correia12 and Bhiksha Raj and Isabel Trancoso and Francisco Teixeira
+  title: Mining multimodal repositories for speech affecting diseases
+  type: 0
+  url: https://www.researchgate.net/profile/Isabel-Trancoso/publication/327389514_Mining_Multimodal_Repositories_for_Speech_Affecting_Diseases/links/5c21280392851c22a3443458/Mining-Multimodal-Repositories-for-Speech-Affecting-Diseases.pdf
+  venue: Proceedings of the Annual Conference on Neural Information Processing Systems
+  year: 2018
+- authors: Rohan Badlani and Ankit Shah and Benjamin Elizalde and Anurag Kumar and
+    Bhiksha Raj
+  title: Framework For Evaluation Of Sound Event Detection in Web Videos
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8462659/
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing
+  year: 2018
+- authors: Abelino Jimenez and Benjamin Elizalde and Bhiksha Raj
+  title: Acoustic Scene Classification Using Discrete Random Hashing for Laplacian
+    Kernel Machines
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8461631/
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing
+  year: 2018
+- authors: Yang Gao and Bhiksha Raj and Rita Singh
+  title: Voice impersonation using Generative Adversarial Networks
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/8462018/
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing
+  year: 2018
+- authors: Pranay Manocha and Rohan Badlani and Anurag Kumar and Ankit Shah and Benjamin
+    Elizalde and Bhiksha Raj
+  title: Content-based representations of audio using Siamese Neural Networks
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/8461524/
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing
+  year: 2018
+- authors: Yandong Wen and Tianyan Zhou and Rita Singh and Bhiksha Raj
+  title: A corrective learning approach for text-independent speaker verification
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8461340/
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing
+  year: 2018
+- authors: Dan Ellis and Tuomas Virtanen and Mark D Plumbley and Bhiksha Raj
+  title: Future perspective
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-3-319-63450-0_14
+  venue: IEEE International Conference on Acoustics Speech and Signal Processing
+  year: 2018
+- authors: Nia Peters and Griffin Romigh and George Bradley and Bhiksha Raj
+  title: A comparative analysis of human-mediated and system-mediated interruptions
+    for multi-user, multitasking interactions
+  type: 2
+  url: https://link.springer.com/chapter/10.1007/978-3-319-60366-7_32
+  venue: "Advances in Human Factors and Systems Interaction: Proceedings of the AHFE\
+    \ 2017 International Conference on Human Factors and Systems Interaction, July\
+    \ 17\u2212 21, 2017, The Westin Bonaventure Hotel, Los Angeles, California, USA\
+    \ 8"
+  year: 2018
+- authors: Gerald Friedland and Paris Smaragdis and Josh McDermott and Bhiksha Raj
+  title: Audition for multimedia computing
+  type: 0
+  url: https://dl.acm.org/doi/abs/10.1145/3122865.3122868
+  venue: "Advances in Human Factors and Systems Interaction: Proceedings of the AHFE\
+    \ 2017 International Conference on Human Factors and Systems Interaction, July\
+    \ 17\u2212 21, 2017, The Westin Bonaventure Hotel, Los Angeles, California, USA\
+    \ 8"
+  year: 2017
+- authors: "Abelino Jim\xE9nez and Bhiksha Raj"
+  title: "A two factor transformation for speaker verification through \u21131comparison"
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8267661/
+  venue: 2017 IEEE Workshop on Information Forensics and Security (WIFS)
+  year: 2017
+- authors: Annamaria Mesaros and Toni Heittola and Aleksandr Diment and Benjamin Elizalde
+    and Ankit Shah and Emmanuel Vincent and Bhiksha Raj and Tuomas Virtanen
+  title: 'DCASE 2017 challenge setup: Tasks, datasets and baseline system'
+  type: 2
+  url: https://inria.hal.science/hal-01627981/document
+  venue: DCASE 2017-Workshop on Detection and Classification of Acoustic Scenes and
+    Events
+  year: 2017
+- authors: Annamaria Mesaros and Toni Heittola and Aleksandr Diment and Benjamin Elizalde
+    and Ankit Shah and Emmanuel Vincent and Bhiksha Raj and Tuomas Virtanen
+  title: 'DCASE 2017 Challenge Setup: Tasks'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=12992406032755995040&hl=en&oi=scholarr
+  venue: Datasets and Baseline System, DCASE
+  year: 2017
+- authors: Nia Peters and Bhiksha Raj and Griffin Romigh
+  title: Topic and prosodic modeling for interruption management in multi-user multitasking
+    communication interactions
+  type: 2
+  url: https://cdn.aaai.org/ocs/15974/15974-69856-1-PB.pdf
+  venue: 2017 AAAI Fall Symposium Series
+  year: 2017
+- authors: Muhammad Ahmed Shah and Bhiksha Raj and Khaled A Harras
+  title: Inferring room semantics using acoustic monitoring
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8168153/
+  venue: 2017 IEEE 27th International Workshop on Machine Learning for Signal Processing
+    (MLSP)
+  year: 2017
+- authors: Benjamin Elizalde and Ankit Shah and Siddharth Dalmia and Min Hun Lee and
+    Rohan Badlani and Anurag Kumar and Bhiksha Raj and Ian Lane
+  title: An approach for self-training audio event detectors using web data
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/8081532/
+  venue: 2017 25th European Signal Processing Conference (EUSIPCO)
+  year: 2017
+- authors: Janek Ebbers and Jahn Heymann and Lukas Drude and Thomas Glarner and Reinhold
+    Haeb-Umbach and Bhiksha Raj
+  title: Hidden Markov Model Variational Autoencoder for Acoustic Unit Discovery.
+  type: 2
+  url: https://www.isca-archive.org/interspeech_2017/ebbers17_interspeech.pdf
+  venue: InterSpeech
+  year: 2017
+- authors: Anders Oland and Aayush Bansal and Roger B Dannenberg and Bhiksha Raj
+  title: 'Be careful what you backpropagate: A case for linear output activations
+    & gradient boosting'
+  type: 1
+  url: https://arxiv.org/abs/1707.04199
+  venue: arXiv preprint arXiv:1707.04199
+  year: 2017
+- authors: Anurag Kumar and Bhiksha Raj
+  title: Deep CNN framework for audio event recognition using weakly labeled web data
+  type: 1
+  url: https://arxiv.org/abs/1707.02530
+  venue: arXiv preprint arXiv:1707.02530
+  year: 2017
+- authors: Anurag Kumar and Bhiksha Raj
+  title: 'Audio event and scene recognition: A unified approach using strongly and
+    weakly labeled data'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7966293/
+  venue: 2017 International Joint Conference on Neural Networks (IJCNN)
+  year: 2017
+- authors: Keiichi Osako and Yuki Mitsufuji and Rita Singh and Bhiksha Raj
+  title: Supervised monaural source separation based on autoencoders
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7951788/
+  venue: 2017 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2017
+- authors: Anurag Kumar and Bhiksha Raj and Ndapandula Nakashole
+  title: Discovering sound concepts and acoustic relations in text
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7952232/
+  venue: 2017 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2017
+- authors: Abelino Jimenez and Bhiksha Raj
+  title: Privacy preserving distance computation using somewhat-trusted third parties
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7953388/
+  venue: 2017 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2017
+- authors: Haohan Wang and Bhiksha Raj
+  title: On the origin of deep learning
+  type: 0
+  url: https://arxiv.org/abs/1702.07800
+  venue: 2017 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2017
+- authors: "G\xE9rard Chollet and Abelino Jimenez and Dijana Petrovska-Delacr\xE9\
+    taz and Bhiksha Raj"
+  title: Privacy preserving biometric identity verification
+  type: 2
+  url: https://www.researchgate.net/profile/Abelino-Jimenez-2/publication/313926751_Privacy_Preserving_Biometric_Identity_Verification/links/58b00fbeaca2725b5412b530/Privacy-Preserving-Biometric-Identity-Verification.pdf
+  venue: COST IC1206 Training School
+  year: 2017
+- authors: Aditya Sharma and Nikolas Wolfe and Bhiksha Raj
+  title: 'The incredible shrinking neural network: New perspectives on learning representations
+    through the lens of pruning'
+  type: 1
+  url: https://arxiv.org/abs/1701.04465
+  venue: arXiv preprint arXiv:1701.04465
+  year: 2017
+- authors: Guilin Liu and Y Wen and Z Yu and M Li and B Raj and L Song
+  title: 2014 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)(2014)
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=5183096313071434166&hl=en&oi=scholarr
+  venue: arXiv preprint arXiv:1701.04465
+  year: 2017
+- authors: Roger Moore and Serge Thill and Ricard Marxer
+  title: Vocal Interactivity in-and-between Humans, Animals and Robots (VIHAR):(Dagstuhl
+    Seminar 16442)
+  type: 1
+  url: https://www.diva-portal.org/smash/get/diva2:1081131/FULLTEXT01.pdf
+  venue: Dagstuhl Reports
+  year: 2017
+- authors: Haohan Wang and Bhiksha Raj and EP Xing
+  title: On the origin of deep learning (2017)
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=17697637934577469437&hl=en&oi=scholarr
+  venue: arXiv preprint arXiv:1702.07800
+  year: 2017
+- authors: Weiyang Liu and Yandong Wen and Zhiding Yu and Ming Li and Bhiksha Raj
+    and Le Song
+  title: 'SphereFace: deep hypersphere embedding for face recognition. CoRR abs/1704.08063
+    (2017)'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=5731855306704955992&hl=en&oi=scholarr
+  venue: arXiv preprint arXiv:1704.08063
+  year: 2017
+- authors: Weiyang Liu and Yandong Wen and Zhiding Yu and Ming Li and Bhiksha Raj
+    and Le Song
+  title: 'Sphereface: Deep hypersphere embedding for face recognition'
+  type: 1
+  url: http://openaccess.thecvf.com/content_cvpr_2017/html/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.html
+  venue: Proceedings of the IEEE conference on computer vision and pattern recognition
+  year: 2017
+- authors: "Keisuke Kinoshita and Marc Delcroix and Sharon Gannot and Emanu\xEBl AP\
+    \ Habets and Reinhold Haeb-Umbach and Walter Kellermann and Volker Leutnant and\
+    \ Roland Maas and Tomohiro Nakatani and Bhiksha Raj and Armin Sehr and Takuya\
+    \ Yoshioka"
+  title: 'The REVERB challenge: A benchmark task for reverberation-robust ASR techniques'
+  type: 1
+  url: https://link.springer.com/chapter/10.1007/978-3-319-64680-0_15
+  venue: 'New Era for Robust Speech Recognition: Exploiting Deep Learning'
+  year: 2017
+- authors: Nia Peters and Griffin Romigh and George Bradley and Bhiksha Raj
+  title: 'When to interrupt: A comparative analysis of interruption timings within
+    collaborative communication tasks'
+  type: 2
+  url: https://link.springer.com/chapter/10.1007/978-3-319-41956-5_17
+  venue: "Advances in Human Factors and System Interactions: Proceedings of the AHFE\
+    \ 2016 International Conference on Human Factors and System Interactions, July\
+    \ 27-31, 2016, Walt Disney World\xAE, Florida, USA"
+  year: 2017
+- authors: Joana Correia and Isabel Trancoso and Bhiksha Raj
+  title: Adaptation of SVM for MIL for infering the polarity of movies and movie reviews
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7846274/
+  venue: 2016 IEEE Workshop on Spoken Language Technology
+  year: 2016
+- authors: "Keisuke Kinoshita and Marc Delcroix and Sharon Gannot and Emanu\xEBl A\
+    \ P. Habets and Reinhold Haeb-Umbach and Walter Kellermann and Volker Leutnant\
+    \ and Roland Maas and Tomohiro Nakatani and Bhiksha Raj and Armin Sehr and Takuya\
+    \ Yoshioka"
+  title: 'A summary of the REVERB challenge: state-of-the-art and remaining challenges
+    in reverberant speech processing research'
+  type: 1
+  url: https://link.springer.com/article/10.1186/s13634-016-0306-6
+  venue: EURASIP Journal on Advances in Signal Processing
+  year: 2016
+- authors: Nikolas Wolfe and Aditya Sharma and Lukas Drude and Bhiksha Raj
+  title: 'The incredible shrinking neural network: New perspectives on learning representations
+    through the lens of pruning'
+  type: 0
+  url: https://openreview.net/forum?id=BkV4VS9ll
+  venue: EURASIP Journal on Advances in Signal Processing
+  year: 2016
+- authors: Anurag Kumar and Bhiksha Raj
+  title: Audio event detection using weakly labeled data
+  type: 0
+  url: https://dl.acm.org/doi/abs/10.1145/2964284.2964310
+  venue: EURASIP Journal on Advances in Signal Processing
+  year: 2016
+- authors: Lukas Drude and Bhiksha Raj and Reinhold Haeb-Umbach
+  title: On the Appropriateness of Complex-Valued Neural Networks for Speech Enhancement.
+  type: 2
+  url: https://groups.uni-paderborn.de/nt/pubs/2016/interspeech_2016_drude_paper.pdf
+  venue: Interspeech
+  year: 2016
+- authors: Anurag Kumar and Benjamin Elizalde and Ankit Shah and Rohan Badlani and
+    Emmanuel Vincent and Bhiksha Raj and Ian Lane
+  title: DCASE challenge task 1
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=17608642608274953606&hl=en&oi=scholarr
+  venue: Tech. Rep., DCASE2016 Challenge
+  year: 2016
+- authors: Benjamin Elizalde and Anurag Kumar and Ankit Shah and Rohan Badlani and
+    Emmanuel Vincent and Bhiksha Raj and Ian Lane
+  title: 'Experimentation on the dcase challenge 2016: Task 1-acoustic scene classification
+    and task 3-sound event detection in real life audio'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=3537918065176707854&hl=en&oi=scholarr
+  venue: Detection and Classification of Acoustic Scenes and Events
+  year: 2016
+- authors: Benjamin Elizalde and Anurag Kumar and Ankit Shah and Rohan Badlani and
+    Emmanuel Vincent and Bhiksha Raj and Ian Lane
+  title: 'Experiments on the DCASE challenge 2016: Acoustic scene classification and
+    sound event detection in real life recording'
+  type: 1
+  url: https://arxiv.org/abs/1607.06706
+  venue: arXiv preprint arXiv:1607.06706
+  year: 2016
+- authors: Anurag Kumar and Bhiksha Raj
+  title: Features and kernels for audio event recognition
+  type: 1
+  url: https://arxiv.org/abs/1607.05765
+  venue: arXiv preprint arXiv:1607.05765
+  year: 2016
+- authors: Anurag Kumar and Bhiksha Raj
+  title: Weakly supervised scalable audio content analysis
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7552989/
+  venue: 2016 IEEE International Conference on Multimedia and Expo (ICME)
+  year: 2016
+- authors: Sebastian Sager and Damian Borth and Benjamin Elizalde and Christian Schulze
+    and Bhiksha Raj and Ian Lane and Andreas Dengel
+  title: 'Audiosentibank: Large-scale semantic ontology of acoustic concepts for audio
+    content analysis'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=3883623031519554656&hl=en&oi=scholarr
+  venue: arXiv preprint arXiv:1607.03766
+  year: 2016
+- authors: Anurag Kumar and Benjamin Elizalde and Bhiksha Raj
+  title: Audio content based geotagging in multimedia
+  type: 1
+  url: https://arxiv.org/abs/1606.02816
+  venue: arXiv preprint arXiv:1606.02816
+  year: 2016
+- authors: Agha Ali Raza and Rajat Kulshreshtha and Spandana Gella and Sean Blagsvedt
+    and Maya Chandrasekaran and Bhiksha Raj and Roni Rosenfeld
+  title: Viral spread via entertainment and voice-messaging among telephone users
+    in india
+  type: 0
+  url: https://dl.acm.org/doi/abs/10.1145/2909609.2909669
+  venue: arXiv preprint arXiv:1606.02816
+  year: 2016
+- authors: Rita Singh and Bhiksha Raj and Deniz Gencaga
+  title: 'Forensic anthropometry from voice: an articulatory-phonetic approach'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7522354/
+  venue: 2016 39th International Convention on Information and Communication Technology,
+    Electronics and Microelectronics (MIPRO)
+  year: 2016
+- authors: Rita Singh and Joseph Keshet and Deniz Gencaga and Bhiksha Raj
+  title: The relationship of voice onset time and voice offset time to physical age
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7472707/
+  venue: 2016 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2016
+- authors: Rita Singh and Bhiksha Raj and James Baker
+  title: Short-term analysis for estimating physical parameters of speakers
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7449696/
+  venue: 2016 4th International Conference on Biometrics and Forensics (IWBF)
+  year: 2016
+- authors: Rita Singh and Deniz Gencaga and Bhiksha Raj
+  title: Formant manipulations in voice disguise by mimicry
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7449675/
+  venue: 2016 4th International Conference on Biometrics and Forensics (IWBF)
+  year: 2016
+- authors: Rahul Radhakrishnan Iyer and Sanjeel Parekh and Vikas Mohandoss and Anush
+    Ramsurat and Bhiksha Raj and Rita Singh
+  title: Content-based video indexing and retrieval using corr-lda
+  type: 1
+  url: https://arxiv.org/abs/1602.08581
+  venue: arXiv preprint arXiv:1602.08581
+  year: 2016
+- authors: Rahul Radhakrishnan Iyer and Sanjeel Parekh and Vikas Mohandoss and Anush
+    Ramsurat and Bhiksha Raj and Rita Singh
+  title: Content-based Video Indexing and Retrieval Using Corr-LDA
+  type: 1
+  url: https://ui.adsabs.harvard.edu/abs/2016arXiv160208581R/abstract
+  venue: arXiv e-prints
+  year: 2016
+- authors: Suyoun Kim and Bhiksha Raj and Ian Lane
+  title: Environmental noise embeddings for robust speech recognition
+  type: 1
+  url: https://arxiv.org/abs/1601.02553
+  venue: arXiv preprint arXiv:1601.02553
+  year: 2016
+- authors: Sohail Bahmani and Petros T Boufounos and Bhiksha Raj
+  title: Learning model-based sparsity via projected gradient descent
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/7373645/
+  venue: IEEE Transactions on Information Theory
+  year: 2016
+- authors: Kai Hu and Matt Fredrikson
+  title: 'Revisiting Exploding Gradient: A Ghost That Never Leaves'
+  type: 0
+  url: https://openreview.net/forum?id=iBf6UWvKSn
+  venue: IEEE Transactions on Information Theory
+  year: 2016
+- authors: Ankit Shah and Rohan Badlani and Anurag Kumar and Benjamin Elizalde and
+    Bhiksha Raj
+  title: An approach for self-training audio event detectors using web data
+  type: 1
+  url: https://www.researchgate.net/profile/Ankit-Shah-4/publication/320822921_An_Approach_for_Self-Training_Audio_Event_Detectors_Using_Web_Data/links/5845e6e608ae61f75dd7ce45/An-Approach-for-Self-Training-Audio-Event-Detectors-Using-Web-Data.pdf
+  venue: arXiv preprint arXiv:1609.06026
+  year: 2016
+- authors: Zhenzhong Lan and Shoou-I Yu and Dezhong Yao and Ming Lin and Bhiksha Raj
+    and Alexander Hauptmann
+  title: 'The best of both worlds: Combining data-independent and data-driven approaches
+    for action recognition'
+  type: 2
+  url: https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w24/html/Lan_The_Best_of_CVPR_2016_paper.html
+  venue: Proceedings of the IEEE conference on computer vision and pattern recognition
+    workshops
+  year: 2016
+- authors: "Jo\xE3o Miranda and Ram\xF3n F Astudillo and \xC2ngela Costa and Andr\xE9\
+    \ Silva and Hugo Silva and Jo\xE3o Gra\xE7a and Bhiksha Raj"
+  title: Crowdsourced Video Subtitling with Adaptation Based on User-Corrected Lattices
+  type: 2
+  url: https://link.springer.com/chapter/10.1007/978-3-319-49169-1_14
+  venue: 'Advances in Speech and Language Technologies for Iberian Languages: Third
+    International Conference, IberSPEECH 2016, Lisbon, Portugal, November 23-25, 2016,
+    Proceedings 3'
+  year: 2016
+- authors: Joana Correia and Isabel Trancoso and Bhiksha Raj
+  title: Detecting psychological distress in adults through transcriptions of clinical
+    interviews
+  type: 2
+  url: https://link.springer.com/chapter/10.1007/978-3-319-49169-1_16
+  venue: 'Advances in Speech and Language Technologies for Iberian Languages: Third
+    International Conference, IberSPEECH 2016, Lisbon, Portugal, November 23-25, 2016,
+    Proceedings 3'
+  year: 2016
+- authors: "Abelino Jim\xE9nez and Bhiksha Raj and Jose Portelo and Isabel Trancoso"
+  title: Secure modular hashing
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7368567/
+  venue: 2015 IEEE international workshop on information forensics and security (WIFS)
+  year: 2015
+- authors: Zhenzhong Lan and Shoou-I Yu and Ming Lin and Bhiksha Raj and Alexander
+    G Hauptmann
+  title: Handcrafted local features are convolutional neural networks
+  type: 1
+  url: https://arxiv.org/abs/1511.05045
+  venue: arXiv preprint arXiv:1511.05045
+  year: 2015
+- authors: Keiichi Osako and Rita Singh and Bhiksha Raj
+  title: Complex recurrent neural networks for denoising speech signals
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7336896/
+  venue: 2015 IEEE workshop on applications of signal processing to audio and acoustics
+    (WASPAA)
+  year: 2015
+- authors: Haohan Wang and Bhiksha Raj
+  title: 'A survey: Time travel in deep learning space: An introduction to deep learning
+    models and how deep learning models evolved from the initial ideas'
+  type: 1
+  url: https://arxiv.org/abs/1510.04781
+  venue: arXiv preprint arXiv:1510.04781
+  year: 2015
+- authors: "Afsaneh Asaei and Mohammad Javad Taghizadeh and Saeid Haghighatshoar and\
+    \ Bhiksha Raj and Herv\xE9 Bourlard and Volkan Cevher"
+  title: Binary sparse coding of convolutive mixtures for sound localization and separation
+    via spatialization
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/7294674/
+  venue: IEEE Transactions on Signal Processing
+  year: 2015
+- authors: Wenbo Liu and Xhiding Yu and Bhiksha Raj and Li Yi and Xiaobing Zou and
+    Ming Li
+  title: 'Efficient autism spectrum disorder prediction with eye movement: A machine
+    learning framework'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7344638/
+  venue: 2015 International conference on affective computing and intelligent interaction
+    (ACII)
+  year: 2015
+- authors: Nikolas Wolfe and Juneki Hong and Agha Ali Raza and Bhiksha Raj and Roni
+    Rosenfeld
+  title: 'Rapid development of public health education systems in low-literacy multilingual
+    environments: combating ebola through voice messaging.'
+  type: 2
+  url: https://www.researchgate.net/profile/Anton-Batliner/publication/335110484_Speech_and_Language_Technology_in_Education_SLaTE_2015_Proceedings_of_the_6th_International_ISCA_Workshop/links/60b4a8c645851557baaf73a9/Speech-and-Language-Technology-in-Education-SLaTE-2015-Proceedings-of-the-6th-International-ISCA-Workshop.pdf#page=143
+  venue: SLaTE
+  year: 2015
+- authors: "Lu\xEDs Marujo and Jos\xE9 Port\xEAlo and Wang Ling and David Martins\
+    \ de Matos and Jo\xE3o P Neto and Anatole Gershman and Jaime Carbonell and Isabel\
+    \ Trancoso and Bhiksha Raj"
+  title: Privacy-preserving multi-document summarization
+  type: 1
+  url: https://arxiv.org/abs/1508.01420
+  venue: arXiv preprint arXiv:1508.01420
+  year: 2015
+- authors: Muhammad Haris Usmani
+  title: Improving headphone spatialization for stereo music
+  type: 0
+  url: https://www.researchgate.net/profile/Muhammad-Haris-Usmani/publication/313704726_Improving_headphone_spatialization_for_stereo_music_Master%27s_Thesis/data/58a37111458515d15fda6c4b/usmaniThesis-Complete.pdf
+  venue: arXiv preprint arXiv:1508.01420
+  year: 2015
+- authors: Anurag Kumar and Bhiksha Raj
+  title: A novel ranking method for multiple classifier systems
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7178307/
+  venue: 2015 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2015
+- authors: "Jos\xE9 Port\xEAlo and Alberto Abad and Bhiksha Raj and Isabel Trancoso"
+  title: Privacy-preserving query-by-example speech search
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7178280/
+  venue: 2015 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2015
+- authors: "Anders \xD8land and Bhiksha Raj"
+  title: Reducing communication overhead in distributed learning by an order of magnitude
+    (almost)
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7178365/
+  venue: 2015 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2015
+- authors: "Jos\xE9 Port\xEAlo and Bhiksha Raj and Isabel Trancoso"
+  title: Logsum using garbled circuits
+  type: 1
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122236
+  venue: Plos one
+  year: 2015
+- authors: Tuomas Virtanen and Jort Florent Gemmeke and Bhiksha Raj and Paris Smaragdis
+  title: 'Compositional models for audio processing: Uncovering the structure of sound
+    mixtures'
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/7038275/
+  venue: IEEE Signal Processing Magazine
+  year: 2015
+- authors: Anurag Kumar and Bhiksha Raj
+  title: Unsupervised fusion weight learning in multiple classifier systems
+  type: 1
+  url: https://arxiv.org/abs/1502.01823
+  venue: arXiv preprint arXiv:1502.01823
+  year: 2015
+- authors: Zhenzhong Lan and Ming Lin and Xuanchong Li and Alexander G Hauptmann and
+    Bhiksha Raj
+  title: 'Gaussian Pyramid: Multi-skip Feature Stacking for Action Recognition'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=3340713523689851119&hl=en&oi=scholarr
+  venue: Proceedings of the IEEE Computer Society Conference on Computer Vision and
+    Pattern Recognition
+  year: 2015
+- authors: Shoou-I Yu and Lu Jiang and Zhongwen Xu and Zhenzhong Lan and Shicheng
+    Xu and Xiaojun Chang and Xuanchong Li and Zexi Mao and Chuang Gan and Yajie Miao
+    and Xingzhong Du and Yang Cai and Lara Martin and Nikolas Wolfe and Anurag Kumar
+    and Huan Li and Ming Lin and Zhigang Ma and Yi Yang and Deyu Meng and Shiguang
+    Shan and Pinar Duygulu Sahin and Susanne Burger and Florian Metze and Rita Singh
+    and Bhiksha Raj and Teruko Mitamura and Richard Stern and Alexander Hauptmann
+  title: CMU informedia@ TrecVID 2015 MED/SIN/LNK/SED
+  type: 2
+  url: https://research.monash.edu/en/publications/cmu-informediatrecvid-2015-medsinlnksed
+  venue: TREC Video Retrieval Evaluation 2015
+  year: 2015
+- authors: Wenbo Liu and Zhiding Yu and Bhiksha Raj and Ming Li
+  title: Locality constrained transitive distance clustering on speech data.
+  type: 2
+  url: https://www.isca-archive.org/interspeech_2015/liu15e_interspeech.pdf
+  venue: INTERSPEECH
+  year: 2015
+- authors: Zhengzhong Lan and Ming Lin and Xuanchong Li and Alex G Hauptmann and Bhiksha
+    Raj
+  title: 'Beyond gaussian pyramid: Multi-skip feature stacking for action recognition'
+  type: 2
+  url: https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Lan_Beyond_Gaussian_Pyramid_2015_CVPR_paper.html
+  venue: Proceedings of the IEEE conference on computer vision and pattern recognition
+  year: 2015
+- authors: I Liu and Bhiksha Ramakrishnan
+  title: 'Bach in 2014: Music composition with recurrent neural network'
+  type: 1
+  url: https://arxiv.org/abs/1412.3191
+  venue: arXiv preprint arXiv:1412.3191
+  year: 2014
+- authors: "Jos\xE9 Port\xEAlo and Bhiksha Raj and Alberto Abad and Isabel Trancoso"
+  title: Privacy-preserving speaker verification using garbled GMMs
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6952754/
+  venue: 2014 22nd European Signal Processing Conference (EUSIPCO)
+  year: 2014
+- authors: Anurag Kumar and Rita Singh and Bhiksha Raj
+  title: Detecting sound objects in audio recordings
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6952300/
+  venue: 2014 22nd European Signal Processing Conference (EUSIPCO)
+  year: 2014
+- authors: "Lu\xEDs Marujo and Jos\xE9 Port\xEAlo and David Martins de Matos and Jo\xE3\
+    o P Neto and Anatole Gershman and Jaime Carbonell and Isabel Trancoso and Bhiksha\
+    \ Raj"
+  title: Privacy-preserving important passage retrieval
+  type: 1
+  url: https://arxiv.org/abs/1407.5416
+  venue: arXiv preprint arXiv:1407.5416
+  year: 2014
+- authors: "Jos\xE9 Port\xEAlo and Bhiksha Raj and Alberto Abad and Isabel Trancoso"
+  title: Privacy-preserving speaker verification using secure binary embeddings
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6859762/
+  venue: 2014 37th International convention on information and communication technology,
+    electronics and microelectronics (MIPRO)
+  year: 2014
+- authors: Tuomas Virtanen and Bhiksha Raj and Jort F Gemmeke
+  title: Active-set newton algorithm for non-negative sparse coding of audio
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6854169/
+  venue: 2014 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2014
+- authors: Jahn Heymann and Oliver Walter and Reinhold Haeb-Umbach and Bhiksha Raj
+  title: Iterative Bayesian word segmentation for unsupervised vocabulary discovery
+    from phoneme lattices
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6854364/
+  venue: 2014 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2014
+- authors: "Tuomas Virtanen and Jon Barker and Shrikanth Narayanan and Alexandros\
+    \ Potamianos and Bhiksha Raj and Ga\xEBl Richard and Rita Singh and Paris Smaragdis\
+    \ and Stefano Squartini and Shiva Sundaram"
+  title: 4.4 Unsupervised Learning for Audio
+  type: 1
+  url: https://scholar.archive.org/work/l445h675jffy3n27ygw5n4qbxu/access/wayback/http://drops.dagstuhl.de/opus/volltexte/2014/4512/pdf/dagrep-v003-i011-complete.pdf#page=16
+  venue: Computational Audio Analysis
+  year: 2014
+- authors: Shoou-I Yu and Lu Jiang and Zhongwen Xu and Zhenzhong Lan and Shicheng
+    Xu and Xiaojun Chang and Xuanchong Li and Zexi Mao and Chuang Gan and Yajie Miao
+    and Xingzhong Du and Yang Cai and Lara Martin and Nikolas Wolfe and Anurag Kumar
+    and Huan Li and Ming Lin and Zhigang Ma and Yi Yang and Deyu Meng and Shiguang
+    Shan and Pinar Duygulu Sahin and Susanne Burger and Florian Metze and Rita Singh
+    and Bhiksha Raj and Teruko Mitamura and Richard A Stern and Alexander G Hauptmann
+  title: 'Informedia@ TrecVID 2014: MED and MER'
+  type: 2
+  url: https://research.monash.edu/en/publications/informediatrecvid-2014-med-and-mer
+  venue: TREC Video Retrieval Evaluation 2014
+  year: 2014
+- authors: Puneet Singh and Vasu Sharma and Rajat Kulshreshtha and Nishant Agrawal
+    and Akshay Kumar and Bhiksha Raj and Rita Singh
+  title: Identification of Safest Path using Crime Records
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=11092041614559136189&hl=en&oi=scholarr
+  venue: TREC Video Retrieval Evaluation 2014
+  year: 2014
+- authors: Amir R Moghimi and Bhiksha Raj and Richard M Stern
+  title: 'Post-masking: a hybrid approach to array processing for speech recognition.'
+  type: 2
+  url: http://www.cs.cmu.edu/~robust/Papers/MoghimiEtAlIs14.pdf
+  venue: INTERSPEECH
+  year: 2014
+- authors: Oliver Walter and Timo Korthals and Reinhold Haeb-Umbach and Bhiksha Raj
+  title: A hierarchical system for word discovery exploiting DTW-based initialization
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6707761/
+  venue: 2013 IEEE Workshop on Automatic Speech Recognition and Understanding
+  year: 2013
+- authors: Jahn Heymann and Oliver Walter and Reinhold Haeb-Umbach and Bhiksha Raj
+  title: Unsupervised word segmentation from noisy input
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6707773/
+  venue: 2013 IEEE workshop on automatic speech recognition and understanding
+  year: 2013
+- authors: Pranay Dighe and Harish Karnick and Bhiksha Raj
+  title: Swara Histogram Based Structural Analysis And Identification Of Indian Classical
+    Ragas.
+  type: 2
+  url: https://ismir2013.ismir.net/wp-content/uploads/2013/09/43_Paper.pdf
+  venue: ISMIR
+  year: 2013
+- authors: Zhen-Zhong Lan and Lu Jiang and Shoou-I Yu and Shourabh Rawat and Yang
+    Cai and Chenqiang Gao and Shicheng Xu and Haoquan Shen and Xuanchong Li and Yipei
+    Wang and Waito Sze and Yan Yan and Zhigang Ma and Wei Tong and Yi Yang and Susanne
+    Burger and Florian Metze and Rita Singh and Bhiksha Raj and Richard Stern and
+    Teruko Mitamura and Eric Nyberg and Alexander Hauptmann
+  title: Cmu-informedia at trecvid 2013 multimedia event detection
+  type: 1
+  url: https://www-nlpir.nist.gov/projects/tvpubs/tv13.slides/cmu.tv13.med.slides.pdf
+  venue: TRECVID 2013 Workshop
+  year: 2013
+- authors: Bhiksha Raj
+  title: Hidden Markov Models
+  type: 0
+  url: http://www.cs.cmu.edu/~bhiksha/courses/mlsp.fall2013/lectures/slides/class16.HMMs.pdf
+  venue: TRECVID 2013 Workshop
+  year: 2013
+- authors: Keisuke Kinoshita and Marc Delcroix and Takuya Yoshioka and Tomohiro Nakatani
+    and Emanuel Habets and Reinhold Haeb-Umbach and Volker Leutnant and Armin Sehr
+    and Walter Kellermann and Roland Maas and Sharon Gannot and Bhiksha Raj
+  title: 'The REVERB challenge: A common evaluation framework for dereverberation
+    and recognition of reverberant speech'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6701894/
+  venue: 2013 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics
+  year: 2013
+- authors: Anurag Kumar and Rajesh M Hegde and Rita Singh and Bhiksha Raj
+  title: Event detection in short duration audio using gaussian mixture model and
+    random forest classifier
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6811668/
+  venue: 21st European Signal Processing Conference (EUSIPCO 2013)
+  year: 2013
+- authors: "Jos\xE9 Port\xEAlo and Bhiksha Raj and Petros Boufounos and Isabel Trancoso\
+    \ and Alberto Abad"
+  title: Speaker verification using secure binary embeddings
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6811506/
+  venue: 21st European Signal Processing Conference (EUSIPCO 2013)
+  year: 2013
+- authors: "Jos\xE9 Portelo and Alberto Abad and Bhiksha Raj and Isabel Trancoso"
+  title: Secure binary embeddings of front-end factor analysis for privacy preserving
+    speaker verification.
+  type: 2
+  url: https://www.isca-archive.org/interspeech_2013/portelo13_interspeech.pdf
+  venue: INTERSPEECH
+  year: 2013
+- authors: Shubhranshu Barnwal and Rohit Barnwal and Rajesh Hegde and Rita Singh and
+    Bhiksha Raj
+  title: Doppler based speed estimation of vehicles using passive sensor
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6618278/
+  venue: 2013 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)
+  year: 2013
+- authors: Pranay Dighe and Parul Agrawal and Harish Karnick and Siddartha Thota and
+    Bhiksha Raj
+  title: Scale independent raga identification using chromagram patterns and swara
+    based features
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6618238/
+  venue: 2013 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)
+  year: 2013
+- authors: "Gahgene Gweon and Mahaveer Jain and John McDonough and Bhiksha Raj and\
+    \ Carolyn P Ros\xE9"
+  title: Measuring prevalence of other-oriented transactive contributions using an
+    automated measure of speech style accommodation
+  type: 1
+  url: https://link.springer.com/article/10.1007/s11412-013-9172-5
+  venue: International Journal of Computer-Supported Collaborative Learning
+  year: 2013
+- authors: Kenichi Kumatani and Rita Singh and Friedrich Faubel and John McDonough
+    and Youssef Oualil
+  title: Joint constrained maximum likelihood regression for overlapping speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6637621/
+  venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2013
+- authors: Leibny Paola Garcia Perera and Bhiksha Raj and Juan Arturo Nolazco Flores
+  title: Optimization of the DET curve in speaker verification under noisy conditions
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6639175/
+  venue: Acoustics, Speech and Signal Processing (ICASSP), 2013 IEEE International
+    Conference on
+  year: 2013
+- authors: Sourish Chaudhuri and Bhiksha Raj
+  title: Unsupervised hierarchical structure induction for deeper semantic analysis
+    of audio
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6637765/
+  venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2013
+- authors: John McDonough and Kenichi Kumatani and Takayuki Arakawa and Kazumasa Yamamoto
+    and Bhiksha Raj
+  title: Speaker tracking with spherical microphone arrays
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6638406/
+  venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2013
+- authors: Tuomas Virtanen and Jort Florent Gemmeke and Bhiksha Raj
+  title: Active-set Newton algorithm for overcomplete non-negative representations
+    of audio
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/6516060/
+  venue: IEEE Transactions on Audio, Speech, and Language Processing
+  year: 2013
+- authors: Sohail Bahmani and Bhiksha Raj
+  title: "A unifying analysis of projected gradient descent for \u2113p-constrained\
+    \ least squares"
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S106352031200108X
+  venue: Applied and Computational Harmonic Analysis
+  year: 2013
+- authors: Shantanu Rane and Wei Sun and Manas A Pathak and Bhiksha Raj
+  title: Privacy-preserving probabilistic inference based on hidden Markov models
+  type: 0
+  url: https://patents.google.com/patent/US8433892B2/en
+  venue: Applied and Computational Harmonic Analysis
+  year: 2013
+- authors: Sohail Bahmani and Petros T Boufounos and Bhiksha Raj
+  title: Robust 1-bit compressive sensing via gradient support pursuit
+  type: 1
+  url: https://arxiv.org/abs/1304.6627
+  venue: arXiv preprint arXiv:1304.6627
+  year: 2013
+- authors: Sohail Bahmani and Bhiksha Raj and Petros T Boufounos
+  title: Greedy sparsity-constrained optimization
+  type: 1
+  url: https://www.jmlr.org/papers/volume14/bahmani13a/bahmani13a.pdf
+  venue: The Journal of Machine Learning Research
+  year: 2013
+- authors: Manas A Pathak and Bhiksha Raj and Shantanu D Rane and Paris Smaragdis
+  title: 'Privacy-preserving speech processing: cryptographic and string-matching
+    frameworks show promise'
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/6461630/
+  venue: IEEE signal processing magazine
+  year: 2013
+- authors: Leibny Paola Garcia Perera and Bhiksha Raj and Juan Arturo Nolazco Flores
+  title: Ensemble approach in speaker verification
+  type: 1
+  url: https://www.isca-archive.org/interspeech_2013/perera13_interspeech.pdf
+  venue: Proc. Interspeech 2013
+  year: 2013
+- authors: Bhiksha Ramakrishnan Shantanu Rane and Manas A. Pathak
+  title: Differentially private aggregate classifier for multiple databases
+  type: 0
+  url: https://patents.google.com/patent/US8375030B2/en
+  venue: Proc. Interspeech 2013
+  year: 2013
+- authors: Sourish Chaudhuri and Rita Singh and Bhiksha Raj
+  title: Block-sparse basis sets for improved audio content estimation
+  type: 2
+  url: http://mlsp.cs.cmu.edu/people/rsingh/docs/ICASSP2013_blocksparse.pdf
+  venue: ICASSP
+  year: 2013
+- authors: Zhen-Zhong Lan and Lu Jiang and Shoou-I Yu and Chenqiang Gao and Shourabh
+    Rawat and Yang Cai and Shicheng Xu and Haoquan Shen and Xuanchong Li and Yipei
+    Wang and Waito Sze and Yan Yan and Zhigang Ma and Nicolas Ballas and Deyu Meng
+    and Wei Tong and Yi Yang and Susanne Burger and Florian Metze and Rita Singh and
+    Bhiksha Raj and Roxana Sarbu and Teruko Mitamura and Eric Nyberg
+  title: 'Informedia E-Lamp@ TRECVID 2013: Multimedia Event Detection and Recounting
+    (MED and MER)'
+  type: 0
+  url: https://kilthub.cmu.edu/articles/Informedia_E-Lamp_TRECVID_2013_Multimedia_Event_Detection_and_Recounting_MED_and_MER_/6473447/files/11903051.pdf
+  venue: ICASSP
+  year: 2013
+- authors: Parul Agarwal and Harish Karnick and Bhiksha Raj
+  title: A Comparative Study Of Indian And Western Music Forms.
+  type: 2
+  url: https://archives.ismir.net/ismir2013/paper/000027.pdf
+  venue: ISMIR
+  year: 2013
+- authors: Benjamin Lambert and Bhiksha Raj and Rita Singh
+  title: Discriminatively trained dependency language modeling for conversational
+    speech recognition.
+  type: 2
+  url: https://www.isca-archive.org/interspeech_2013/lambert13_interspeech.pdf
+  venue: INTERSPEECH
+  year: 2013
+- authors: "Afsaneh Asaei and Bhiksha Raj and Herv\xE9 Bourlard and Volkan Cevher"
+  title: A multipath sparse beamforming method
+  type: 1
+  url: http://publications.idiap.ch/downloads/papers/2015/Asaei_SPARS_2013.pdf
+  venue: Signal Processing with Adaptive Sparse Structured Representations (SPARS)
+  year: 2013
+- authors: Oliver Walter and Reinhold Haeb-Umbach and Sourish Chaudhuri and Bhiksha
+    Raj
+  title: Unsupervised word discovery from phonetic input using nested pitman-yor language
+    modeling
+  type: 1
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ec950ad9d16b09f160f069cc3b102843e37a0bf3
+  venue: ICRA Workshop on Autonomous Learning
+  year: 2013
+- authors: John McDonough and Kenichi Kumatani and Bhiksha Raj
+  title: 'Microphone array processing for distant speech recognition: Spherical arrays'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6411954/
+  venue: Proceedings of The 2012 Asia Pacific Signal and Information Processing Association
+    Annual Summit and Conference
+  year: 2012
+- authors: Kenichi Kumatani and Takayuki Arakawa and Kazumasa Yamamoto and John McDonough
+    and Bhiksha Raj and Rita Singh and Ivan Tashev
+  title: 'Microphone array processing for distant speech recognition: Towards real-world
+    deployment'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6411948/
+  venue: Proceedings of The 2012 Asia Pacific Signal and Information Processing Association
+    Annual Summit and Conference
+  year: 2012
+- authors: L Paola Garcia-Perera and Juan A Nolazco-Flores and Bhiksha Raj and Richard
+    Stern
+  title: Optimization of the DET curve in speaker verification
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6424243/
+  venue: 2012 IEEE Spoken Language Technology Workshop (SLT)
+  year: 2012
+- authors: Tuomas Virtanen and Rita Singh and Bhiksha Raj
+  title: Techniques for noise robustness in automatic speech recognition
+  type: 0
+  url: https://books.google.com/books?hl=en&lr=&id=EjMxpiT38owC&oi=fnd&pg=PT14&dq=info:G_gRxIR0a_sJ:scholar.google.com&ots=icgYv6eIiZ&sig=YR1efm8czbsxiT9rN3BpGN4DFTo
+  venue: 2012 IEEE Spoken Language Technology Workshop (SLT)
+  year: 2012
+- authors: Richard M Stern and Nelson Morgan
+  title: Features based on auditory physiology and perception
+  type: 1
+  url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118392683#page=202
+  venue: Techniques for Noise Robustness in Automatic Speech Recognition
+  year: 2012
+- authors: Bhiksha Raj and Tuomas Virtanen and Rita Singh
+  title: The problem of robustness in automatic speech recognition
+  type: 1
+  url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118392683#page=44
+  venue: Techniques for Noise Robustness in Automatic Speech Recognition
+  year: 2012
+- authors: Jort Florent Gemmeke and Ulpu Remes
+  title: "Missing\u2010Data Techniques: Feature Reconstruction"
+  type: 1
+  url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118392683#page=403
+  venue: Techniques for Noise Robustness in Automatic Speech Recognition
+  year: 2012
+- authors: Michael L Seltzer
+  title: Acoustic model training for robust speech recognition
+  type: 1
+  url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118392683#page=352
+  venue: Techniques for Noise Robustness in Automatic Speech Recognition
+  year: 2012
+- authors: Hank Liao and Tuomas Virtanen and Bhiksha Raj and Rita Singh
+  title: Uncertainty Decoding.
+  type: 0
+  url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118392683#page=467
+  venue: Techniques for Noise Robustness in Automatic Speech Recognition
+  year: 2012
+- authors: Kumatani Kenichi and McDonough John and Raj Bhiksha
+  title: Microphone array processing for distant speech recognition
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=4216664173429819323&hl=en&oi=scholarr
+  venue: IEEE Signal Process. Mag
+  year: 2012
+- authors: Shoou-I Yu and Zhongwen Xu and Duo Ding and Waito Sze and Francisco Vicente
+    and Zhenzhong Lan and Yang Cai and Shourabh Rawat and Peter F Schulam and Sohail
+    Bahmani and Antonio Juarez and Wei Tong and Yi Yang and Susanne Burger and Florian
+    Metze and Rita Singh and Bhiksha Raj and Roxana Sarbu and Teruko Mitamura and
+    Eric Nyberg and Alexander Hauptmann
+  title: 'Informedia e-lamp@ trecvid 2012: multimedia event detection and recounting
+    (med and mer)'
+  type: 0
+  url: https://kilthub.cmu.edu/articles/Informedia_E-Lamp_TRECVID_2012_Multimedia_Event_Detection_and_Recounting_MED_and_MER_/6473450/files/11903054.pdf
+  venue: IEEE Signal Process. Mag
+  year: 2012
+- authors: Kenichi Kumatani and John McDonough and Bhiksha Raj
+  title: 'Microphone array processing for distant speech recognition: From close-talking
+    microphones to far-field sensors'
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/6296525/
+  venue: IEEE Signal Processing Magazine
+  year: 2012
+- authors: Bhiksha Raj Ramakrishnan and Kaustubh Kalgaonkar
+  title: Ultrasonic doppler sensor for speaker recognition
+  type: 0
+  url: https://patents.google.com/patent/US8275622B2/en
+  venue: IEEE Signal Processing Magazine
+  year: 2012
+- authors: Sourish Chaudhuri and Rita Singh and Bhiksha Raj
+  title: Exploiting Temporal Sequence Structure for Semantic Analysis of Multimedia.
+  type: 2
+  url: https://www.isca-archive.org/interspeech_2012/chaudhuri12_interspeech.pdf
+  venue: INTERSPEECH
+  year: 2012
+- authors: Soham De and Indradyumna Roy and Tarunima Prabhakar and Kriti Suneja and
+    Sourish Chaudhuri and Rita Singh and Bhiksha Raj
+  title: Plagiarism Detection in Polyphonic Music using Monaural Signal Separation.
+  type: 2
+  url: https://www.isca-archive.org/interspeech_2012/de12_interspeech.pdf
+  venue: INTERSPEECH
+  year: 2012
+- authors: Kenichi Kumatani and Bhiksha Raj and Rita Singh and John McDonough
+  title: Microphone array post-filter based on spatially-correlated noise measurements
+    for distant speech recognition
+  type: 1
+  url: https://www.isca-archive.org/interspeech_2012/kumatani12_interspeech.pdf
+  venue: Proc. Interspeech, Portland, OR
+  year: 2012
+- authors: Manas A Pathak and Bhiksha Raj
+  title: Privacy-preserving speaker verification and identification using gaussian
+    mixture models
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/6289356/
+  venue: IEEE Transactions on Audio, Speech, and Language Processing
+  year: 2012
+- authors: "Bhisksha Raj Ramakrishnan and Evandro Bacci Gouv\xEAa"
+  title: Method for determining distributions of unobserved classes of a classifier
+  type: 0
+  url: https://patents.google.com/patent/US8219510B2/en
+  venue: IEEE Transactions on Audio, Speech, and Language Processing
+  year: 2012
+- authors: Manas A Pathak and Bhiksha Raj
+  title: Large margin Gaussian mixture models with differential privacy
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/6198848/
+  venue: IEEE Transactions on dependable and secure computing
+  year: 2012
+- authors: Mahaveer Jain and John McDonough and Gahgene Gweon and Bhiksha Raj and
+    Carolyn Rose
+  title: An unsupervised dynamic bayesian network approach to measuring speech style
+    accommodation
+  type: 2
+  url: https://aclanthology.org/E12-1080.pdf
+  venue: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  year: 2012
+- authors: Shubhranshu Barnwal and Kamal Sahni and Rita Singh and Bhiksha Raj
+  title: Spectrographic seam patterns for discriminative word spotting
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6288974/
+  venue: 2012 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2012
+- authors: Anurag Kumar and Pranay Dighe and Rita Singh and Sourish Chaudhuri and
+    Bhiksha Raj
+  title: Audio event detection from acoustic unit occurrence patterns
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6287923/
+  venue: 2012 IEEE international conference on acoustics, speech and signal processing
+    (ICASSP)
+  year: 2012
+- authors: "Jos\xE9 Port\xEAlo and Bhiksha Raj and Isabel Trancoso"
+  title: Attacking a privacy preserving music matching algorithm
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6288255/
+  venue: 2012 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2012
+- authors: Manas A Pathak and Bhiksha Raj
+  title: Privacy-preserving speaker verification as password matching
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6288262/
+  venue: 2012 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2012
+- authors: Paris Smaragdis and Bhiksha Raj
+  title: The Markov selection model for concurrent speech recognition
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0925231211005972
+  venue: Neurocomputing
+  year: 2012
+- authors: Bhiksha Raj and Kaustubh Kalgaonkar and Chris Harrison and Paul Dietz
+  title: Ultrasonic doppler sensing in hci
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/6133264/
+  venue: IEEE Pervasive Computing
+  year: 2012
+- authors: "Shoou-I Yu and Zhongwen Xu and Duo Ding and Waito Sze and Francisco Vicente\
+    \ and Zhenzhong Lan and Yang Cai and Shourabh Rawat and Peter F Schulam and Nisarga\
+    \ Markandaiah and Sohail Bahmani and Antonio Ju\xE1rez and Wei Tong and Yi Yang\
+    \ and Susanne Burger and Florian Metze and Rita Singh and Bhiksha Raj and Richard\
+    \ M Stern and Teruko Mitamura and Eric Nyberg and Lu Jiang and Qiang Chen and\
+    \ Lisa M Brown and Ankur Datta and Quanfu Fan and Rog\xE9rio Schmidt Feris and\
+    \ Shuicheng Yan and Alexander G Hauptmann and Sharath Pankanti"
+  title: Informedia@ TRECVID 2012.
+  type: 2
+  url: https://scholar.google.com/scholar?cluster=201962778084798582&hl=en&oi=scholarr
+  venue: TRECVID
+  year: 2012
+- authors: Tuomas Virtanen and Rita Singh and Bhiksha Raj
+  title: Foundations 2. The Basics of Automatic Speech Recognition
+  type: 0
+  url: https://researchportal.tuni.fi/en/publications/foundations-2-the-basics-of-automatic-speech-recognition
+  venue: TRECVID
+  year: 2012
+- authors: T Virtanen and R Singh and B Raj
+  title: Microphone Arrays
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=2255821957197541171&hl=en&oi=scholarr
+  venue: TRECVID
+  year: 2012
+- authors: "Bret A. Harsham Bhiksha Ramakrishnan and Evandro B. Gouv\xEAa and Bent\
+    \ Schmidt-Nielsen and Garrett Weinberg"
+  title: Method for indexing for retrieving documents using particles
+  type: 0
+  url: https://patents.google.com/patent/US8229921B2/en
+  venue: TRECVID
+  year: 2012
+- authors: Benjamin Elizalde and Bhiksha Raj and Gerald Friedland and Juan Nolazco
+    and Leibny Garcia
+  title: Segment and conquer
+  type: 1
+  url: https://www.icsi.berkeley.edu/pubs/multimedia/segmentconquer12.pdf
+  venue: 2nd Multimedia and Vision Meeting in Greater New York Area
+  year: 2012
+- authors: Victor Finomore Jr and John Stewart and Rita Singh and Bhiksha Raj and
+    Ron Dallman
+  title: Demonstration of advanced multi-modal, network-centric communication management
+    suite
+  type: 2
+  url: https://www.isca-archive.org/interspeech_2012/finomorejr12_interspeech.pdf
+  venue: Thirteenth Annual Conference of the International Speech Communication Association
+  year: 2012
+- authors: Gang Chen and Kenichi Kumatani and John McDonough and Bhiksha Raj
+  title: Distant Multi-Speaker Voice Activity Detection Using Relative Energy Ratio
+  type: 1
+  url: http://mlsp.cs.cmu.edu/publications/pdfs/Chen_ICASSP2012.pdf
+  venue: International Conference on Acoustics, Speech and Signal Processing
+  year: 2012
+- authors: Sourish Chaudhuri and Bhiksha Raj
+  title: Unsupervised structure discovery for semantic analysis of audio
+  type: 1
+  url: https://proceedings.neurips.cc/paper/2012/hash/c6e19e830859f2cb9f7c8f8cacb8d2a6-Abstract.html
+  venue: Advances in Neural Information Processing Systems
+  year: 2012
+- authors: Kamal Sahni and Pranay Dighe and Rita Singh and Bhiksha Raj
+  title: Language identification using spectro-temporal patch features
+  type: 2
+  url: https://www.isca-archive.org/sapa_2012/sahni12_sapa.pdf
+  venue: SAPA-SCALE Conference
+  year: 2012
+- authors: Manas Pathak and Jose Portelo and Bhiksha Raj and Isabel Trancoso
+  title: Privacy-preserving speaker authentication
+  type: 2
+  url: https://link.springer.com/chapter/10.1007/978-3-642-33383-5_1
+  venue: 'Information Security: 15th International Conference, ISC 2012, Passau, Germany,
+    September 19-21, 2012. Proceedings 15'
+  year: 2012
+- authors: "Afsaneh Asaei and Bhiksha Raj and Herv\xE9 Bourlard and Volkan Cevher"
+  title: Structured Sparse Coding for Microphone Array Location Calibration
+  type: 1
+  url: https://infoscience.epfl.ch/record/181482
+  venue: The 5th ISCA workshop on statistical and perceptual audition (SAPA2012)
+  year: 2012
+- authors: Gahgene Gweon and Mahaveer Jain and John McDonough and Bhiksha Raj and
+    Carolyn Rose
+  title: Predicting idea co-construction in speech data using insights from sociolinguistics
+  type: 0
+  url: https://repository.isls.org/handle/1/2237
+  venue: The 5th ISCA workshop on statistical and perceptual audition (SAPA2012)
+  year: 2012
+- authors: Birger Kollmeier and Jan Rennies and Anna Warzybok and Thomas Brand
+  title: Modelling the combined effect of binaural hearing and reverberation
+  type: 1
+  url: http://proceedings.isaar.eu/index.php/isaarproc/article/view/2011-34
+  venue: Proceedings of the International Symposium on Auditory and Audiological Research
+  year: 2011
+- authors: Kenichi Kumatani and John McDonough and Bhiksha Raj
+  title: Maximum kurtosis beamforming with a subspace filter for distant speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6163927/
+  venue: 2011 IEEE Workshop on Automatic Speech Recognition & Understanding
+  year: 2011
+- authors: Bhiksha Raj and Paris Smaragdis and Malcolm Slaney and Chung-Hsien Wu and
+    Liming Chen and Hyoung-Gook Kim
+  title: Scalable audio-content analysis
+  type: 0
+  url: https://link.springer.com/article/10.1155/2010/467278
+  venue: 2011 IEEE Workshop on Automatic Speech Recognition & Understanding
+  year: 2011
+- authors: Willie Walker and Paul Lamere and Philip Kwok and Bhiksha Raj and Rita
+    Singh and Evandro Gouvea and Peter Wolf and Joe Woelfel
+  title: 'Sphinx-4: A flexible open source framework for speech recognition (2004)'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=4446852029302555468&hl=en&oi=scholarr
+  venue: "Relat\xF3rio T\xE9cnico. Dispon\xEDvel em:< http://cmusphinx. sourceforge.\
+    \ net>. Acesso em"
+  year: 2011
+- authors: Manas A Pathak and Bhiksha Raj
+  title: Efficient Protocols for Principal Eigenvector Computation over Private Data.
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/manasp/docs/ppsvd-tdp.pdf
+  venue: Trans. Data Priv.
+  year: 2011
+- authors: Paris Smaragdis and Bhiksha Raj and Madhusudana Shashanka
+  title: Missing data imputation for time-frequency representations of audio signals
+  type: 1
+  url: https://link.springer.com/article/10.1007/s11265-010-0512-7
+  venue: Journal of signal processing systems
+  year: 2011
+- authors: John McDonough and Wei Chu and Kenichi Kumatani and Bhiksha Raj and Jill
+    Fain Lehman
+  title: An information filter for voice prompt suppression
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6190011/
+  venue: 2011 Conference Record of the Forty Fifth Asilomar Conference on Signals,
+    Systems and Computers (ASILOMAR)
+  year: 2011
+- authors: Sourish Chaudhuri and Bhiksha Raj
+  title: Learning contextual relevance of audio segments using discriminative models
+    over AUD sequences
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6082335/
+  venue: 2011 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics
+    (WASPAA)
+  year: 2011
+- authors: Kenichi Kumatani and John McDonough and Bhiksha Raj
+  title: Block-wise incremental adaptation algorithm for maximum kurtosis beamforming
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6082336/
+  venue: 2011 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics
+    (WASPAA)
+  year: 2011
+- authors: John McDonough and Bhiksha Raj and Kenichi Kumatani
+  title: On the combination of voice prompt suppression with maximum kurtosis beamforming
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/6082294/
+  venue: 2011 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics
+    (WASPAA)
+  year: 2011
+- authors: Petros T Boufounos and Paris Smaragdis and Bhiksha Raj
+  title: Joint sparsity models for wideband array processing
+  type: 2
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8138/81380K/Joint-sparsity-models-for-wideband-array-processing/10.1117/12.893870.short
+  venue: Wavelets and Sparsity XIV
+  year: 2011
+- authors: Yu-Hsiang Bosco Chiu and Bhiksha Raj and Richard M Stern
+  title: Learning-based auditory encoding for robust speech recognition
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/6020747/
+  venue: IEEE transactions on audio, speech, and language processing
+  year: 2011
+- authors: "Jos\xE9 Port\xEAlo and Bhiksha Raj and Alberto Abad and Isabel Trancoso"
+  title: On the implementation of a secure musical database matching
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7074234/
+  venue: 2011 19th European Signal Processing Conference
+  year: 2011
+- authors: Manas A Pathak and Bhiksha Raj
+  title: Privacy Preserving Speaker Verification Using Adapted GMMs.
+  type: 2
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=77f78328a7c9dc21694a83e93cad1adec4315b1d
+  venue: Interspeech
+  year: 2011
+- authors: Bhiksha Raj and Rita Singh
+  title: Reconstructing noise-corrupted spectrographic components for robust speech
+    recognition
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-3-642-21317-5_6
+  venue: Interspeech
+  year: 2011
+- authors: Sourish Chaudhuri and Bhiksha Raj
+  title: A comparison of latent variable models for conversation analysis
+  type: 2
+  url: https://aclanthology.org/W11-2005.pdf
+  venue: Proceedings of the SIGDIAL 2011 Conference
+  year: 2011
+- authors: Kenichi Kumatani and John McDonough and Jill Fain Lehman and Bhiksha Raj
+  title: Channel selection based on multichannel cross-correlation coefficients for
+    distant speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5942398/
+  venue: 2011 Joint Workshop on Hands-free Speech Communication and Microphone Arrays
+  year: 2011
+- authors: Bhiksha Raj and Rita Singh and James Baker
+  title: A paired test for recognizer selection with untranscribed data
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5947648/
+  venue: 2011 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2011
+- authors: Kshitiz Kumar and Bhiksha Raj and Rita Singh and Richard M Stern
+  title: An iterative least-squares technique for dereverberation
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5947601/
+  venue: 2011 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2011
+- authors: Kshitiz Kumar and Rita Singh and Bhiksha Raj and Richard Stern
+  title: Gammatone sub-band magnitude-domain dereverberation for ASR
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5947380/
+  venue: 2011 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2011
+- authors: Manas Pathak and Shantanu Rane and Wei Sun and Bhiksha Raj
+  title: Privacy preserving probabilistic inference with hidden Markov models
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5947696/
+  venue: 2011 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  year: 2011
+- authors: Martin Heckmann and Bhiksha Raj and Paris Smaragdis
+  title: 'Speech Communication: Preface'
+  type: 1
+  url: https://experts.illinois.edu/en/publications/speech-communication-preface
+  venue: Speech Communication
+  year: 2011
+- authors: Martin Heckmann and Bhiksha Raj and Paris Smaragdis
+  title: Perceptual and Statistical Audition Preface
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=15757406340286068522&hl=en&oi=scholarr
+  venue: Speech Communication
+  year: 2011
+- authors: Sourish Chaudhuri and Mark Harvilla and Bhiksha Raj
+  title: Unsupervised Learning of Acoustic Unit Descriptors for Audio Content Representation
+    and Classification.
+  type: 2
+  url: https://www.isca-archive.org/interspeech_2011/chaudhuri11_interspeech.pdf
+  venue: Interspeech
+  year: 2011
+- authors: Manas A Pathak and Mehrbod Sharifi and Bhiksha Raj
+  title: Privacy preserving spam filtering
+  type: 1
+  url: https://arxiv.org/abs/1102.4021
+  venue: arXiv preprint arXiv:1102.4021
+  year: 2011
+- authors: Bhiksha Raj and Rita Singh
+  title: Design and implementation of speech recognition systems
+  type: 1
+  url: http://www.asr.cs.cmu.edu/spring2014/lectures/Intro.class1.pdf
+  venue: Carniege Mellon School of Computer Science
+  year: 2011
+- authors: Pulkit Agrawal and Mikesh Udani
+  title: The automatic assessment of knowledge integration processes in project teams
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=4658781428241424961&hl=en&oi=scholarr
+  venue: Long papers
+  year: 2011
+- authors: Bhiksha Ramakrishnan
+  title: System And Method For Acquiring Acoustic Signals Using Doppler Techniques
+  type: 1
+  url: https://ui.adsabs.harvard.edu/abs/2011ASAJ..129.2351R/abstract
+  venue: Acoustical Society of America Journal
+  year: 2011
+- authors: Bhiksha R. Ramakrishnan Kevin W. Wilson
+  title: Nonlinear Dimensionality Reduction of Spectrograms
+  type: 0
+  url: null
+  venue: Acoustical Society of America Journal
+  year: 2011
+- authors: Bhiksha R. Ramakrishnan Paris Smaragdis
+  title: Method for expanding audio signal bandwidth
+  type: 0
+  url: https://patents.google.com/patent/US8041577B2/en
+  venue: Acoustical Society of America Journal
+  year: 2011
+- authors: Bret A. Harsham Garrett Weinberg and Bhiksha Ramakrishnan and Bent Schmidt-Nielsen
+  title: Method for interacting with users of speech recognition systems
+  type: 0
+  url: https://patents.google.com/patent/US7917368B2/en
+  venue: Acoustical Society of America Journal
+  year: 2011
+- authors: Paris Smaragdis Kevin W. Wilson and Ajay Divakaran and Bhiksha Ramakrishnan
+  title: Denoising acoustic signals using constrained non-negative matrix factorization
+  type: 0
+  url: https://patents.google.com/patent/US8015003B2/en
+  venue: Acoustical Society of America Journal
+  year: 2011
+- authors: Paris Smaragdis Kevin W. Wilson and Ajay Divakaran and Bhiksha Ramakrishnan
+  title: Denoising acoustic signals using constrained non-negative matrix factorization
+  type: 0
+  url: null
+  venue: Acoustical Society of America Journal
+  year: 2011
+- authors: P Smaragdis and B Raj
+  title: Topic Molels for Signal Processing
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=5393580901942373879&hl=en&oi=scholarr
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2011
+- authors: John McDonough and Kenichi Kumatani and Bhiksha Raj and Jill Fain Lehman
+  title: A mutual information criterion for voice activity detection
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=3535717356424906270&hl=en&oi=scholarr
+  venue: Proc. Interspeech, submitted for publication
+  year: 2011
+- authors: Carolyn Rose Gahgene Gweon and Pulkit Agarwal and Mikesh Udani and Bhiksha
+    Raj
+  title: The Automatic Assessment of Knowledge Integration Processes in Project Teams
+  type: 1
+  url: null
+  venue: Proceedings of the 9th International Conference on Computer-Supported Collaborative
+    Learning CSCL 2011
+  year: 2011
+- authors: Bhiksha Raj and Paris Smaragdis
+  title: Perceptual and Statistical Audition
+  type: 0
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/bhiksha/SpeechComm.cfp.pdf
+  venue: Proceedings of the 9th International Conference on Computer-Supported Collaborative
+    Learning CSCL 2011
+  year: 2011
+- authors: B Bajibabu and Ronanki Srikanth and Sathya Adithya Thati and Bhiksha Raj
+    and B Yegnanarayana and Kishore Prahallad
+  title: A comparison of prosody modification using instants of significant excitation
+    and mel-cepstral vocoder
+  type: 1
+  url: https://www.academia.edu/download/81992733/2011_Conf_P009.pdf
+  venue: "Proceedings of the Centenary Conference on Electrical Engineering,(CEE\u2019\
+    11), Indian Institute of Science, Bangalore"
+  year: 2011
+- authors: Sourish Chaudhuri and Bhiksha Raj and Tony Ezzat
+  title: A Paradigm for Limited Vocabulary Speech Recognition Based on Redundant Spectro-Temporal
+    Feature Sets.
+  type: 1
+  url: https://www.isca-archive.org/interspeech_2011/chaudhuri11b_interspeech.pdf
+  venue: INTERSPEECH
+  year: 2011
+- authors: Bhiksha Raj and Rita Singh and Tuomas Virtanen
+  title: Phoneme-dependent NMF for speech enhancement in monaural mixtures
+  type: 2
+  url: https://homepages.tuni.fi/tuomas.virtanen/papers/phoneme_nmf.pdf
+  venue: Twelfth Annual Conference of the International Speech Communication Association
+  year: 2011
+- authors: Gautham J Mysore and Paris Smaragdis and Bhiksha Raj
+  title: Non-negative hidden Markov modeling of audio with application to source separation
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-3-642-15995-4_18
+  venue: Twelfth Annual Conference of the International Speech Communication Association
+  year: 2010
+- authors: Manas Pathak and Bhiksha Raj
+  title: Privacy preserving protocols for eigenvector computation
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-3-642-19896-0_10
+  venue: Twelfth Annual Conference of the International Speech Communication Association
+  year: 2010
+- authors: Manas A Pathak and Bhiksha Raj
+  title: Large margin multiclass Gaussian classification with differential privacy
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-3-642-19896-0_9
+  venue: Twelfth Annual Conference of the International Speech Communication Association
+  year: 2010
+- authors: Bhiksha Ramakrishnan and Paul H Dietz and Bent Schmidt-Nielsen
+  title: System and method for acquiring acoustic signals using doppler techniques
+  type: 0
+  url: https://patents.google.com/patent/US7792314B2/en
+  venue: Twelfth Annual Conference of the International Speech Communication Association
+  year: 2010
+- authors: Benjamin Lambert and Rita Singh and Bhiksha Raj
+  title: Creating a linguistic plausibility dataset with non-expert annotators.
+  type: 2
+  url: https://www.isca-archive.org/interspeech_2010/lambert10_interspeech.pdf
+  venue: INTERSPEECH
+  year: 2010
+- authors: Bhiksha Raj and Tuomas Virtanen and Sourish Chaudhuri and Rita Singh
+  title: Non-negative matrix factorization based compensation of music for automatic
+    speech recognition.
+  type: 2
+  url: https://www.isca-archive.org/interspeech_2010/raj10b_interspeech.pdf
+  venue: Interspeech
+  year: 2010
+- authors: Bhiksha Raj Ramakrishnan and Kaustubh Kalgaonkar
+  title: Ultrasonic Doppler System and Method for Gesture Recognition
+  type: 0
+  url: https://patents.google.com/patent/US20100202656A1/en
+  venue: Interspeech
+  year: 2010
+- authors: Kevin W Wilson and Bhiksha Raj
+  title: Spectrogram dimensionality reductionwith independence constraints
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5495308/
+  venue: 2010 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2010
+- authors: Arthur R Toth and Kaustubh Kalgaonkar and Bhiksha Raj and Tony Ezzat
+  title: Synthesizing speech from Doppler signals
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5495552/
+  venue: 2010 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2010
+- authors: Ziad Al Bawab and Bhiksha Raj and Richard M Stern
+  title: A hybrid physical and statistical dynamic articulatory framework incorporating
+    analysis-by-synthesis for improved phone classification
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5495696/
+  venue: 2010 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2010
+- authors: Sundararajan Srinivasan and Bhiksha Raj and Tony Ezzat
+  title: Ultrasonic sensing for robust speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5495039/
+  venue: 2010 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2010
+- authors: Rita Singh and Bhiksha Raj and Paris Smaragdis
+  title: Latent-variable decomposition based dereverberation of monaural and multi-channel
+    signals
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5495326/
+  venue: 2010 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2010
+- authors: "Arthur R Toth and Michael Wand and Szu\u2010Chen Stan Jou and Tanja Schultz\
+    \ and Bhiksha Raj and Kaustubh Kalgaonkar and Tony Ezzat"
+  title: Synthesizing speech from surface electromyography and acoustic Doppler sonar.
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/127/3_Supplement/1816/650519
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Bhiksha Raj Sundararajan Srinivasan and Tony Ezzat
+  title: Ultrasonic Sensing for Robust Speech Recognition
+  type: 0
+  url: https://www.researchgate.net/profile/Sundararajan-Srinivasan-2/publication/220733098_Ultrasonic_sensing_for_robust_speech_recognition/links/54f74b260cf28d6dec9e6bd3/Ultrasonic-sensing-for-robust-speech-recognition.pdf
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Lingyun Gu
+  title: Single-channel speech separation based on instantaneous frequency
+  type: 0
+  url: https://search.proquest.com/openview/ba7d11ae6e13ca83057a151f689a145e/1?pq-origsite=gscholar&cbl=18750
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Rahul Sarpeshkar Bhiksha Ramakrishnan and Bent Schmidt-Nielsen and Lorenzo
+    Turicchia
+  title: Method and system for FFT-based companding for automatic speech recognition
+  type: 0
+  url: https://patents.google.com/patent/US7672842B2/en
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Rahul Sarpeshkar Bhiksha Ramakrishnan and Bent Schmidt-Nielsen and Lorenzo
+    Turicchia
+  title: Method and system for FFT-based companding for automatic speech recognition
+  type: 0
+  url: null
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Rahul Sarpeshkar Bhiksha Ramakrishnan and Bent Schmidt-Nielsen and Lorenzo
+    Turicchia
+  title: Method and system for FFT-based companding for automatic speech recognition
+  type: 0
+  url: null
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Kaustubh Kalgaonkar Bhiksha Raj Ramakrishnan
+  title: Ultrasonic Doppler System and Method for Gesture Recognition
+  type: 0
+  url: null
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Kaustubh Kalgaonkar Bhiksha Raj Ramakrishnan
+  title: Ultrasonic Doppler System and Method for Gesture Recognition
+  type: 0
+  url: null
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Kaustubh Kalgaonkar Bhiksha Raj Ramakrishnan
+  title: Ultrasonic Doppler System and Method for Gesture Recognition
+  type: 0
+  url: null
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Paris Smaragdis Bhiksha Ramakrishnan
+  title: Constructing broad-band acoustic signals from lower-band acoustic signals
+  type: 0
+  url: https://patents.google.com/patent/US7698143B2/en
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Bhiksha Ramakrishnan
+  title: Method and system for identifying moving objects using acoustic signals
+  type: 0
+  url: https://patents.google.com/patent/US7821870B2/en
+  venue: The Journal of the Acoustical Society of America
+  year: 2010
+- authors: Rita Singh and Benjamin Lambert and Bhiksha Raj
+  title: The use of sense in unsupervised training of acoustic models for ASR systems
+  type: 2
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=93172421d35b72fa82acba13fbf6416b0c2f2ebc
+  venue: Eleventh Annual Conference of the International Speech Communication Association
+  year: 2010
+- authors: Bhiksha Raj and Kevin W Wilson and Alexander Krueger and Reinhold Haeb-Umbach
+  title: Ungrounded independent non-negative factor analysis.
+  type: 2
+  url: https://merl.com/publications/docs/TR2010-122.pdf
+  venue: Interspeech
+  year: 2010
+- authors: Evandro Gouvea and Tony Ezzat and Bhiksha Raj
+  title: Subword unit approaches for retrieval by voice
+  type: 1
+  url: https://www.academia.edu/download/30790515/TR2010-012.pdf
+  venue: SpokenQuery Workshop on Voice Search
+  year: 2010
+- authors: Manas Pathak and Shantanu Rane and Bhiksha Raj
+  title: Multiparty differential privacy via aggregation of locally trained classifiers
+  type: 1
+  url: https://proceedings.neurips.cc/paper/2010/hash/0d0fd7c6e093f7b804fa0150b875b868-Abstract.html
+  venue: Advances in neural information processing systems
+  year: 2010
+- authors: Yu-Hsiang Bosco Chiu and Bhiksha Raj and Richard M Stern
+  title: 'Towards fusion of feature extraction and acoustic model training: a top
+    down process for robust speech recognition.'
+  type: 2
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/is2009ChiuEtAl.pdf
+  venue: INTERSPEECH
+  year: 2009
+- authors: Ziad Al Bawab and Lorenzo Turicchia and Richard M Stern and Bhiksha Raj
+  title: Deriving vocal tract shapes from electromagnetic articulograph data via geometric
+    adaptation and matching.
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/is2009_ZiadAlBawabEtAl.pdf
+  venue: Interspeech
+  year: 2009
+- authors: Paris Smaragdis and Bhiksha Raj and Madhusudana Shashanka
+  title: Missing data imputation for spectral audio signals
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5306194/
+  venue: 2009 IEEE International Workshop on Machine Learning for Signal Processing
+  year: 2009
+- authors: Chanwoo Kim and Kshitiz Kumar and Bhiksha Raj and Richard M Stern
+  title: Signal separation for robust speech recognition based on phase difference
+    information obtained in the frequency domain.
+  type: 2
+  url: https://www.isca-archive.org/interspeech_2009/kim09e_interspeech.pdf
+  venue: INTERSPEECH
+  year: 2009
+- authors: Bhiksha Raj
+  title: Single-channel Speech Separation Based on Instantaneous Frequency
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=11294135880070562138&hl=en&oi=scholarr
+  venue: INTERSPEECH
+  year: 2009
+- authors: Kaustubh Kalgaonkar and Bhiksha Raj
+  title: One-handed gesture recognition using ultrasonic Doppler sonar
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4959977/
+  venue: 2009 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2009
+- authors: Dhananjay Bansal and Nishanth Nair and Rita Singh and Bhiksha Raj
+  title: A joint decoding algorithm for multiple-example-based addition of words to
+    a pronunciation lexicon
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4960578/
+  venue: 2009 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2009
+- authors: Bhiksha Raj and Rita Singh
+  title: 'Feature Computation: Representing the Speech Signal'
+  type: 1
+  url: http://www.cs.cmu.edu/~bhiksha/courses/yahoo2009/01-02.featurecomputation.pdf
+  venue: Signal
+  year: 2009
+- authors: Paris Smaragdis and Madhusudana Shashanka and Bhiksha Raj and Gautham J
+    Mysore
+  title: Probabilistic factorization of non-negative data with entropic co-occurrence
+    constraints
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-3-642-00599-2_42
+  venue: Signal
+  year: 2009
+- authors: Kaustubh Kalgaonkar and Bhiksha Raj
+  title: One-handed gesture recognition using ultrasonic sonar
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=1299686391950541397&hl=en&oi=scholarr
+  venue: Signal
+  year: 2009
+- authors: Peter P. Wolf and Joseph K. Woelfel and Bhiksha Ramakrishnan
+  title: Method and system for retrieving documents with spoken queries
+  type: 0
+  url: https://patents.google.com/patent/US7542966B2/en
+  venue: Signal
+  year: 2009
+- authors: Paris Smaragdis and Madhusudana Shashanka and Bhiksha Raj
+  title: Topic models for audio mixture analysis
+  type: 1
+  url: http://www.umiacs.umd.edu/~jbg/nips_tm_workshop/18.pdf
+  venue: 'Proc. of the NIPS workshop on applications for topic models: text and beyond'
+  year: 2009
+- authors: Benjamin E Lambert and Scott E Fahlman and Bhiksha Raj and Roni Rosenfeld
+    and Candy Sidner
+  title: A Knowledge-Based Architecture for using Semantics in Automatic Speech Recognition
+  type: 1
+  url: http://mlsp.cs.cmu.edu/publications/pdfs/Lambert_ThesisProposal.pdf
+  venue: Ph. D. thesis
+  year: 2009
+- authors: "Evandro B Gouv\xEAa and Bhiksha Raj"
+  title: Word particles applied to information retrieval
+  type: 2
+  url: https://link.springer.com/chapter/10.1007/978-3-642-00958-7_38
+  venue: 'Advances in Information Retrieval: 31th European Conference on IR Research,
+    ECIR 2009, Toulouse, France, April 6-9, 2009. Proceedings 31'
+  year: 2009
+- authors: Paris Smaragdis and Madhusudana Shashanka and Bhiksha Raj
+  title: A sparse non-parametric approach for single channel separation of known sounds
+  type: 1
+  url: https://proceedings.neurips.cc/paper_files/paper/2009/hash/9c3b1830513cc3b8fc4b76635d32e692-Abstract.html
+  venue: Advances in neural information processing systems
+  year: 2009
+- authors: Rita Singh and Bhiksha Raj
+  title: Discovery of temporal patterns in continuous nonrandom sound sequences.
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article-abstract/124/4_Supplement/2571/710584
+  venue: The Journal of the Acoustical Society of America
+  year: 2008
+- authors: Paris Smaragdis and Bhiksha Raj
+  title: Inferring missing spectral data.
+  type: 1
+  url: https://pubs.aip.org/asa/jasa/article/124/4_Supplement/2571/710541
+  venue: The Journal of the Acoustical Society of America
+  year: 2008
+- authors: Kevin W Wilson and Bhiksha Raj and Paris Smaragdis
+  title: Regularized non-negative matrix factorization with temporal dependencies
+    for speech denoising.
+  type: 2
+  url: https://www.merl.com/publications/docs/TR2008-075.pdf
+  venue: Interspeech
+  year: 2008
+- authors: Kaustubh Kalgaonkar and Bhiksha Raj
+  title: Recognizing talking faces from acoustic doppler reflections
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4813470/
+  venue: 2008 8th IEEE International Conference on Automatic Face & Gesture Recognition
+  year: 2008
+- authors: Bhiksha Ramakrishnan and Kaustubh Kalgaonkar
+  title: Ultrasonic Doppler sensor for speech-based user interface
+  type: 0
+  url: https://patents.google.com/patent/US7372770B2/en
+  venue: 2008 8th IEEE International Conference on Automatic Face & Gesture Recognition
+  year: 2008
+- authors: Madhusudana Shashanka and Bhiksha Raj and Paris Smaragdis
+  title: Probabilistic latent variable models as nonnegative factorizations
+  type: 1
+  url: https://www.hindawi.com/journals/cin/2008/947438/abs/
+  venue: Computational intelligence and neuroscience
+  year: 2008
+- authors: Ziad Al Bawab and Bhiksha Raj and Richard M Stern
+  title: Analysis-by-synthesis features for speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4518577/
+  venue: 2008 IEEE international conference on acoustics, speech and signal processing
+  year: 2008
+- authors: Kaustubh Kalgaonkar and Bhiksha Raj
+  title: Ultrasonic doppler sensor for speaker recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4518747/
+  venue: 2008 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2008
+- authors: Kevin W Wilson and Bhiksha Raj and Paris Smaragdis and Ajay Divakaran
+  title: Speech denoising using nonnegative matrix factorization with priors
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4518538/
+  venue: 2008 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2008
+- authors: Paris Smaragdis and Bhiksha Raj and Madhusudana Shashanka
+  title: Sparse and shift-invariant feature extraction from non-negative data
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4518048/
+  venue: 2008 IEEE International Conference on Acoustics, Speech and Signal Processing
+  year: 2008
+- authors: Paris Smaragdis and Madhusudana Shashanka and Bhiksha Raj
+  title: Probabilistic latent variable models as nonnegative factorizations
+  type: 1
+  url: https://experts.illinois.edu/en/publications/probabilistic-latent-variable-models-as-nonnegative-factorization
+  venue: Computational Intelligence and Neuroscience
+  year: 2008
+- authors: Kaustubh Kalgaonkar Bhiksha Ramakrishnan
+  title: Ultrasonic Doppler sensor for speech-based user interface
+  type: 0
+  url: https://patents.google.com/patent/US7372770B2/en
+  venue: Computational Intelligence and Neuroscience
+  year: 2008
+- authors: Paris Smaragdis and Bhiksha Ramakrishnan
+  title: Shift-invariant probabilistic latent component analysis
+  type: 0
+  url: https://www.researchgate.net/profile/Bhiksha-Raj/publication/228757357_Shift-invariant_probabilistic_latent_component_analysis/links/09e4150c20aeb63b6b000000/Shift-invariant-probabilistic-latent-component-analysis.pdf
+  venue: Computational Intelligence and Neuroscience
+  year: 2008
+- authors: Aarthi M. Reddy Bhiksha Ramakrishnan
+  title: Separating multiple audio signals recorded as a single mixed signal
+  type: 0
+  url: https://patents.google.com/patent/US7454333B2/en
+  venue: Computational Intelligence and Neuroscience
+  year: 2008
+- authors: Bent Schmidt-Nielsen and Bret Harsham and Bhiksha Raj and Clifton Forlines
+  title: Speech-based UI design for the automobile
+  type: 0
+  url: https://www.igi-global.com/chapter/speech-based-design-automobile/21834
+  venue: Computational Intelligence and Neuroscience
+  year: 2008
+- authors: Bhiksha Raj and Lorenzo Turicchia and Bent Schmidt-Nielsen and Rahul Sarpeshkar
+  title: An FFT-based companding front end for noise-robust automatic speech recognition
+  type: 1
+  url: https://link.springer.com/content/pdf/10.1155/2007/65420.pdf
+  venue: EURASIP Journal on Audio, Speech, and Music Processing
+  year: 2007
+- authors: Paris Smaragdis and Bhiksha Raj
+  title: Example-driven bandwidth expansion
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4393004/
+  venue: 2007 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics
+  year: 2007
+- authors: Kaustubh Kalgaonkar and Rongquiang Hu and Bhiksha Raj
+  title: Ultrasonic doppler sensor for voice activity detection
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/4303070/
+  venue: IEEE Signal Processing Letters
+  year: 2007
+- authors: Paris Smaragdis and Bhiksha Raj and Madhusudana Shashanka
+  title: Supervised and semi-supervised separation of sounds from single-channel mixtures
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/978-3-540-74494-8_52
+  venue: IEEE Signal Processing Letters
+  year: 2007
+- authors: Kaustubh Kalgaonkar and Bhiksha Raj
+  title: Acoustic doppler sonar for gait recogination
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4425281/
+  venue: 2007 IEEE Conference on Advanced Video and Signal Based Surveillance
+  year: 2007
+- authors: Aarthi M Reddy and Bhiksha Raj
+  title: Soft mask methods for single-channel speaker separation
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/4276763/
+  venue: IEEE Transactions on Audio, Speech, and Language Processing
+  year: 2007
+- authors: Yunbin Deng and Xiaokun Li and Chiman Kwan and B Raj and R Stern
+  title: Continuous feature adaptation for non-native speech recognition
+  type: 1
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8f81eac570a11af84e704c1c53364bb6ed17e236
+  venue: International Journal of Computer and Information Engineering
+  year: 2007
+- authors: Kaustubh Kalgaonkar and Paris Smaragdis and Bhiksha Raj
+  title: Sensor and data systems, audio-assisted cameras and acoustic Doppler sensors
+  type: 2
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b6d3c9000fa4cf3a68ac03ff24b5ccfa5348e66d
+  venue: 2007 IEEE Conference on Computer Vision and Pattern Recognition
+  year: 2007
+- authors: Bhiksha Raj and Rita Singh and Madhusudana Shashanka and Paris Smaragdis
+  title: "Bandwidth expansionwith a p\xF3lya urn model"
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4218171/
+  venue: 2007 IEEE International Conference on Acoustics, Speech and Signal Processing-ICASSP'07
+  year: 2007
+- authors: Madhusudana VS Shashanka and Bhiksha Raj and Paris Smaragdis
+  title: Sparse overcomplete decomposition for single channel speaker separation
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4217490/
+  venue: 2007 IEEE International Conference on Acoustics, Speech and Signal Processing-ICASSP'07
+  year: 2007
+- authors: Bhiksha Ramakrishnan Edward W. D. Whittaker
+  title: Compression of language model structures and word identifiers for automated
+    speech recognition systems
+  type: 0
+  url: https://patents.google.com/patent/US7171358B2/en
+  venue: 2007 IEEE International Conference on Acoustics, Speech and Signal Processing-ICASSP'07
+  year: 2007
+- authors: Bhiksha Ramakrishnan and Rita Singh
+  title: Classifier-based non-linear projection for continuous speech segmentation
+  type: 0
+  url: https://patents.google.com/patent/US7243063B2/en
+  venue: 2007 IEEE International Conference on Acoustics, Speech and Signal Processing-ICASSP'07
+  year: 2007
+- authors: Bhiksha Ramakrishnan Rita Singh
+  title: Classification in likelihood spaces
+  type: 0
+  url: https://patents.google.com/patent/US7305132B2/en
+  venue: 2007 IEEE International Conference on Acoustics, Speech and Signal Processing-ICASSP'07
+  year: 2007
+- authors: "Rita Singh and Evandro B Gouv\xEAa and Bhiksha Raj"
+  title: Probabilistic deduction of symbol mappings for extension of lexicons.
+  type: 2
+  url: https://www.academia.edu/download/30790546/symbol_paper_is2007.pdf
+  venue: INTERSPEECH
+  year: 2007
+- authors: Bhiksha Raj and Paris Smaragdis and Madhusudhana Shashanka and Rita Singh
+  title: Separating a foreground singer from background music
+  type: 1
+  url: https://paris.cs.illinois.edu/pubs/FRSM.pdf
+  venue: Proc. Int. Symp. Frontiers Res. Speech Music
+  year: 2007
+- authors: M Shashanka and B Raj and P Smaragdis
+  title: Probabilistic latent variable model for sparse decompositions of non-negative
+    data
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=5891267796780640656&hl=en&oi=scholarr
+  venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  year: 2007
+- authors: Madhusudana Shashanka and Bhiksha Raj and Paris Smaragdis
+  title: Sparse overcomplete latent variable decomposition of counts data
+  type: 1
+  url: https://proceedings.neurips.cc/paper_files/paper/2007/hash/83fa5a432ae55c253d0e60dbfa716723-Abstract.html
+  venue: Advances in neural information processing systems
+  year: 2007
+- authors: Kaustubh Kalgaonkar and Bhiksha Raj
+  title: An acoustic Doppler-based front end for hands free spoken user interfaces
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/4123386/
+  venue: 2006 IEEE Spoken Language Technology Workshop
+  year: 2006
+- authors: Paris Smaragdis and Bhiksha Raj and Madhusudana Shashanka
+  title: A probabilistic latent variable model for acoustic modeling
+  type: 1
+  url: https://www.merl.com/publications/docs/TR2006-121.pdf
+  venue: Advances in models for acoustic processing, NIPS
+  year: 2006
+- authors: Bhiksha Raj and Madhusudana VS Shashanka and Paris Smaragdis
+  title: Latent dirichlet decomposition for single channel speaker separation
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1661402/
+  venue: 2006 IEEE International Conference on Acoustics Speech and Signal Processing
+    Proceedings
+  year: 2006
+- authors: Paris Smaragdis and Madhusudana V Shashanka and Bhiksha Raj
+  title: Latent Dirichlet decomposition for single channel speaker separation
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=14243804158381055473&hl=en&oi=scholarr
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing,
+    Toulouse, France
+  year: 2006
+- authors: Rongqiang Hu
+  title: Multi-sensor noise suppression and bandwidth extension for enhancement of
+    speech
+  type: 0
+  url: https://search.proquest.com/openview/f32dc1b0c9df7ac30008f8a809f79f3b/1?pq-origsite=gscholar&cbl=18750&diss=y
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing,
+    Toulouse, France
+  year: 2006
+- authors: Garrett Weinberg and Bhiksha Raj and Kaustubh Kalgaonkar
+  title: Two New Techniques for Natural Spoken User Interfaces
+  type: 0
+  url: https://www.merl.com/publications/docs/TR2006-098.pdf
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing,
+    Toulouse, France
+  year: 2006
+- authors: Z Lj Arsenijevic and Y Bao and Z Barkay and N Bay and JI Bech and F Berruti
+    and AF Blandin and RL Boxman and C Briens and H Chang and FF Chen and G Cheng
+    and Y Cheng and C DellaCorte and H Dong and N-h Duong and M Eriksen and E Forssberg
+    and G Frenkel and BS Gardiner and RV Garic-Grulovic and P Godbole and O Goldstein
+    and MH Hancock and M He and C Huang and KJ Hwang and HD Jang and Y Jin and M Kamruddin
+    and F Kayihan and HC Kim and WB Kim and JP Klein and M Kolenbrander and M Kwapinska
+    and A Lange and Q Li and W Li and CL Lin and Y Liu and Y-f Liu and CY Lu and D-y
+    Lu and Y-n Lu and SY Lyu and J McMillan and MH Moys and FJ Muzzio and MS Nielsen
+    and R Nithya and P Pandey and N Parkansky and W Peukert and T-s Qian and Z Qian
+    and B Raj and S Reynolds and A Rivoire and CM Romo-Krfger and Yu Rosenberg and
+    V Rudolph and G Saage and M Saberian and R Sahoo and S-z Shi and Y Song and MK
+    Stanford and C Subero-Couroyer and E Tang and A Tordesillas and E Tsotsas and
+    R Turton and AK Tyagi and J Wang and Y Wang and Z Wang and F Wei and MY Wey and
+    C Xu and M Xu and Q Yin and AB Yu and V Zaspalis and X Zeng and J Zhang and M
+    Zhang and Q Zhang and D Zhou and HP Zhu and J Zhu
+  title: Ajikumar, PK, 145 Alterkop, B., 215 Arratia, PE, 202
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=7771825794030390253&hl=en&oi=scholarr
+  venue: Powder Technology
+  year: 2006
+- authors: Bhiksha Ramakrishnan Rita Singh
+  title: Tracking noise via dynamic systems with a continuum of states
+  type: 0
+  url: https://patents.google.com/patent/US7050954B2/en
+  venue: Powder Technology
+  year: 2006
+- authors: Yunbin Deng and Xiaokun Li and Chiman Kwan and Roger Xu and Bhiksha Raj
+    and Richard M Stern and David Williamson and Inc MERL
+  title: An integrated approach to improve speech recognition rate for non-native
+    speakers.
+  type: 2
+  url: https://www.academia.edu/download/55626194/2006-An_Integrated_Approach_to_Improve_Speech_Recognition_Rate_for_Non-Native_Speakers-deng_nonnative_is06.pdf
+  venue: INTERSPEECH
+  year: 2006
+- authors: Bhiksha Raj
+  title: Distributed speech recognition with codec parameters
+  type: 1
+  url: https://ui.adsabs.harvard.edu/abs/2006ASAJ..120.2413R/abstract
+  venue: Acoustical Society of America Journal
+  year: 2006
+- authors: Daniel PW Ellis and Bhiksha Raj and Judith C Brown and Malcolm Slaney and
+    Paris Smaragdis
+  title: Special section on statistical and perceptual audio processing
+  type: 0
+  url: https://academiccommons.columbia.edu/doi/10.7916/D83T9SVC
+  venue: Acoustical Society of America Journal
+  year: 2006
+- authors: Bhiksha Raj and Rita Singh and Paris Smaragdis and BRR Singh
+  title: Recognizing speech from simultaneous speakers.
+  type: 2
+  url: https://www.researchgate.net/profile/Bhiksha-Raj/publication/221482601_Recognizing_speech_from_simultaneous_speakers/links/09e4150c20aee346b8000000/Recognizing-speech-from-simultaneous-speakers.pdf
+  venue: INTERSPEECH
+  year: 2005
+- authors: Bhiksha Raj and Rita Singh
+  title: Reconstructing spectral vectors with uncertain spectrographic masks for robust
+    speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1566472/
+  venue: IEEE Workshop on Automatic Speech Recognition and Understanding, 2005.
+  year: 2005
+- authors: Rongqiang Hu and Bhiksha Raj
+  title: A robust voice activity detector using an acoustic Doppler radar
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1566497/
+  venue: IEEE Workshop on Automatic Speech Recognition and Understanding, 2005.
+  year: 2005
+- authors: Paris Smaragdis and Bhiksha Ramakrishnan
+  title: Surveillance system with acoustically augmented video monitoring
+  type: 0
+  url: https://patents.google.com/patent/US20050259149A1/en
+  venue: IEEE Workshop on Automatic Speech Recognition and Understanding, 2005.
+  year: 2005
+- authors: Bhiksha Raj and Paris Smaragdis
+  title: Latent variable decomposition of spectrograms for single channel speaker
+    separation
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1540157/
+  venue: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics,
+    2005.
+  year: 2005
+- authors: Bhiksha Raj and Richard M Stern
+  title: Missing-feature approaches in speech recognition
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/1511828/
+  venue: IEEE Signal Processing Magazine
+  year: 2005
+- authors: Clifton Forlines and Bent Schmidt-Nielsen and Bhiksha Raj and Kent Wittenburg
+    and Peter Wolf
+  title: A comparison between spoken queries and menu-based interfaces for in-car
+    digital music selection
+  type: 0
+  url: https://link.springer.com/chapter/10.1007/11555261_44
+  venue: IEEE Signal Processing Magazine
+  year: 2005
+- authors: Bhiksha Raj and Rita Singh
+  title: Feature compensation with secondary sensor measurements for robust speech
+    recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/7078377/
+  venue: 2005 13th European Signal Processing Conference
+  year: 2005
+- authors: Dhananjay Bansal and Bhiksha Raj and Paris Smaragdis
+  title: Bandwidth expansion of narrowband speech using non-negative matrix factorization.
+  type: 1
+  url: https://merl.com/publications/docs/TR2005-135.pdf
+  venue: INTERSPEECH
+  year: 2005
+- authors: Bhiksha Raj and Richard M Stern
+  title: Improving recognition accuracy in noise by using partial spectrographic information
+  type: 1
+  url: null
+  venue: IEEE Signal Processing Magazine
+  year: 2005
+- authors: Chiman Kwan and Xiaokun Li and Debang Lao and Yunbin Deng and Zhubing Ren
+    and Bhiksha Raj and Rita Singh and R Stern
+  title: Voice driven applications in non-stationary and chaotic environment
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1708609/
+  venue: 2005 IEEE International Conference on Robotics and Biomimetics-ROBIO
+  year: 2005
+- authors: Jethran Guinness and Bhiksha Raj and Bent Schmidt-Nielsen and Lorenzo Turicchia
+    and R Sarpeshkars
+  title: A companding front end for noise-robust automatic speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1415097/
+  venue: Proceedings.(ICASSP'05). IEEE International Conference on Acoustics, Speech,
+    and Signal Processing, 2005.
+  year: 2005
+- authors: B Raj and RM Stern
+  title: Missing-feature methods for robust automatic speech recognition
+  type: 0
+  url: https://www.sid.ir/paper/620323/en
+  venue: Proceedings.(ICASSP'05). IEEE International Conference on Acoustics, Speech,
+    and Signal Processing, 2005.
+  year: 2005
+- authors: Peter P. Wolf and Bhiksha Ramakrishnan
+  title: Method and system for retrieving documents with spoken queries
+  type: 0
+  url: https://patents.google.com/patent/US6877001B2/en
+  venue: Proceedings.(ICASSP'05). IEEE International Conference on Acoustics, Speech,
+    and Signal Processing, 2005.
+  year: 2005
+- authors: Bhiksha Raj and Michael Seltzer and Manuel Jesus Reyes-Gomez
+  title: Speech Recognizer Based Maximum Likelihood Beamforming
+  type: 0
+  url: https://link.springer.com/content/pdf/10.1007/0-387-22794-6_6.pdf
+  venue: Proceedings.(ICASSP'05). IEEE International Conference on Acoustics, Speech,
+    and Signal Processing, 2005.
+  year: 2005
+- authors: Peter Wolf and Joseph Woelfel and Jan C van Gemert and Bhiksha Raj and
+    David Wong
+  title: 'Spokenquery: an alternate approach to chosing items with speech.'
+  type: 2
+  url: https://www.academia.edu/download/67182462/Spokenquery_an_alternate_approach_to_cho20210505-19605-18m3sdr.pdf
+  venue: INTERSPEECH
+  year: 2004
+- authors: Aarthi M Reddy and Bhiksha Raj
+  title: A minimum mean squared error estimator for single channel speaker separation.
+  type: 1
+  url: https://www.isca-archive.org/interspeech_2004/reddy04_interspeech.pdf
+  venue: Interspeech
+  year: 2004
+- authors: Michael L Seltzer and Bhiksha Raj and Richard M Stern
+  title: A Bayesian classifier for spectrographic mask estimation for missing feature
+    speech recognition
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0167639304000688
+  venue: Speech Communication
+  year: 2004
+- authors: Bhiksha Raj and Michael L Seltzer and Richard M Stern
+  title: Reconstruction of missing features for robust speech recognition
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0167639304000627
+  venue: Speech communication
+  year: 2004
+- authors: Michael L Seltzer and Bhiksha Raj and Richard M Stern
+  title: Likelihood-maximizing beamforming for robust hands-free speech recognition
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/1323085/
+  venue: IEEE Transactions on speech and audio processing
+  year: 2004
+- authors: Rita Singh and Bhiksha Raj
+  title: Classification in likelihood spaces
+  type: 1
+  url: https://www.tandfonline.com/doi/abs/10.1198/004017004000000347
+  venue: Technometrics
+  year: 2004
+- authors: Bhiksha Raj and Rita Singh and Richard Stern
+  title: On tracking noise with linear dynamical system models
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1326148/
+  venue: 2004 IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 2004
+- authors: Willie Walker and Paul Lamere and Philip Kwok and Bhiksha Raj and Rita
+    Singh and Evandro Gouvea and Peter Wolf and Joe Woelfel
+  title: 'Sphinx-4: A flexible open source framework for speech recognition'
+  type: 0
+  url: http://www.cs.brandeis.edu/~cs136a/CS136a_docs/Sphinx_Sun_tr-2004-139.pdf
+  venue: 2004 IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 2004
+- authors: Willie Walker and Paul Lamere and Philip Kwok and Bhiksha Raj and Rita
+    Singh and Evandro Gouvea and Peter Wolf and Joe Woelfel
+  title: 'Sphinx-4: A Flexible Open Source Framework for Speech Recognition; SMLI
+    TR2004-0811; SUN Microsystems Inc'
+  type: 1
+  url: null
+  venue: Santa Clara, CA, USA
+  year: 2004
+- authors: W Walker and P Lamere and P Kwok and B Raj and R Singh and E Gouvea and
+    P Wolf and J Woelfel
+  title: 'Sphinx-4: A flexible open source framework for voice recognition'
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=6916489397335113478&hl=en&oi=scholarr
+  venue: Sun Microsystems, Inc. Mountain View, CA, USA
+  year: 2004
+- authors: Willie Walker and Paul Lamere and Philip Kwok and RS Bhiksha Raj and E
+    Gouvea and P Wolf and J Woelfel
+  title: "Sphinx-4: A \uFB02exible open source framework for speech recognition"
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=810919163164171223&hl=en&oi=scholarr
+  venue: Sun Microsystems, Inc, Tech. Rep. SMLI TR-2004-139
+  year: 2004
+- authors: Aarthi M Reddy and Bhiksha Raj
+  title: Soft mask estimation for single channel speaker separation
+  type: 2
+  url: https://www.isca-speech.org/archive_open/sapa_04/sap4_158.html
+  venue: ISCA Tutorial and Research Workshop (ITRW) on Statistical and Perceptual
+    Audio Processing
+  year: 2004
+- authors: Vijay Divi and Clifton Forlines and Jan Van Gemert and Bhiksha Raj and
+    Bent Schmidt-Nielsen and Kent Wittenburg and Joseph Woelfel and Fang-Fang Zhang
+  title: A speech-in list-out approach to spoken user interfaces
+  type: 2
+  url: https://aclanthology.org/N04-4029.pdf
+  venue: 'Proceedings of HLT-NAACL 2004: Short Papers'
+  year: 2004
+- authors: Regunathan Radhakrishan and Ziyou Xiong and Ajay Divakaran and Bhiksha
+    Raj
+  title: Investigation on effectiveness of mid-level feature representation for semantic
+    boundary detection in news video
+  type: 2
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5242/0000/Investigation-on-effectiveness-of-mid-level-feature-representation-for-semantic/10.1117/12.514397.short
+  venue: Internet Multimedia Management Systems IV
+  year: 2003
+- authors: Manuel J Reyes-Gomez and R Bhiksha and Daniel PW Ellis
+  title: Multi-channel source separation by beamforming trained with factorial hmms
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1285797/
+  venue: 2003 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics
+    (IEEE Cat. No. 03TH8684)
+  year: 2003
+- authors: Rita Singh and Manfred K Warmuth and Bhiksha Raj and Paul Lamere
+  title: Classification with free energy at raised temperatures.
+  type: 2
+  url: https://merl.com/publications/docs/TR2003-22.pdf
+  venue: INTERSPEECH
+  year: 2003
+- authors: "Paul Lamere and Philip Kwok and William Walker and Evandro B Gouv\xEA\
+    a and Rita Singh and Bhiksha Raj and Peter Wolf"
+  title: Design of the CMU sphinx-4 decoder.
+  type: 2
+  url: https://www.academia.edu/download/37059709/TR2003-110.pdf
+  venue: Interspeech
+  year: 2003
+- authors: Manuel J Reyes-Gomez and Bhiksha Raj and Daniel P. W. Ellis
+  title: Multi-channel source separation by factorial HMMs
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1198868/
+  venue: Acoustics, Speech, and Signal Processing, 2003. Proceedings.(ICASSP'03).
+    2003 IEEE International Conference on
+  year: 2003
+- authors: Paul Lamere and Philip Kwok and Evandro Gouvea and Bhiksha Raj and Rita
+    Singh and William Walker and Manfred Warmuth and Peter Wolf
+  title: The CMU SPHINX-4 speech recognition system
+  type: 1
+  url: https://www.academia.edu/download/30790465/sphinx4.pdf
+  venue: Ieee intl. conf. on acoustics, speech and signal processing (icassp 2003),
+    hong kong
+  year: 2003
+- authors: Bhiksha Raj and Edward WD Whittaker
+  title: Lossless compression of language model structure and word identifiers
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1198799/
+  venue: 2003 IEEE International Conference on Acoustics, Speech, and Signal Processing,
+    2003. Proceedings.(ICASSP'03).
+  year: 2003
+- authors: Rita Singh and Bhiksha Raj
+  title: Tracking noise via dynamical systems with a continuum of states
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1198801/
+  venue: 2003 IEEE International Conference on Acoustics, Speech, and Signal Processing,
+    2003. Proceedings.(ICASSP'03).
+  year: 2003
+- authors: Michael L Seltzer and Bhiksha Raj
+  title: Speech-recognizer-based filter optimization for microphone array processing
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/1182087/
+  venue: IEEE Signal Processing Letters
+  year: 2003
+- authors: LAMERE Paul
+  title: Design of the CMU sphinx-4 decoder
+  type: 1
+  url: https://cir.nii.ac.jp/crid/1572543025410769664
+  venue: Proc. of Eurospeech 2003
+  year: 2003
+- authors: Edward Whittaker Bhiksha Ramakrishnan
+  title: Lossless compression of ordered integer lists
+  type: 0
+  url: null
+  venue: Proc. of Eurospeech 2003
+  year: 2003
+- authors: Bhiksha Raj and Rita Singh
+  title: Classifier-based non-linear projection for adaptive endpointing of continuous
+    speech
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0885230802000281
+  venue: Computer Speech & Language
+  year: 2003
+- authors: "\u8352\u4E95\u517C\u79C0"
+  title: Mitsubishi Electric Research Laboratories
+  type: 1
+  url: https://www.jstage.jst.go.jp/article/isciesci/46/12/46_KJ00001013146/_article/-char/ja/
+  venue: "\u30B7\u30B9\u30C6\u30E0/\u5236\u5FA1/\u60C5\u5831"
+  year: 2002
+- authors: Peter Wolf and Bhiksha Raj
+  title: The MERL SpokenQuery information retrieval system a system for retrieving
+    pertinent documents from a spoken query
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1035591/
+  venue: Proceedings. IEEE International Conference on Multimedia and Expo
+  year: 2002
+- authors: Michael L Seltzer and Bhiksha Raj and Richard M Stern
+  title: Speech recognizer-based microphone array processing for robust hands-free
+    speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/5743884/
+  venue: 2002 IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 2002
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Automatic generation of subword units for speech recognition systems
+  type: 1
+  url: https://ieeexplore.ieee.org/abstract/document/985546/
+  venue: IEEE Transactions on Speech and Audio Processing
+  year: 2002
+- authors: D McDonald P Wolf and B Ramakrishnan
+  title: Key word and key phrase based speech recognizer for information retrieval
+    systems
+  type: 0
+  url: null
+  venue: IEEE Transactions on Speech and Audio Processing
+  year: 2002
+- authors: Peter Wolf and Bhiksha Ramakrishnan and David McDonald
+  title: Key word and key phrase based speech recognizer for information retrieval
+    systems
+  type: 0
+  url: https://patents.google.com/patent/US20030204399A1/en
+  venue: IEEE Transactions on Speech and Audio Processing
+  year: 2002
+- authors: Bhiksha Raj and Joshua Migdal and Rita Singh
+  title: Distributed speech recognition with codec parameters
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/1034604/
+  venue: IEEE Workshop on Automatic Speech Recognition and Understanding, 2001. ASRU'01.
+  year: 2001
+- authors: Edward WD Whittaker and Bhiksha Raj
+  title: Quantization-based language model compression.
+  type: 2
+  url: https://merl.com/publications/docs/TR2001-41.pdf
+  venue: INTERSPEECH
+  year: 2001
+- authors: Michael L Seltzer and Bhiksha Raj
+  title: Calibration of microphone arrays for improved speech recognition.
+  type: 2
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=bae5d921b26776a512dbd1bb1008bdd9a01026ed
+  venue: INTERSPEECH
+  year: 2001
+- authors: Bhiksha Raj and Michael L Seltzer and Richard M Stern
+  title: 'Robust speech recognition: the case for restoring missing features'
+  type: 1
+  url: https://www.academia.edu/download/30790473/TR2001-40.pdf
+  venue: Proc. of Eurospeech, The Workshop on Consistent and Reliable Acoustic Cues,
+    Aalborg, Denmark
+  year: 2001
+- authors: Pedro J Moreno and Beth Logan and Bhiksha Raj
+  title: A boosting approach for confidence scoring.
+  type: 2
+  url: https://www.merl.com/publications/docs/TR2001-44.pdf
+  venue: Interspeech
+  year: 2001
+- authors: Rita Singh and Michael L Seltzer and Bhiksha Raj and Richard M Stern
+  title: 'Speech in noisy environments: robust automatic segmentation, feature extraction,
+    and hypothesis combination'
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/940820/
+  venue: 2001 IEEE International Conference on Acoustics, Speech, and Signal Processing.
+    Proceedings (Cat. No. 01CH37221)
+  year: 2001
+- authors: Edward WD Whittaker and Bhiksha Raj
+  title: Comparison of width-wise and length-wise language model compression.
+  type: 2
+  url: https://merl.com/publications/docs/TR2001-42.pdf
+  venue: INTERSPEECH
+  year: 2001
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Structured redefinition of sound units by merging and splitting for improved
+    speech recognition.
+  type: 2
+  url: https://www.researchgate.net/profile/Bhiksha-Raj/publication/221486091_Structured_redefinition_of_sound_units_by_merging_and_splitting_for_improved_speech_recognition/links/09e4150c20aed9423a000000/Structured-redefinition-of-sound-units-by-merging-and-splitting-for-improved-speech-recognition.pdf
+  venue: INTERSPEECH
+  year: 2000
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Automatic generation of phone sets and lexical transcriptions
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/862076/
+  venue: 2000 IEEE International Conference on Acoustics, Speech, and Signal Processing.
+    Proceedings (Cat. No. 00CH37100)
+  year: 2000
+- authors: Mosur Ravishankar and Rita Singh and Bhiksha Raj and Richard M Stern
+  title: The 1999 CMU 10x real time broadcast news transcription system
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=4042769824778657853&hl=en&oi=scholarr
+  venue: Proc. darpa workshop on automatic transcription of broadcast news
+  year: 2000
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Structured redefinition of sound units for improved speech recognition
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=14011215937849927808&hl=en&oi=scholarr
+  venue: Proceedings of the 6th International Conference on Speech and Language Processing
+  year: 2000
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Structured Redefinition of Sound Units by Merging and Splitting
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=6809610725594282320&hl=en&oi=scholarr
+  venue: Proceedings of the International Conference on Acoustics, Speech and Signal
+    Processing
+  year: 2000
+- authors: Bhiksha Raj Ramakrishnan
+  title: Reconstruction of incomplete spectrograms for robust speech recognition
+  type: 0
+  url: https://search.proquest.com/openview/47eafd4bf4b2d233922dce6be391b263/1?pq-origsite=gscholar&cbl=18750&diss=y
+  venue: Proceedings of the International Conference on Acoustics, Speech and Signal
+    Processing
+  year: 2000
+- authors: Michael L Seltzer and Bhiksha Raj and Richard M Stern
+  title: Classifier-based mask estimation for missing feature methods of robust speech
+    recognition
+  type: 2
+  url: https://www.cs.cmu.edu/~robust/Papers/icslp2k_seltzer.pdf
+  venue: Sixth International Conference on Spoken Language Processing
+  year: 2000
+- authors: Bhiksha Raj and Michael L Seltzer and Richard M Stern
+  title: Reconstruction of damaged spectrographic features for robust speech recognition
+  type: 2
+  url: http://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/icslp2k_raj.pdf
+  venue: Sixth International Conference on Spoken Language Processing
+  year: 2000
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Domain adduced state tying for cross-domain acoustic modelling.
+  type: 2
+  url: http://www.cs.cmu.edu/~robust/Papers/eurospeech99.pdf
+  venue: EUROSPEECH
+  year: 1999
+- authors: Rita Singh and Bhiksha Raj and Richard M Stern
+  title: Automatic clustering and generation of contextual questions for tied states
+    in hidden Markov models
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/758076/
+  venue: 1999 IEEE International Conference on Acoustics, Speech, and Signal Processing.
+    Proceedings. ICASSP99 (Cat. No. 99CH36258)
+  year: 1999
+- authors: Bhiksha Raj and Rita Singh and Richard M Stern
+  title: Inference of missing spectrographic features for robust speech recognition.
+  type: 1
+  url: https://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/icslp98r.pdf
+  venue: ICSLP
+  year: 1998
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: 'Data-driven environmental compensation for speech recognition: A unified
+    approach'
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S0167639398000259
+  venue: Speech Communication
+  year: 1998
+- authors: Kristie Seymore and Ronald Rosenfeld and S Chen and Maxine Eskenazi and
+    E Gouvea and Raj Reddy and Mosur Ravishankar and Matthew Siegler and Richard Stern
+    and Eric Thayer
+  title: The 1997 CMU Sphinx-3 English broadcast news transcription system
+  type: 0
+  url: https://kilthub.cmu.edu/articles/conference_contribution/The_1997_CMU_Sphinx-3_English_Broadcast_News_Transcription_System/21709784
+  venue: Speech Communication
+  year: 1998
+- authors: Pedro JMoreno and Bhiksha Raj RichardM
+  title: Stem. Data-driven environmental compensation for speechrecognition
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=13605039510118985496&hl=en&oi=scholarr
+  venue: Speech Communication
+  year: 1998
+- authors: Bhiksha Raj and Vipul N Parikh and Richard M Stern
+  title: The effects of background music on speech recognition accuracy
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/596069/
+  venue: 1997 IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 1997
+- authors: "Bhiksha Raj and Evandro Gouv\xEAa and Richard M Stern"
+  title: Cepstral compensation using statistical linearization
+  type: 1
+  url: http://www.cs.cmu.edu/~egouvea/paper/etrw97.pdf
+  venue: Proc. of the ESCA Tutorial and Research Workshop on Robust Speech Recognition
+    for Unknown Communication Channels, Pont-au-Mousson, France
+  year: 1997
+- authors: Richard M Stern and Bhiksha Raj and Pedro J Moreno
+  title: Compensation for environmental degradation in automatic speech recognition
+  type: 0
+  url: https://www.academia.edu/download/107534278/rms_etrw97.pdf
+  venue: Proc. of the ESCA Tutorial and Research Workshop on Robust Speech Recognition
+    for Unknown Communication Channels, Pont-au-Mousson, France
+  year: 1997
+- authors: Matthew A Siegler and Uday Jain and Bhiksha Raj and Richard M Stern
+  title: Automatic segmentation, classification and clustering of broadcast news audio
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs/user/msiegler/www/publish/DARPA/darpa97-H4seg.pdf
+  venue: Proc. DARPA speech recognition workshop
+  year: 1997
+- authors: Vipul N Parikh and Bhiksha Raj and Richard M Stern
+  title: Speaker adaptation and environmental compensation for the 1996 broadcast
+    news task
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=9491713474603270456&hl=en&oi=scholarr
+  venue: Proc. DARPA Speech Recognition Workshop
+  year: 1997
+- authors: Paul Placeway and Scotte Chen and Maxine Eskenazi and Uday Jain and Vipul
+    Parikh and Bhiksha Raj and Mosur Ravishankar and Roni Rosenfeld and Kristie Seymore
+    and M Siegler and R Stern and Eric Thayer
+  title: The 1996 hub-4 sphinx-3 system
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs/user/roni/WWW/papers/Placewayetal97.pdf
+  venue: Proc. DARPA Speech recognition workshop
+  year: 1997
+- authors: R Stern V Parikh and B Raj
+  title: Speaker adaptation and environmental compensation for the 1996 broadcast
+    news task
+  type: 0
+  url: null
+  venue: Proc. DARPA Speech recognition workshop
+  year: 1997
+- authors: "Bhiksha Raj and Evandro B Gouv\xEAa and Richard M Stern"
+  title: Vector polynomial approximations for robust speech recognition
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/etrw97-vps.pdf
+  venue: Proc. of the ESCA Workshop ETRW on Speech Processing in Adverse Conditions
+  year: 1997
+- authors: "Bhiksha Raj and Evandro Bacci Gouv\xEAa and Pedro J Moreno and Richard\
+    \ M Stern"
+  title: Cepstral compensation by polynomial approximation for environment-independent
+    speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/607277/
+  venue: Proceeding of Fourth International Conference on Spoken Language Processing.
+    ICSLP'96
+  year: 1996
+- authors: Richard M Stern and Pedro J Moreno and Bhiksha Raj
+  title: Compensation for speech recognition in degraded acoustical environments
+  type: 0
+  url: https://pubs.aip.org/asa/jasa/article-abstract/100/4_Supplement/2792/563197
+  venue: Proceeding of Fourth International Conference on Spoken Language Processing.
+    ICSLP'96
+  year: 1996
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: A vector Taylor series approach for environment-independent speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/543225/
+  venue: 1996 IEEE international conference on acoustics, speech, and signal processing
+    conference proceedings
+  year: 1996
+- authors: "Evandro B Gouv\xEAa and Pedro J Moreno and Bhiksha Raj and Thomas M Sullivan\
+    \ and Richard M Stern"
+  title: 'Adaptation and compensation: Approaches to microphone and speaker independence
+    in automatic speech recognition'
+  type: 1
+  url: https://www.academia.edu/download/30790499/darpa96_H3.pdf
+  venue: Proc. DARPA Speech Recognition Workshop
+  year: 1996
+- authors: Uday Jain and Matthew A Siegler and Sam-Joo Doh and Evandro Gouvea and
+    Juan Huerta and Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: Recognition of continuous broadcast news with multiple unknown speakers and
+    environments
+  type: 1
+  url: https://www.academia.edu/download/38450893/darpa96-H4.pdf
+  venue: Proc. DARPA Speech Recognition Workshop
+  year: 1996
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: A unified approach for robust speech recognition.
+  type: 2
+  url: https://www.cs.cmu.edu/afs/cs/user/robust/www/Papers/euro95.pdf
+  venue: EUROSPEECH
+  year: 1995
+- authors: Pedro J Moreno and Bhiksha Raj and Evandro Gouvea and Richard M Stern
+  title: Multivariate-Gaussian-based cepstral normalization for robust speech recognition
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/479292/
+  venue: 1995 International Conference on Acoustics, Speech, and Signal Processing
+  year: 1995
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: Approaches to Environment Compensation in Automatic Speech Recognition
+  type: 1
+  url: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/robust/www/Papers/ica95.pdf
+  venue: "Proceeding of the 1995 International Conference in Acoustics ICA\u201995"
+  year: 1995
+- authors: Pedro J Moreno and Uday Jain and Bhiksha Raj and Richard M Stern
+  title: Approaches to microphone independence in Automatic Speech Recognition
+  type: 1
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=71f169ce029da28e35e2c198c7727105b2c3e91b
+  venue: Proceedings of the ARPA Spoken Language Systems Technology Workshop
+  year: 1995
+- authors: Anurag Kumar and Parul Agarwal and Pranay Dighe and SS Bhiksha Raj and
+    K Prahallad
+  title: Speech Emotion Recognition by AdaBoost Algorithm and Feature Selection for
+    Support Vector Machines
+  type: 1
+  url: https://www.academia.edu/download/30790565/report_iptse.pdf
+  venue: KishorePrahalladSpeech Emotion Recognition by AdaBoost Algorithm and Feature
+    Selection for Support VectorMachines", published on IITKanpur, India Website
+  year: 1970
+- authors: Xiang Li and Kai Qiu and Jinglu Wang and Xiaohao Xu and Rita Singh and
+    Kashu Yamazaki and Hao Chen and Xiaonan Huang and Bhiksha Raj
+  title: 'R 2-Bench: Benchmarking the Robustness of Referring Perception Models under
+    Perturbations'
+  type: 0
+  url: https://www.researchgate.net/profile/Kashu-Yamazaki/publication/379820321_R2_-Bench_Benchmarking_the_Robustness_of_Referring_Perception_Models_under_Perturbations/links/661c582766ba7e2359d9717d/R2-Bench-Benchmarking-the-Robustness-of-Referring-Perception-Models-under-Perturbations.pdf
+  venue: KishorePrahalladSpeech Emotion Recognition by AdaBoost Algorithm and Feature
+    Selection for Support VectorMachines", published on IITKanpur, India Website
+  year: null
+- authors: Thanh-Dat Truong and Hoang-Quan Nguyen and Bhiksha Raj and Khoa Luu
+  title: 1 Proof of Eqn.(6)
+  type: 0
+  url: https://proceedings.neurips.cc/paper_files/paper/2023/file/ce3cf998b7f59271e80ce03fb74a7115-Supplemental-Conference.pdf
+  venue: KishorePrahalladSpeech Emotion Recognition by AdaBoost Algorithm and Feature
+    Selection for Support VectorMachines", published on IITKanpur, India Website
+  year: null
+- authors: Thanh-Dat Truong and Ngan Le and Bhiksha Raj and Jackson Cothren and Khoa
+    Luu
+  title: 1CVIU Lab, University of Arkansas, USA 2Carnegie Mellon University, USA 3Dep.
+    of Geosciences, University of Arkansas, USA
+  type: 0
+  url: http://openaccess.thecvf.com/content/CVPR2023/supplemental/Truong_FREDOM_Fairness_Domain_CVPR_2023_supplemental.pdf
+  venue: KishorePrahalladSpeech Emotion Recognition by AdaBoost Algorithm and Feature
+    Selection for Support VectorMachines", published on IITKanpur, India Website
+  year: null
+- authors: "Alexandre Anthonioz Haraksim and Christophe Champod and Martin Olsen and\
+    \ John Ellingsgaard and Christophe Busch and Bhiksha Raj and Roman Jarina Polack\xFD\
+    \ and Michal Chmul\xEDk and Albert Ali Salah Balc\u0131 and Andreas Uhl Kauba"
+  title: 2016 4th International Workshop on Biometrics and Forensics (IWBF)
+  type: 0
+  url: null
+  venue: KishorePrahalladSpeech Emotion Recognition by AdaBoost Algorithm and Feature
+    Selection for Support VectorMachines", published on IITKanpur, India Website
+  year: null
+- authors: Bhiksha Raj
+  title: What is a neaural network--IEEE Distinguished Lecture
+  type: 1
+  url: https://ken.ieice.org/ken/paper/20180614s14q/eng/
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: Hu Kai and Shao Jie and Xiangyang Xue and Bhiksha Raj
+  title: Is normalization indispensable for training deep neural networks?
+  type: 0
+  url: https://www.andrew.cmu.edu/user/kaihu/Is_normalization_indispensable_for_training_deep_neural_networks.pdf
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: B Naveen Raj and T Pearson
+  title: 'TRANSLINGUATOR: Web based Application for Speech Translation of Human Voices
+    Based on Voice Forensics without Changing the Source Voice'
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=16274649672641438822&hl=en&oi=scholarr
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: "Edward J Walsh\u2013Edward"
+  title: "1pABa2\u2013COULD WIND TURBINE NOISE INTERFERE WITH GREATER PRAIRIE CHICKEN\
+    \ (Tympanuchus cupido pinnatus) COURTSHIP? Edward J. Walsh, JoAnn McGee"
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=3934227938100376585&hl=en&oi=scholarr
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: Bhiksha Raj
+  title: Music Information Retrieval 2004, 2005, and 2006
+  type: 0
+  url: https://ieeexplore.ieee.org/abstract/document/6789571/
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: Aarthi M Reddy and Bhiksha Raj
+  title: ISCA Tutorial and Research Workshop on Statistical and Perceptual Audio Processing
+  type: 0
+  url: null
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: John McDonough and Michael S Brandstein and Bhiksha Raj and Michael Mandel
+    and Thierry Bertin-Mahieux and Shigeki Sagayama
+  title: General Chair Dan Ellis Columbia University New York, NY, USA dpwe@ ee. columbia.
+    edu
+  type: 0
+  url: https://ieeexplore.ieee.org/abstract/document/6082350/
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: Tuomas Virtanen and Rita Singh and Bhiksha Raj
+  title: Techniques for N
+  type: 0
+  url: null
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: Kenichi Kumatani and John McDonough and Bhiksha Raj
+  title: TOWARDS ONLINE MAXIMUM KURTOSIS BEAMFORMING
+  type: 0
+  url: http://mlsp.cs.cmu.edu/people/johnmcd/docs/max-kurtosis.pdf
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: Chanwoo Kim and Khistiz Kumar and Bhiksha Raj and Richard M Stern
+  title: Suppression of Slowly-Varying Components and Offset of Power Contour for
+    Robust Speech Recognition
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=2402820625654785549&hl=en&oi=scholarr
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: B Ramakrishnan and M R Gomez
+  title: Multi-channel transcription-based speaker separation
+  type: 0
+  url: null
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: Paris Smaragdis and Bhiksha Raj and VS Madhusudana
+  title: Shashanka. Sparse and shift-invariant feature extraction from non-negative
+    data
+  type: 0
+  url: null
+  venue: IEICE Technical Report; IEICE Tech. Rep.
+  year: null
+- authors: Aarthi M Reddy and Bhiksha Raj
+  title: Soft Mask Estimation for Single Channel Speaker Separation, 2004
+  type: 1
+  url: https://scholar.google.com/scholar?cluster=1277414251425365236&hl=en&oi=scholarr
+  venue: ISCA Tutorial and Research Workshop on Statistical and Perceptual Audio Processing
+  year: null
+- authors: Pedro J Moreno and Bhiksha Raj and Evandro Gouvea and Richard M Stern
+  title: Multivariate-Gaussian-Based Cepstral Normalization for Robust Speech Recognition.
+    Department of Electrical and Computer Engineering & School of Computer Science
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=10702119679028221742&hl=en&oi=scholarr
+  venue: ISCA Tutorial and Research Workshop on Statistical and Perceptual Audio Processing
+  year: null
+- authors: A Siegler Matthew and Uday Jain and Bhiksha Raj and Ricahrd M Stern
+  title: Automatic segmentation, classification and clustering of broadcast news audio
+  type: 1
+  url: null
+  venue: Proc. of the Speech Recognition Workshop
+  year: null
+- authors: BHIKSHA RAJ and RITA SINGH
+  title: "SMARAGDIS,(2005):\u201CRecognizing speech from simultaneous speakers\u201D"
+  type: 0
+  url: null
+  venue: Proc. of the Speech Recognition Workshop
+  year: null
+- authors: Bhiksha Raj
+  title: Hidden Markov Models for Speech R iti R iti Recognition
+  type: 0
+  url: http://asr.cs.cmu.edu/spring2010/class.24feb/Lec.24feb2010.pdf
+  venue: Proc. of the Speech Recognition Workshop
+  year: null
+- authors: Bhiksha Raj and Rita Singh
+  title: FEATURE COMPENSATION WITH SECONDARY SENSOR MEASUREMENTS FOR ROBUST SPEECH
+    RECOGNITION (ThuAmPO4)
+  type: 0
+  url: https://www.eurasip.org/Proceedings/Eusipco/Eusipco2005/defevent/html/abstract/a1833.htm
+  venue: Proc. of the Speech Recognition Workshop
+  year: null
+- authors: Alan W Black and Bhiksha Raj and Richard Stern and H Timothy Bunnell
+  title: IMPROVING THE ACOUSTIC MODELS OF SPEECH SYNTHESIS
+  type: 0
+  url: http://www.cs.cmu.edu/~pmuthuku/publications/proposal/Proposal.pdf
+  venue: Proc. of the Speech Recognition Workshop
+  year: null
+- authors: Shubhranshu Barnwal and Kamal Sahni and Rita Singh and Bhiksha Raj
+  title: SPECTROGRAPHIC SEAM PATTERNS FOR WORD SPOTTING
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=9319227716897018941&hl=en&oi=scholarr
+  venue: Proc. of the Speech Recognition Workshop
+  year: null
+- authors: Antonio Juarez and Bhiksha Raj and Rita Singh
+  title: Semi-supervised context-aware discovery of unknown audio concepts
+  type: 0
+  url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2c45e2459ee2a6e2a6062a108f35e9d9910f2c26
+  venue: Proc. of the Speech Recognition Workshop
+  year: null
+- authors: Bhiksha Raj and Kaustubh Kalgaonkar and Chris Harrison and Paul Dietz
+  title: Properties and Applications of Ultrasonic Doppler Sensing in Human-Computer
+    Interaction
+  type: 0
+  url: https://www.academia.edu/download/30790530/p-0613-3264.pdf
+  venue: Proc. of the Speech Recognition Workshop
+  year: null
+- authors: Murium Iqbal and Robert Xiao and Benjamin Shih and Chris Harrison and Bhiksha
+    Raj
+  title: 'Hand Input: High-Resolution Skin Localization'
+  type: 0
+  url: https://www.academia.edu/download/30790552/18797_finalreport_IEEE_Format.pdf
+  venue: Proc. of the Speech Recognition Workshop
+  year: null
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: ENVIRONMENT-INDEPENDENT SPEECH RECOGNITION
+  type: 0
+  url: https://scholar.google.com/scholar?cluster=18100017451978097908&hl=en&oi=scholarr
+  venue: Proc. of the Speech Recognition Workshop
+  year: null
+- authors: Pedro J Moreno and Bhiksha Raj and Richard M Stern
+  title: COMPENSATION OF HMM STATISTICS FOR NOISE AND CHANNEL ROBUSTNESS
+  type: 0
+  url: https://www.cs.cmu.edu/~robust/Papers/pjm.euro95.ps
+  venue: Proc. of the Speech Recognition Workshop
+  year: null
+- authors: Gahgene Gweon and Pulkit Agrawal and Nitish Srivastava and Shantanu Agrawal
+    and Abhilash Jindal and Marietta Sionti and Bhiksha Raj and Carolyn Rose
+  title: "Automatic assessment of student \u201Creasoning\u201D processes in face-to-face\
+    \ interactions using speech data"
+  type: 0
+  url: http://www.cs.utoronto.ca/~nitish/iitk_page/airus/its2010_submission_58.pdf
+  venue: Proc. of the Speech Recognition Workshop
+  year: null

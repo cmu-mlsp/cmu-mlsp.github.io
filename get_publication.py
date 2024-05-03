@@ -11,7 +11,10 @@ if __name__ == "__main__":
     publications = []
     for pub in data:
         title = pub["bib"]["title"]
-        authors = pub["bib"]["author"]
+        try:
+            authors = pub["bib"]["author"]
+        except:
+            continue
         try:
             year = pub["bib"]["pub_year"]
         except:
@@ -37,5 +40,5 @@ if __name__ == "__main__":
         })
     
     # save the publication data into a yaml file
-    with open("_data/publist.yaml", "w") as f:
+    with open("_data/publist.yml", "w") as f:
         yaml.dump(publications, f)
