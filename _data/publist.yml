@@ -2680,7 +2680,7 @@
   venue: arXiv preprint arXiv:2402.09585
   year: 2024
 - authors: Soham Deshmukh and Benjamin Elizalde and Rita Singh and Huaming Wang
-  title: 🐧Pengi: An audio language model for audio tasks
+  title: Pengi: An audio language model for audio tasks
   type: 1
   url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/3a2e5889b4bbef997ddb13b55d5acf77-Abstract-Conference.html
   venue: Advances in Neural Information Processing Systems
@@ -2926,7 +2926,7 @@
     Processing (ICASSP)
   year: 2023
 - authors: Benjamin Elizalde and Soham Deshmukh and Mahmoud Al Ismail and Huaming Wang
-  title: 👏 CLAP: learning audio concepts from natural language supervision
+  title: CLAP: learning audio concepts from natural language supervision
   type: 2
   url: https://ieeexplore.ieee.org/abstract/document/10095889
   venue: ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal
