@@ -2679,6 +2679,12 @@
   url: https://arxiv.org/abs/2402.09585
   venue: arXiv preprint arXiv:2402.09585
   year: 2024
+- authors: Soham Deshmukh and Benjamin Elizalde and Rita Singh and Huaming Wang
+  title: 🐧Pengi: An audio language model for audio tasks
+  type: 1
+  url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/3a2e5889b4bbef997ddb13b55d5acf77-Abstract-Conference.html
+  venue: Advances in Neural Information Processing Systems
+  year: 2024
 - authors: Shentong Mo and Bhiksha Raj
   title: Weakly-Supervised Audio-Visual Segmentation
   type: 1
@@ -2740,6 +2746,12 @@
   url: https://arxiv.org/abs/2401.06806
   venue: arXiv preprint arXiv:2401.06806
   year: 2024
+- authors: Soham Deshmukh and Benjamin Elizalde and Huaming Wang
+  title: 'Audio Retrieval with WavText5K and CLAP Training'
+  type: 2
+  url: https://arxiv.org/abs/2209.14275
+  venue: Interspeech 2023
+  year: 2023
 - authors: Roshan Sharma and William Chen and Takatomo Kano and Ruchira Sharma and
     Siddhant Arora and Shinji Watanabe and Atsunori Ogawa and Marc Delcroix and Rita
     Singh and Bhiksha Raj
@@ -2910,6 +2922,13 @@
   title: An Approach to Ontological Learning from Weak Labels
   type: 2
   url: https://ieeexplore.ieee.org/abstract/document/10097025/
+  venue: ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2023
+- authors: Benjamin Elizalde and Soham Deshmukh and Mahmoud Al Ismail and Huaming Wang
+  title: 👏 CLAP: learning audio concepts from natural language supervision
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/10095889
   venue: ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal
     Processing (ICASSP)
   year: 2023
@@ -3251,6 +3270,20 @@
   url: https://ieeexplore.ieee.org/abstract/document/9632782/
   venue: 2021 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics
     (WASPAA)
+  year: 2021
+- authors: Soham Deshmukh and Mahmoud Al Ismail and Rita Singh
+  title: Interpreting glottal flow dynamics for detecting covid-19 from voice
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9414230/
+  venue: ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
+  year: 2021
+- authors: Mahmoud Al Ismail and Soham Deshmukh and Rita Singh
+  title: Detection of COVID-19 through the analysis of vocal fold oscillations
+  type: 2
+  url: https://ieeexplore.ieee.org/abstract/document/9414230/
+  venue: ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal
+    Processing (ICASSP)
   year: 2021
 - authors: Joana Correia and Francisco Teixeira and Catarina Botelho and Isabel Trancoso
     and Bhiksha Raj
