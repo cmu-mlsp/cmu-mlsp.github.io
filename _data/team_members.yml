@@ -93,6 +93,11 @@
   name: Sunghwan Baek
   photo: sunghwan.png
   url: 
+- group: 2
+  info: Speech and Audio
+  name: Satvik Dixit
+  photo: satvik.jpg
+  url: https://satvik-dixit.github.io/
 - group: 3
   info: Quantum Computing
   name: Thomas Cantalapiedra
