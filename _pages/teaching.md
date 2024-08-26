@@ -24,6 +24,7 @@ We present voice recognition systems through the perspective of a novice. Beginn
 
 #### 11-763 [Structured Prediction for Language and Other Discrete Data](https://structuredprediction11763.github.io/structuredprediction.github.io/)
 
+#### 11-775 Large-Scale Multimedia Analysis
 
 #### 11-785 / 11-485 Introduction to Deep Learning
 In this course we will learn about the basics of deep neural networks, and their applications to various AI tasks. By the end of the course, it is expected that students will have significant familiarity with the subject, and to be able to apply to them to a variety of tasks. They will also be positioned to understand much of the current literature on the topic and extend their knowledge through further study.
