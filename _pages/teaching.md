@@ -24,7 +24,8 @@ We present voice recognition systems through the perspective of a novice. Beginn
 
 #### 11-763 [Structured Prediction for Language and Other Discrete Data](https://structuredprediction11763.github.io/structuredprediction.github.io/)
 
-#### 11-775 [Large-Scale Multimedia Analysis](cmu-mlsp.github.io/11-775/)
+#### 11-775 [Large-Scale Multimedia Analysis](https://cmu-mlsp.github.io/11-775/)
+Can a robot watch Youtube to learn about the world? What makes us laugh? How to bake a cake? Why is Kim Kardashian famous? Large-scale multi-media is an incomparable window into our world, with thousands of hours of data available on almost every aspect of our everyday life. The analysis of such data is a unique opportunity to perform deep multi-modal analysis that goes beyond image or video retrieval, speech to text, or other existing tasks.
 
 #### 11-785 / 11-485 Introduction to Deep Learning
 In this course we will learn about the basics of deep neural networks, and their applications to various AI tasks. By the end of the course, it is expected that students will have significant familiarity with the subject, and to be able to apply to them to a variety of tasks. They will also be positioned to understand much of the current literature on the topic and extend their knowledge through further study.
