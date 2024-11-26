@@ -2630,6 +2630,13 @@
   year: 2024
 - authors: Soham Deshmukh and Benjamin Elizalde and Dimitra Emmanouilidou and Bhiksha
     Raj and Rita Singh and Huaming Wang
+  title: 'Audio entailment: Assessing deductive reasoning for audio understanding'
+  type: 1
+  url: https://arxiv.org/abs/2407.18062
+  venue: arXiv preprint arXiv:2407.18062
+  year: 2024
+- authors: Soham Deshmukh and Benjamin Elizalde and Dimitra Emmanouilidou and Bhiksha
+    Raj and Rita Singh and Huaming Wang
   title: Training audio captioning models without audio
   type: 2
   url: https://ieeexplore.ieee.org/abstract/document/10448115/
@@ -2673,11 +2680,17 @@
   url: https://arxiv.org/abs/2402.10427
   venue: arXiv preprint arXiv:2402.10427
   year: 2024
+- authors: Hazim Bukhari and Soham Deshmukh and Hira Dhamyal and Bhiksha Raj and Rita Singh
+  title: 'SELM: Enhancing Speech Emotion Recognition for Out-of-Domain Scenarios'
+  type: 1
+  url: https://www.isca-archive.org/interspeech_2024/bukhari24_interspeech.html
+  venue: INTERSPEECH 2024
+  year: 2024
 - authors: Soham Deshmukh and Rita Singh and Bhiksha Raj
   title: Domain Adaptation for Contrastive Audio-Language Models
   type: 1
-  url: https://arxiv.org/abs/2402.09585
-  venue: arXiv preprint arXiv:2402.09585
+  url: https://www.isca-archive.org/interspeech_2024/deshmukh24_interspeech.html
+  venue: INTERSPEECH 2024
   year: 2024
 - authors: Soham Deshmukh and Benjamin Elizalde and Rita Singh and Huaming Wang
   title: '🐧 Pengi: An audio language model for audio tasks'
@@ -2735,8 +2748,8 @@
     and Mahmoud Al Ismail and Rita Singh and Bhiksha Raj and Huaming Wang
   title: 'PAM: Prompting Audio-Language Models for Audio Quality Assessment'
   type: 1
-  url: https://arxiv.org/abs/2402.00282
-  venue: arXiv preprint arXiv:2402.00282
+  url: https://www.isca-archive.org/interspeech_2024/deshmukh24b_interspeech.html
+  venue: INTERSPEECH 2024
   year: 2024
 - authors: Jee-weon Jung and Roshan Sharma and William Chen and Bhiksha Raj and Shinji
     Watanabe
@@ -3362,7 +3375,7 @@
   url: null
   venue: Interspeech 2021
   year: 2021
-- authors: Rita Singh Soham Deshmukh and Bhiksha Raj
+- authors: Soham Deshmukh and Rita Singh and Bhiksha Raj
   title: Improving Weakly Supervised Sound Event Detection with Self-Supervised Auxiliary
     Tasks
   type: 2
