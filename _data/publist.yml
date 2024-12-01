@@ -2601,8 +2601,19 @@
     Information Optimization
   type: 2
   url: https://ieeexplore.ieee.org/abstract/document/10446846/
-  venue: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal
-    Processing (ICASSP)
+  venue: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+  year: 2024
+- authors: Satvik Dixit and Soham Deshmukh and Bhiksha Raj
+  title: MACE: Leveraging Audio for Evaluating Audio Captioning Systems
+  type: 1
+  url: https://arxiv.org/abs/2411.00321
+  venue: arXiv preprint arXiv:2411.00321
+  year: 2024
+- authors: Satvik Dixit and Massa Baali and Rita Singh and Bhiksha Raj
+  title: Improving Speaker Representations Using Contrastive Losses on Multi-scale Features
+  type: 1
+  url: https://arxiv.org/abs/2410.05037
+  venue: arXiv preprint arXiv:2410.05037
   year: 2024
 - authors: Hira Dhamyal and Benjamin Elizalde and Soham Deshmukh and Huaming Wang
     and Bhiksha Raj and Rita Singh
