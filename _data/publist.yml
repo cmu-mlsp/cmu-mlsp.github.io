@@ -2596,6 +2596,13 @@
   url: https://www.sciencedirect.com/science/article/pii/S088523082400024X
   venue: Computer Speech & Language
   year: 2024
+- authors: Fan Yang and Muqiao Yang and Xiang Li and Yuxuan Wu and Zhiyuan Zhao and
+    Bhiksha Raj and Rita Singh
+  title: A closer look at reinforcement learning-based automatic speech recognition
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S088523082400024X
+  venue: Computer Speech & Language
+  year: 2024
 - authors: Muqiao Yang and Umberto Cappellazzo and Xiang Li and Bhiksha Raj
   title: Improving Continual Learning of Acoustic Scene Classification via Mutual
     Information Optimization
@@ -2650,6 +2657,12 @@
   venue: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal
     Processing (ICASSP)
   year: 2024
+- authors: Kai Hu, Weichen Yu, Tianjun Yao, Xiang Li, Wenhe Liu, Lijun Yu, Yining Li, Kai Chen, Zhiqiang Shen, Matt Fredrikson
+  title: Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization
+  type: 1
+  url: https://arxiv.org/abs/2405.09113
+  venue: NeurIPS 2024
+  year: 2024
 - authors: Hao Chen and Jindong Wang and Zihan Wang and Ran Tao and Hongxin Wei and
     Xing Xie and Masashi Sugiyama and Bhiksha Raj
   title: Learning with Noisy Foundation Models
@@ -2657,13 +2670,31 @@
   url: https://arxiv.org/abs/2403.06869
   venue: arXiv preprint arXiv:2403.06869
   year: 2024
+- authors: Xiang Li, Hao Chen, Kai Qiu, Jason Kuen, Jiuxiang Gu, Bhiksha Raj, Zhe Lin
+  title: ImageFolder: Autoregressive Image Generation with Folded Tokens
+  type: 1
+  url: https://arxiv.org/abs/2410.01756
+  venue: Arxiv
+  year: 2024
+- authors: Xiang Li, Hao Chen, Kai Qiu, Jason Kuen, Jiuxiang Gu, Bhiksha Raj, Zhe Lin
+  title: ControlVAR: Exploring Controllable Visual Autoregressive Modeling
+  type: 1
+  url: https://arxiv.org/abs/2406.09750
+  venue: Arxiv
+  year: 2024
+- authors: Kai Qiu, Xiang Li, Hao Chen, Jie Sun, Jinglu Wang, Zhe Lin, Marios Savvides, Bhiksha Raj
+  title: Efficient Autoregressive Audio Modeling via Next-Scale Prediction
+  type: 1
+  url: https://arxiv.org/pdf/2408.09027
+  venue: Arxiv
+  year: 2024
 - authors: Xiang Li and Kai Qiu and Jinglu Wang and Xiaohao Xu and Rita Singh and
     Kashu Yamazak and Hao Chen and Xiaonan Huang and Bhiksha Raj
   title: '-Bench: Benchmarking the Robustness of Referring Perception Models under
     Perturbations'
   type: 1
   url: https://arxiv.org/abs/2403.04924
-  venue: arXiv preprint arXiv:2403.04924
+  venue: ECCV 2024
   year: 2024
 - authors: Zhaorun Chen and Zhuokai Zhao and Zhihong Zhu and Ruiqi Zhang and Xiang
     Li and Bhiksha Raj and Huaxiu Yao
@@ -2671,7 +2702,7 @@
     Controllable Question Decomposition'
   type: 1
   url: https://arxiv.org/abs/2402.11452
-  venue: arXiv preprint arXiv:2402.11452
+  venue: NAACL
   year: 2024
 - authors: Muqiao Yang and Xiang Li and Umberto Cappellazzo and Shinji Watanabe and
     Bhiksha Raj
