@@ -2640,8 +2640,14 @@
   title: 'Audio entailment: Assessing deductive reasoning for audio understanding'
   type: 1
   url: https://arxiv.org/abs/2407.18062
-  venue: arXiv preprint arXiv:2407.18062
-  year: 2024
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence, AAAI 2025 (oral)
+  year: 2025
+- authors: Satvik Dixit and Soham Deshmukh and Bhiksha Raj
+  title: 'MACE: Leveraging Audio for Evaluating Audio Captioning Systems'
+  type: 1
+  url: https://arxiv.org/abs/2411.00321
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), SALMA Workshop,2025
+  year: 2025
 - authors: Soham Deshmukh and Benjamin Elizalde and Dimitra Emmanouilidou and Bhiksha
     Raj and Rita Singh and Huaming Wang
   title: Training audio captioning models without audio
