@@ -2596,6 +2596,13 @@
   url: https://www.sciencedirect.com/science/article/pii/S088523082400024X
   venue: Computer Speech & Language
   year: 2024
+- authors: Fan Yang and Muqiao Yang and Xiang Li and Yuxuan Wu and Zhiyuan Zhao and
+    Bhiksha Raj and Rita Singh
+  title: A closer look at reinforcement learning-based automatic speech recognition
+  type: 1
+  url: https://www.sciencedirect.com/science/article/pii/S088523082400024X
+  venue: Computer Speech & Language
+  year: 2024
 - authors: Muqiao Yang and Umberto Cappellazzo and Xiang Li and Bhiksha Raj
   title: Improving Continual Learning of Acoustic Scene Classification via Mutual
     Information Optimization
@@ -2630,6 +2637,19 @@
   year: 2024
 - authors: Soham Deshmukh and Benjamin Elizalde and Dimitra Emmanouilidou and Bhiksha
     Raj and Rita Singh and Huaming Wang
+  title: 'Audio entailment: Assessing deductive reasoning for audio understanding'
+  type: 1
+  url: https://arxiv.org/abs/2407.18062
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence, AAAI 2025 (oral)
+  year: 2025
+- authors: Satvik Dixit and Soham Deshmukh and Bhiksha Raj
+  title: 'MACE: Leveraging Audio for Evaluating Audio Captioning Systems'
+  type: 1
+  url: https://arxiv.org/abs/2411.00321
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), SALMA Workshop,2025
+  year: 2025
+- authors: Soham Deshmukh and Benjamin Elizalde and Dimitra Emmanouilidou and Bhiksha
+    Raj and Rita Singh and Huaming Wang
   title: Training audio captioning models without audio
   type: 2
   url: https://ieeexplore.ieee.org/abstract/document/10448115/
@@ -2643,6 +2663,12 @@
   venue: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal
     Processing (ICASSP)
   year: 2024
+- authors: Kai Hu, Weichen Yu, Tianjun Yao, Xiang Li, Wenhe Liu, Lijun Yu, Yining Li, Kai Chen, Zhiqiang Shen, Matt Fredrikson
+  title: Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization
+  type: 1
+  url: https://arxiv.org/abs/2405.09113
+  venue: NeurIPS 2024
+  year: 2024
 - authors: Hao Chen and Jindong Wang and Zihan Wang and Ran Tao and Hongxin Wei and
     Xing Xie and Masashi Sugiyama and Bhiksha Raj
   title: Learning with Noisy Foundation Models
@@ -2650,13 +2676,31 @@
   url: https://arxiv.org/abs/2403.06869
   venue: arXiv preprint arXiv:2403.06869
   year: 2024
+- authors: Xiang Li, Hao Chen, Kai Qiu, Jason Kuen, Jiuxiang Gu, Bhiksha Raj, Zhe Lin
+  title: ImageFolder: Autoregressive Image Generation with Folded Tokens
+  type: 1
+  url: https://arxiv.org/abs/2410.01756
+  venue: Arxiv
+  year: 2024
+- authors: Xiang Li, Hao Chen, Kai Qiu, Jason Kuen, Jiuxiang Gu, Bhiksha Raj, Zhe Lin
+  title: ControlVAR: Exploring Controllable Visual Autoregressive Modeling
+  type: 1
+  url: https://arxiv.org/abs/2406.09750
+  venue: Arxiv
+  year: 2024
+- authors: Kai Qiu, Xiang Li, Hao Chen, Jie Sun, Jinglu Wang, Zhe Lin, Marios Savvides, Bhiksha Raj
+  title: Efficient Autoregressive Audio Modeling via Next-Scale Prediction
+  type: 1
+  url: https://arxiv.org/pdf/2408.09027
+  venue: Arxiv
+  year: 2024
 - authors: Xiang Li and Kai Qiu and Jinglu Wang and Xiaohao Xu and Rita Singh and
     Kashu Yamazak and Hao Chen and Xiaonan Huang and Bhiksha Raj
   title: '-Bench: Benchmarking the Robustness of Referring Perception Models under
     Perturbations'
   type: 1
   url: https://arxiv.org/abs/2403.04924
-  venue: arXiv preprint arXiv:2403.04924
+  venue: ECCV 2024
   year: 2024
 - authors: Zhaorun Chen and Zhuokai Zhao and Zhihong Zhu and Ruiqi Zhang and Xiang
     Li and Bhiksha Raj and Huaxiu Yao
@@ -2664,7 +2708,7 @@
     Controllable Question Decomposition'
   type: 1
   url: https://arxiv.org/abs/2402.11452
-  venue: arXiv preprint arXiv:2402.11452
+  venue: NAACL
   year: 2024
 - authors: Muqiao Yang and Xiang Li and Umberto Cappellazzo and Shinji Watanabe and
     Bhiksha Raj
@@ -2673,11 +2717,17 @@
   url: https://arxiv.org/abs/2402.10427
   venue: arXiv preprint arXiv:2402.10427
   year: 2024
+- authors: Hazim Bukhari and Soham Deshmukh and Hira Dhamyal and Bhiksha Raj and Rita Singh
+  title: 'SELM: Enhancing Speech Emotion Recognition for Out-of-Domain Scenarios'
+  type: 1
+  url: https://www.isca-archive.org/interspeech_2024/bukhari24_interspeech.html
+  venue: INTERSPEECH 2024
+  year: 2024
 - authors: Soham Deshmukh and Rita Singh and Bhiksha Raj
   title: Domain Adaptation for Contrastive Audio-Language Models
   type: 1
-  url: https://arxiv.org/abs/2402.09585
-  venue: arXiv preprint arXiv:2402.09585
+  url: https://www.isca-archive.org/interspeech_2024/deshmukh24_interspeech.html
+  venue: INTERSPEECH 2024
   year: 2024
 - authors: Soham Deshmukh and Benjamin Elizalde and Rita Singh and Huaming Wang
   title: '🐧 Pengi: An audio language model for audio tasks'
@@ -2735,8 +2785,8 @@
     and Mahmoud Al Ismail and Rita Singh and Bhiksha Raj and Huaming Wang
   title: 'PAM: Prompting Audio-Language Models for Audio Quality Assessment'
   type: 1
-  url: https://arxiv.org/abs/2402.00282
-  venue: arXiv preprint arXiv:2402.00282
+  url: https://www.isca-archive.org/interspeech_2024/deshmukh24b_interspeech.html
+  venue: INTERSPEECH 2024
   year: 2024
 - authors: Jee-weon Jung and Roshan Sharma and William Chen and Bhiksha Raj and Shinji
     Watanabe
@@ -3362,7 +3412,7 @@
   url: null
   venue: Interspeech 2021
   year: 2021
-- authors: Rita Singh Soham Deshmukh and Bhiksha Raj
+- authors: Soham Deshmukh and Rita Singh and Bhiksha Raj
   title: Improving Weakly Supervised Sound Event Detection with Self-Supervised Auxiliary
     Tasks
   type: 2

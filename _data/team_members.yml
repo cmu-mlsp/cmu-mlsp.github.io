@@ -7,7 +7,7 @@
   info: Professor
   name: Rita Singh
   photo: ritasingh.png
-  url: http://ayesha.cs.cmu.edu/mlsp/people/rsingh/
+  url: https://www.cs.cmu.edu/~rsingh/
 - group: 0
   info: Professor
   name: Richard Stern
@@ -19,7 +19,7 @@
   photo: kashu_yamazaki.jpg
   url: https://kashu7100.github.io/
 - group: 8
-  info: Google
+  info: Google DeepMind
   name: Muqiao Yang
   photo: MuqiaoYang.png
   url: https://muqiaoy.github.io/
@@ -28,13 +28,13 @@
   name: Ahmed Shah
   photo: ahmed.jpg
   url: 
-- group: 1
-  info: Weakly supervised audio
+- group: 8
+  info: Accenture
   name: Ankit Shah
   photo: ankit.png
   url: https://ankitshah009.github.io/
-- group: 1
-  info: Speech
+- group: 8
+  info: Apple
   name: Hira Dhamyal
   photo: hira.jpg
   url: https://www.linkedin.com/in/hiradhamyal/
@@ -43,8 +43,8 @@
   name: Joseph Konan
   photo: joseph.jpg
   url: https://www.linkedin.com/in/josephkonan/
-- group: 1
-  info: Active Learning, Speech
+- group: 8
+  info: Probity
   name: Mark Lindsey
   photo: mark.jpg
   url: https://www.linkedin.com/in/mark-lindsey-636503135/
@@ -54,15 +54,15 @@
   photo: xiangli.jpg
   url: https://lxa9867.github.io/
 - group: 1
-  info: Noisy learning, Vision
-  name: Hao Chen
-  photo: haoc.jpg
-  url: https://www.linkedin.com/in/haochen97/
-- group: 1
-  info: Audio, Speech
+  info: Audio and Speech processing
   name: Soham Deshmukh
   photo: soham.jpg
   url: https://soham97.github.io/
+- group: 1
+  info: Noisy learning, Vision
+  name: Hao Chen
+  photo: haoc.jpg
+  url: https://scholar.google.com/citations?user=tktqkhwAAAAJ&hl=en
 - group: 1
   info: Speech
   name: Massa Baali
@@ -82,7 +82,7 @@
   info: Speech Synthesis and Dialog Understanding
   name: Dareen Alharti
   photo: dareen.png
-  url: 
+  url: https://dareenharthi.github.io/
 - group: 2
   info: Speech Enhancement
   name: Shuo Han
@@ -114,7 +114,7 @@
   photo: raymond.png
   url: https://scholar.google.com/citations?user=adOGS2AAAAAJ&hl=en
 - group: 8
-  info: Google
+  info: Google DeepMind
   name: Roshan Sharma
   photo: roshan.jpg
   url: https://roshansh-cmu.github.io/
