@@ -2677,13 +2677,13 @@
   venue: arXiv preprint arXiv:2403.06869
   year: 2024
 - authors: Xiang Li, Hao Chen, Kai Qiu, Jason Kuen, Jiuxiang Gu, Bhiksha Raj, Zhe Lin
-  title: ImageFolder: Autoregressive Image Generation with Folded Tokens
+  title: "ImageFolder: Autoregressive Image Generation with Folded Tokens"
   type: 1
   url: https://arxiv.org/abs/2410.01756
   venue: Arxiv
   year: 2024
 - authors: Xiang Li, Hao Chen, Kai Qiu, Jason Kuen, Jiuxiang Gu, Bhiksha Raj, Zhe Lin
-  title: ControlVAR: Exploring Controllable Visual Autoregressive Modeling
+  title: "ControlVAR: Exploring Controllable Visual Autoregressive Modeling"
   type: 1
   url: https://arxiv.org/abs/2406.09750
   venue: Arxiv
