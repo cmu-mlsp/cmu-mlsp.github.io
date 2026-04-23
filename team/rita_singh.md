@@ -58,8 +58,15 @@ computing** applied to machine learning.
 
 ### Books
 
-- *Profiling Humans from their Voice* — Rita Singh, Springer, 2019.
-- *Techniques for Noise Robustness in Automatic Speech Recognition* — Tuomas Virtanen, Rita Singh, Bhiksha Raj (Eds.), Wiley, 2012.
+- [*Profiling Humans from their Voice*](https://doi.org/10.1007/978-981-13-8403-5) —
+  Rita Singh, Springer Singapore, 2019. ISBN 978-981-13-8402-8 (print) /
+  978-981-13-8403-5 (eBook). Also available on
+  [Springer](https://link.springer.com/book/10.1007/978-981-13-8403-5) and
+  [Amazon](https://www.amazon.com/Profiling-Humans-their-Voice-Singh/dp/9811384029/).
+- [*Techniques for Noise Robustness in Automatic Speech Recognition*](https://doi.org/10.1002/9781118392683) —
+  Tuomas Virtanen, Rita Singh, Bhiksha Raj (Eds.), Wiley, 2012.
+  ISBN 978-1-119-97088-0 (print) / 978-1-118-39268-3 (online). Also on
+  [Wiley Online Library](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118392683).
 
 ### Contact
 

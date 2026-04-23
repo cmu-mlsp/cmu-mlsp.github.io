@@ -33,10 +33,10 @@ layout: default
 		<div class="smallhead">
 			Personal Website
 		</div>
-		<div class="pad-left note">
+		<div class="pad-left note" style="overflow-wrap: anywhere; word-break: break-word;">
 			<div class="smallspacer"></div>
 			<i class="fa fa-university"></i>
-			<a class="off" href="{{ member.web }}">{{ member.web }}</a>
+			<a class="off" href="{{ member.web }}">{{ member.web | split: "//" | last | split: "/" | first }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
